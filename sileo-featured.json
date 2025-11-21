@@ -1,0 +1,13 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "title": "Carbridge",
+            "package": "com.999.carbridge13-rootless",
+            "url": "https://bvnrepo.999.github.io/icon/carplay.png"
+         
+        }
+    ]
+}
