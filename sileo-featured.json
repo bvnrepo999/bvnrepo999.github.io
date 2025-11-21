@@ -7,6 +7,10 @@
             "title": "Carbridge",
             "package": "com.999.carbridge13-rootless",
             "url": "https://bvnrepo.999.github.io/icon/carplay.png"
+        {
+            "title": "Carbridge",
+            "package": "com.999.ytlite",
+            "url": "https://bvnrepo.999.github.io/icon/youtube.png"
          
         }
     ]
