@@ -17,3 +17,20 @@ Author: dvntm
 Depiction: http://bvnsupport.github.io/infodeb/Html/YTLite.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/YTLite.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
+Package: com.999.carbridge13-rootless
+Name: CarBridge VH(Rootless)
+Version: 2.0.15K
+Architecture: iphoneos-arm64
+Installed-Size: 7344
+Section: Tweaks
+Maintainer: leftyfl1p
+Author: leftyfl1p
+Depends: mobilesubstrate
+Conflicts: com.ioscreatix.carbridge, com.leftyfl1p.carbridgeprovidershield
+Filename: debs/com.999.carbridge13-rootless_2.0.15K_iphoneos-arm64.deb
+Size: 3040100
+MD5sum: 536bb6eae6c402fc29c9f6030f638b7e
+SHA1: fe8a716ac42d20173a9387984449086c8cbb4fab
+SHA256: ec389df284577f9bba76428b97fed02ef3aed4106154ea3638ce2cefec4b01b3
+Description: CarBridge allows CarPlay to launch any app!
