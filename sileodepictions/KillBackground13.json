@@ -1,0 +1,135 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://bvnrepo999.github.io/features/kill.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"text": "Nhóm trò chuyện Tele BVN Repo",
+"action": "https://t.me/repobvn",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnrepo999.github.io/infodeb/KillBackground13/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"KillBackground13\n\n- Vuốt xuống để mở đa nhiệm hoặc dùng nút Kill để đóng tất cả ứng dụng.\n\n- Tuỳ chọn:\n\n- Nút đóng ứng dụng\n\n- Xác nhận đóng ứng dụng bằng cách vuốt xuống\n\n- Tắt đóng ứng dụng đang phát nhạc\n\n- Loại trừ ứng dụng\n\n- Chuyển đổi bằng thao tác nhấn giữ trong danh sách trắng\n\n- Tự động đóng đa nhiệm\n\n- Ẩn tên ứng dụng\n\n- Nút ở trung tâm điều khiển (yêu cầu CCSupport)\n\n- Nhấn giữ trong trung tâm điều khiển để chạy URL scheme \n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Tải xuống ỨD**](https://apps.apple.com/vn/app/swiftgram-telegram-mod-client/id6471879502?l=vi) - Nhấn vào đây nè\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"ichitaso"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweak"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"123 KB "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"22/11/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 13.0 đến 18.2"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by BVN999",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### 1.1.2\n\nSửa lỗi"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by BVN999",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
