@@ -1,22 +1,16 @@
 {
 "minVersion":"0.4",
-"headerImage":"https://bvnrepo999.github.io/icon/kill.png",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
 "views":[
 {
-"text": "Nhóm trò chuyện Tele BVN Repo",
-"action": "https://t.me/repobvn",
-"openExternal": 1,
-"class": "DepictionButtonView"
-},
-{
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnrepo999.github.io/infodeb/KillBackground13/Screenshots/1.png",
+"url":"https://bvnrepo999.github.io/infodeb/Foodie/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -24,7 +18,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"KillBackground13\n\n- Vuốt xuống để mở đa nhiệm hoặc dùng nút Kill để đóng tất cả ứng dụng.\n\n- Tuỳ chọn:\n\n- Nút đóng ứng dụng\n\n- Xác nhận đóng ứng dụng bằng cách vuốt xuống\n\n- Tắt đóng ứng dụng đang phát nhạc\n\n- Loại trừ ứng dụng\n\n- Chuyển đổi bằng thao tác nhấn giữ trong danh sách trắng\n\n- Tự động đóng đa nhiệm\n\n- Ẩn tên ứng dụng\n\n- Nút ở trung tâm điều khiển (yêu cầu CCSupport)\n\n- Nhấn giữ trong trung tâm điều khiển để chạy URL scheme \n\n",
+"markdown":"Foodie Pro\n\n- Mở khoá tính năng Pro cho ứng dụng Foodie \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -36,7 +30,7 @@
 "title":"Liên hệ tôi "
 },
 {
-"markdown":"[**Ủng hộ tôi**](https://bvnsupport.github.io/donate) - Nhấn vào đây nè\n\n\n",
+"markdown":"[**Tải xuống Foodie**](https://apps.apple.com/vn/app/foodie-%C4%91a-d%E1%BA%A1ng-film-b%E1%BB%99-l%E1%BB%8Dc/id1076859004?l=vi) - App Store\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,31 +44,26 @@
 {
 "class":"DepictionTableTextView",
 "title":"Tác giả",
-"text":"ichitaso"
+"text":"Blatant"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Tweak"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Dung lượng",
-"text":"123 KB "
+"text":"Apps Crack"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"22/11/2025"
+"text":"1/8/2025"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 18.2"
+"text":"iOS 14.0 đến 16.7.11"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN999",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -87,7 +76,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.1.2\n\nSửa lỗi"
+"markdown":"#### 1.0\n\nThêm hỗ trợ phiên bản mới nhất."
 }
 ],
 "class":"DepictionStackView"
@@ -122,7 +111,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN999",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1

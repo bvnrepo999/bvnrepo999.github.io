@@ -1,0 +1,130 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"Verxina VH\n\n- Tuỳ chỉnh Dock, nhưng tốt hơn\n\n- Verxina là tiện ích mở rộng dock dễ truy cập cho phép bạn mở ứng dụng, Thư viện ứng dụng và lược đồ URL, điều khiển phương tiện, biết thông tin về pin và Respring từ các ô mà nó cung cấp\n\n- Đặc trưng:\n\n- Phím tắt ứng dụng [tối đa 4, riêng lẻ từ các ứng dụng dock gốc}\n\n- Bộ điều khiển đa phương tiện [nhấn để phát/tạm dừng, vuốt sang trái để bỏ qua, vuốt sang phải để quay lại bài hát trước đó, nhấn và giữ để mở ứng dụng đang phát]\n\n- Nút Thư viện ứng dụng\n\n- Phím tắt URL [bạn có thể sử dụng nhiều loại lược đồ URL khác nhau. ví dụ: phím tắt://]\n\n- Nút Respring\n\n- Tùy chọn:\n\n- Ứng dụng được ghim - Chọn ứng dụng để ghim vào các ô cắt ngắn của ứng dụng\n\n- Phím tắt URL - Đặt URL để mở từ ô phím tắt URL\n\n- Sắp có thêm nhiều tính năng khác [ví dụ: Bật/Tắt phản hồi xúc giác, thanh Tìm kiếm]! \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnrepo999.github.io/infodeb/Verxina/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Verxina/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Verxina/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Verxina/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Verxina/Screenshots/5.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Verxina/Screenshots/6.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Verxina/Screenshots/7.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"ỦNG HỘ TÔI😙"
+},
+{
+"markdown":"[**Nhấp vào đây**](https://bvnsupport.github.io/infodeb/THONGTINTHANHTOAN/?p=info) - ✌️\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"UZ.RA"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"15/11/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"868 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 14.0 đến 17.5"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.3\n\n- Thêm nhiều tính năng mới"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

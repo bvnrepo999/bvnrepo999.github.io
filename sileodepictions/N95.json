@@ -1,0 +1,124 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"N95 VH\n\n- Hình ảnh bài hát nổi bật cho Nhạc\n\n- Nó cho phép bạn tạo ảnh bìa bài hát của ứng dụng Âm nhạc theo bất kỳ hình dạng nào bạn muốn\n\n- Nếu bạn chưa hiểu, N95 là một mặt nạ, đó là lý do tại sao chúng tôi quyết định đặt tên cho tinh chỉnh Album Artwork Masking là N95\n\n- N95 nâng chủ đề ảnh bìa bài hát lên một cấp độ hoàn toàn mới bằng cách cung cấp hỗ trợ cho tất cả các ứng dụng Âm nhạc chính như Spotify và Pandora, cũng như hỗ trợ các chỉnh sửa Âm nhạc phổ biến như Next Up 2 và Quart\n\n- Cùng với sự hỗ trợ vô tận của các nền tảng khác nhau, N95 luôn được cập nhật. Tôi sẽ tiếp tục hỗ trợ các phiên bản iOS khác nhau cũng như các phiên bản ứng dụng khác nhau. \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnrepo999.github.io/infodeb/N95/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/N95/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/N95/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/N95/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/N95/Screenshots/5.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/N95/Screenshots/6.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/N95/Screenshots/7.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"ỦNG HỘ TÔI😙"
+},
+{
+"markdown":"[**Nhấp vào đây**](https://bvnsupport.github.io/infodeb/THONGTINTHANHTOAN/?p=info) - ✌️\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin tinh chỉnh"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"ETHN"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"4.4" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"14/5/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 13.0 đến 16.7.7"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 4.4\n\n- Hỗ trợ iOS 16 Rootless Jailbreak"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

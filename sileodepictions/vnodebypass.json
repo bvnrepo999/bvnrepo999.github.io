@@ -1,0 +1,117 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"vnodebypass (Rootless\n\n- Tinh chỉnh chặn phát hiện Jailbreak tốt nhất hiện nay\n\n- Cách sử dụng:\n\n- Cách 1\n\n- Sau khi cài Tweak xong bạn bạn sẽ thấy xuất hiện 1 ứng dụng có tên vnodebypass vào và Bật nó lên\n\n- Cách 2:\n\n- Vào Cài đặt->Trung tâm điều khiển->vuốt xuống dưới sẽ thấy [vnodebypassModule] và nhấn vào dấu + để thêm vào Trung tâm điều khiển để kích hoạt nhanh Tweak\n\n- Sau khi bật Tweak lên tất cả các Tweak khác sẽ ngừng hoạt động\n\n- Nên lúc nào cần chặn Jailbreak thì hãy bật nó,còn không thì hãy tắt nó đi nhé\n\n- Xem hình ảnh phía dưới để biết rõ hơn \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnrepo999.github.io/infodeb/vnodebypass/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/vnodebypass/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":" /infodeb/vnodebypass/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/vnodebypass/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"ỦNG HỘ TÔI😙"
+},
+{
+"markdown":"[**Nhấp vào đây**](https://bvnsupport.github.io/infodeb/THONGTINTHANHTOAN/?p=info) - ✌️\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"XsF1re,ichitaso"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.4.2-1" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"8/6/2024"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"868 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 16.x"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 0.4.2-1\n\n- Hỗ trợ Rootless"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

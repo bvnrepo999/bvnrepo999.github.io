@@ -1,6 +1,6 @@
 {
 "minVersion":"0.4",
-"headerImage":"https://bvnsupport.github.io/features/sileo.png",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -17,6 +17,7 @@
 "screenshots":[
 {
 "url":"https://bvnrepo999.github.io/infodeb/NtSpeed16/Screenshots/1.png",
+"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,

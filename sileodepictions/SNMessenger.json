@@ -1,0 +1,113 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"SNMessenger\n\n- SNMessenger là một tweak tuyệt vời mang đến trải nghiệm Messenger hoàn hảo hơn với hàng loạt tính năng tiện ích:\n\n- 📋 Cài đặt chung\n\n- ✂️ Chặn quảng cáo: Loại bỏ hoàn toàn quảng cáo khó chịu trên Messenger\n\n- 👁️ Hiển thị nút con mắt: Nhanh chóng bật/tắt thông báo đã đọc\n\n- 💬 Cài đặt chat\n\n- 📷 Luôn luôn gửi hình HD: Gửi hình ảnh với chất lượng cao nhất\n\n- 📞 Xác nhận khi gọi thoại/video: Hạn chế gọi nhầm với thông báo xác nhận\n\n- ✏️ Tắt nhấn giữ để thay đổi nền chat\n\n- 🚫 Chặn thông báo đã đọc: Không hiển thị trạng thái đã đọc tin nhắn\n\n- 🖊️ Tắt thông báo đang soạn tin nhắn\n\n- 🛑 Ẩn số tin nhắn mới trong đoạn chat\n\n- ⌨️ Tùy chỉnh trạng thái bàn phím khi vào đoạn chat\n\n- 📖 Cài đặt story\n\n- 💾 Có thể tải tin của bạn bè: Lưu lại story yêu thích dễ dàng\n\n- 👁️‍🗨️ Tắt xem trước tin\n\n- 🔕 Tắt thông báo đã xem tin\n\n- 🔝 Tăng độ dài video đăng tin\n\n- 🎉 Vẫn còn nhiều tính năng khác đang chờ bạn khám phá\n\n- 🔧 Cách sử dụng\n\n- Truy cập cài đặt tweak bằng cách nhấn vào biểu tượng bánh răng ở góc trên bên trái trong phần cài đặt hồ sơ\n\n- Hãy để SNMessenger giúp bạn làm chủ Messenger theo cách riêng! 🚀 \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnrepo999.github.io/infodeb/SNMessenger/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/SNMessenger/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/SNMessenger/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi"
+},
+{
+"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"Nguyễn Anh Sáng"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.1" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"6/6/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"458 KB"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 12.0 đến 16.7.10"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0.1\n\n- Sửa lỗi"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

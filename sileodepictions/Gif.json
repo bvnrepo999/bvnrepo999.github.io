@@ -1,0 +1,141 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnrepo999.github.io/infodeb/Gif/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Gif/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Gif/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Gif/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"Gif island\n\n- GIF động làm nền Dynamic:\n\n- Bạn có thể chọn file GIF bất kỳ để hiển thị trong khu vực Dynamic Island.Thay vì nền đen mặc định, Island sẽ trở nên sống động\n\n- Tuỳ chỉnh dễ dàng.Có thể thay đổi GIF theo ý thích, thậm chí thay đổi theo chủ đề hoặc tâm trạng\n\n- Giúp Dynamic Island nổi bật hơn, tạo hiệu ứng đẹp mắt thay vì giao diện mặc định khá đơn giản.\n\n- Hoạt động cùng thông báo & hoạt động trực tiếp:Khi có thông báo, GIF nền vẫn hiển thị phía sau, tạo hiệu ứng thú vị.\n\n- Có 1 số hiệu ứng mình để link ở phía dưới ae có thể tải về dùng\n\n- Sau khi cài đặt Tweak ,bạn vào cài đặt và xem 2  ảnh mô tả ở phía trên vào đường dẫn thêm File Gif trong thư mục  *lddgifbg* bạn thêm 1 thư mục nữa có tên ví dụ *BVN* và dán file Gif vào thư mục này\n\n- Yêu cầu cài Filza từ Sileo.Nếu không vào được đường dẫn trong Tweak thì hãy vào Filza theo đường dẫn\n\n- var- mobile-lddgifbg\n\n- Sau khi thêm thành công các b xem ảnh 2 load File Gif chọn file vừa thêm vào sau đó Respring\n\n- Nếu Gif không hoạt động các b vui lòng Tắt tinh chỉnh sau đó Bật lại rồi Respring lần nữa là ok🤣 \n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Link Tải Gif**](https://www.mediafire.com/folder/ilwy837nb1nuq/gifdynamic) - Nhấn vào đây để tải\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"liuf"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"123 K "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"26/10/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 16.7.11"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"#### 1.0.2-1\n\nCập Nhật ngôn ngữ Tiếng Việt"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

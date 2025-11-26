@@ -1,0 +1,104 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{ "class":"DepictionHeaderView", "title":"" },
+{
+"class":"DepictionHeaderView",
+"title":"Mô tả & Giới thiệu"
+},
+{
+"markdown":"ClassicFolders 3\n\n- Các thư mục Màn hình chính trên các cài đặt hiện đại của iOS hoặc iPadOS chiếm toàn bộ màn hình và đối với nhiều người (bao gồm cả bản thân tôi), điều này có vẻ như là một sự lãng phí không gian khủng khiếp.\n\n- Nhưng iOS không phải lúc nào cũng như vậy khi mở các thư mục Màn hình chính, chỉ cần nhìn lại những gì chúng từng trông như thế nào trên iOS 6 và bạn sẽ thấy tại sao tinh chỉnh ClassicFolders 3 của nhà phát triển CoolStar cho phép cải thiện tuyệt vời cho toàn bộ trải nghiệm người dùng\n\n- Trong các ví dụ ảnh chụp màn hình ở bên dưới, bạn sẽ thấy cách ClassicFolders 3 biến đổi giao diện người dùng thư mục Màn hình chính trên cả iPhone và iPad, cùng với các tùy chọn thẩm mỹ khác nhau có sẵn. Mặc dù việc thực hiện có một chút khác biệt đối với mỗi người, nhưng kết quả không kém gì một kiệt tác thẩm mỹ\n\n- Định cấu hình tinh chỉnh theo ý thích của bạn trong mục cài đặt \n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnrepo999.github.io/infodeb/ClassicFolders/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/ClassicFolders/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Ủng Hộ Tôi😉"
+},
+{
+"markdown":"[**Nhấp vào đây**](https://bvnsupport.github.io/infodeb/THONGTINTHANHTOAN/?p=info) - ✌️\n\nㅤ\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin tinh chỉnh"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Nhà phát triển",
+"text":"CoolStar, Lizynz"
+},
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"3.0.6" },
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweaks"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"10/2/2025"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 16.x"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2024 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 3.0.6\n\n- Thêm Nhấn để đóng thư mục\n\n- Kích thước thư mục tự động điều chỉnh khi cuộn, điều này sẽ sửa lỗi truy cập biểu tượng\n\n- Rootful và RootHide chưa được thử nghiệm."
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by Biện Văn Nhật",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
