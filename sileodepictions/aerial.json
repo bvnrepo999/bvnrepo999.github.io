@@ -16,15 +16,15 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnrepo999.github.io/infodeb/Aerial/Screenshots/1.png",
+"url":"https://bvnrepo999.github.io/infodeb/aerial/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnrepo999.github.ioo/infodeb/Aerial/Screenshots/2.png",
+"url":"https://bvnrepo999.github.io/infodeb/aerial/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnrepo999.github.io/infodeb/Aerial/Screenshots/3.png",
+"url":"https://bvnrepo999.github.io/infodeb/aerial/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"15/11/2025"
+"text":"5/12/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.2\n\nHỗ trợ ngôn ngữ Tiếng Việt\n\nSửa lỗi"
+"markdown":"#### 2.1.6\n\nHỗ trợ ngôn ngữ Tiếng Việt\n\nSửa lỗi"
 }
 ],
 "class":"DepictionStackView"
