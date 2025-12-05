@@ -18,21 +18,13 @@
 {
 "url":"https://bvnrepo999.github.io/infodeb/PerfectDynamicIsland/Screenshots/1.png",
 "accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/PerfectDynamicIsland/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/PerfectDynamicIsland/Screenshots/3.png",
-"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
 },
 {
-"markdown":"Perfect DynamicIsland(Gói TV)\n\n- Gói Tiếng Việt dành cho Tweak PerfectDynamicIsland \n\n",
+"markdown":"Perfect DynamicIsland(Gói TV)\n\n- Gói Tiếng Việt dành cho Tweak PerfectDynamicIslandCác thiết bị Xs trở lên vui lòng cài đặt Tweak: Legacy arm64e Support để tăng khả năng tương thích \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
