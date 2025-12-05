@@ -24,7 +24,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"AppData(Gói TV)\n\n- Gói Tiếng Việt dành cho Tweak Apdata \n\n",
+"markdown":"AppData(Gói TV)\n\n- Gói Tiếng Việt dành cho Tweak Apdata\n\n- Các thiết bị Xs trở lên vui lòng cài đặt Tweak: Legacy arm64e Support để tăng khả năng tương thích \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },

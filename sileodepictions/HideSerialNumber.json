@@ -24,7 +24,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"HideSerialNumber(Gói TV)\n\n- Gói Tiếng Việt dành cho Tweak HideSerialNumber \n\n",
+"markdown":"HideSerialNumber(Gói TV)\n\n- Gói Tiếng Việt dành cho Tweak HideSerialNumber\n\n- Các thiết bị Xs trở lên vui lòng cài đặt Tweak: Legacy arm64e Support để tăng khả năng tương thích \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
