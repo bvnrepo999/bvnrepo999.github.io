@@ -16,15 +16,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnrepo999.github.io/infodeb/aerial/Screenshots/1.png",
+"url":"https://bvnrepo999.github.io/infodeb/video/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnrepo999.github.io/infodeb/aerial/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/aerial/Screenshots/3.png",
+"url":"https://bvnrepo999.github.io/infodeb/video/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -32,7 +28,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"Aerial VH\n\n- AerialStage Manager, được thiết kế lại cho iOSAerial mang lại trải nghiệm đa nhiệm thực sự cho iOS — một phiên bản tinh tế của Stage Manager với các cử chỉ trực quan và giao diện đẹp mắt\n\n- Bạn có thể bật/tắt Aerial theo cách\n\n- Nhấn giữ lâu vào biểu tượng ứng dụng chọn Open in Aerial\n\n- Tính năng:\n\n- Menu trên cùng ở giữa (...) Nhấn vào biểu tượng ... ở giữa trên cùng của Giai đoạn để mở menu điều khiển\n\n- Tùy chọn menu→ Mở ứng dụng — Mở ứng dụng như bình thường.\n\n- Phóng to — Mở rộng Giai đoạn ra toàn màn hình.\n\n- Thu nhỏ — Thu nhỏ vùng hiển thị thành biểu tượng nổi. Nhấn vào biểu tượng để mở lại nó\n\n- Chế độ cắt xén — Tự do cắt xén chế độ xem của ứng dụng — hoàn hảo để xem video hoặc tập trung vào nội dung\n\n- Đóng — Đóng Giai đoạn hiện tại.\n\n- Điều khiển sân khấu • Núm dưới cùng bên trái- bên phải — Kéo để điều chỉnh tỷ lệ khung hình của Sân khấu\n\n- Núm ở giữa phía dưới — Kéo để thay đổi kích thước toàn bộ Giai đoạn.\n\n- Aerial thay đổi cách bạn thực hiện đa nhiệm trên iOS — mượt mà, linh hoạt và trực quan đẹp mắt \n\n",
+"markdown":"VideoIsland\n\n- Sử dụng Video để làm nền cho Dynamic Island\n\n- Cách sử dụng:\n\n- Vào cài đặt của Tweak nhấn mở thư mục Video trong Filza\n\n- Yêu cầu cài Filza trên Sileo-Zebra\n\n- Sau đó sao chép video muốn hiện thị vài thư mục Bvnvideo là ok\n\n- 1 Số Video mình gửi trong nhóm chát Telegram các bạn nhấp vào Tham gia gr ở phía trên để tải nhé \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -58,7 +54,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Tác giả",
-"text":"UZRA"
+"text":"BVN"
 },
 {
 "class":"DepictionTableTextView",
@@ -68,7 +64,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"6 KB "
+"text":"20 KB "
 },
 {
 "class":"DepictionTableTextView",
@@ -78,7 +74,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 17.7.10"
+"text":"iOS 16.0 đến 17.0"
 },
 {
 "class":"DepictionLabelView",
@@ -95,7 +91,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 2.1.7\n\nHỗ trợ ngôn ngữ Tiếng Việt\n\nSửa lỗi"
+"markdown":"#### 1.0.0\n\nLần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
