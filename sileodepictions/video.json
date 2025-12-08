@@ -28,7 +28,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"VideoIsland\n\n- Sử dụng Video để làm nền cho Dynamic Island\n\n- Cách sử dụng:\n\n- Vào cài đặt của Tweak nhấn mở thư mục Video trong Filza\n\n- Yêu cầu cài Filza trên Sileo-Zebra\n\n- Sau đó sao chép video muốn hiện thị vài thư mục Bvnvideo là ok\n\n- 1 Số Video mình gửi trong nhóm chát Telegram các bạn nhấp vào Tham gia gr ở phía trên để tải nhé \n\n",
+"markdown":"VideoIsland\n\n- Sử dụng Video để làm nền cho Dynamic Island\n\n- Cách sử dụng:\n\n- Yêu cầu cài Tweak Legacy arm64e Support\n\n- Vào cài đặt của Tweak nhấn mở thư mục Video trong Filza\n\n- Yêu cầu cài Filza trên Sileo-Zebra\n\n- Sau đó sao chép video muốn hiện thị vào thư mục Bvnvideo là ok\n\n- 1 Số Video mình gửi trong nhóm chát Telegram các bạn nhấp vào Tham gia gr ở phía trên để tải nhé \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
