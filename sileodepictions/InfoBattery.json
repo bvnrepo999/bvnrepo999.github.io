@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Battery info VH\n\n- Tính năng:\n\n- Hiển thị thông tin chi tiết về Pin \n\nㅤ\n\n",
+"markdown":"InfoBattery Panel\n\n- Tính năng:\n\n- Hiển thị thông tin chi tiết về Pin\n\n- Nhấp 2 lần phía trên bên phải thanh trạng thái để hiện Panel \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -21,11 +21,7 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnrepo999.github.io/infodeb/infobat/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/infobat/Screenshots/2.png",
+"url":"https://bvnrepo999.github.io/infodeb/InfoBattery/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -40,7 +36,7 @@
 "title":"Ủng hộ tôi"
 },
 {
-"markdown":"[**Mua cho tôi 1 ly cafe**](https://support-jailbreak.github.io/infodeb/DONATE/) - 🥰\n\nㅤ\n\n",
+"markdown":"[**Mua cho tôi 1 ly cafe**](https://bvnrepo.xyz/donate/) - 🥰\n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -54,9 +50,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"developlab"
+"text":"BVN"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1.8" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.4" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -65,12 +61,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"12/5/2025"
+"text":"12/12/2025"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 12.0 đến 16.7.10"
+"text":"iOS 14.0 đến 16.7.10"
 },
 {
 "class":"DepictionLabelView",
@@ -87,7 +83,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.8\n\n- Hỗ trợ iOS 12-16"
+"markdown":"### Phiên bản 1.0.4\n\n- Thêm mục Seri pin\n\n- Tap 2 lần để hiển thị Panel"
 },
 {
 "class":"DepictionLabelView",
