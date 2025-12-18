@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"8/12/2025"
+"text":"18/12/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 2.1.7\n\nHỗ trợ ngôn ngữ Tiếng Việt\n\nSửa lỗi"
+"markdown":"#### 2.2.4\n\nThêm chức năng vô hiệu hóa tính năng tránh bàn phím từ menu cảm ứng 3D\n\nĐã sửa lỗi chế độ khóa ở chế độ cắt tỉa\n\nĐã khắc phục sự cố về kích thước của,UISceneLayerHostContainerView"
 }
 ],
 "class":"DepictionStackView"

@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"12/12/2025"
+"text":"18/12/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -87,7 +87,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.0.1\n\nHỗ trợ ngôn ngữ Tiếng Việt\n\nSửa lỗi"
+"markdown":"#### 1.2.2\n\nĐã thêm tùy chọn ẩn tay cầm ở chế độ ngang\n\nĐã thêm tùy chọn tỷ lệ chiều rộng của bảng điều khiển\n\nGiờ bạn có thể đóng bảng điều khiển bằng cách chạm vào phía ngoài bảng điều khiển nếu Aerial chưa được thiết lập\n\nẨn bóng khi dàn dựng cảnh quay trên không để cải thiện khả năng quan sát."
 }
 ],
 "class":"DepictionStackView"
