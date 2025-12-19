@@ -1,27 +1,30 @@
 {
-"minVersion":"0.1",
+"minVersion":"0.4",
 "headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
 {
-"class":"DepictionHeaderView",
-"title":"Mô tả & Giới thiệu"
+"text": "Nhóm trò chuyện Tele BVN Repo",
+"action": "https://t.me/repobvn",
+"openExternal": 1,
+"class": "DepictionButtonView"
 },
-{
-"markdown":"Tinh chỉnh Clock Fonts \n\n- Tuỳ chỉnh phông chữ đồng hồ trên màn hình khoá của bạn\n\n- Cách dùng như sau:\n\n- Sao chép file font .ttf của bạn vào đường dẫn var/jb/ Library/ Application Support/ ClockFonts\n\n- Đường dẫn thay đổi Font trên Rootless Jailbreak /var/jb/Library/Application Support/ClockFonts (Nếu không có thư mục ClockFonts thì bạn hãy tạo nó thủ công bằng Filza) Sau đó Respring thiết bị\n\n- Nếu font đồng hồ không thay đổi hãy thử file font .ttf khác. Hỗ trợ font có định dạng .ttf .ttc .otf .otc\n\n- Lưu ý: Tên font nên được ghi bằng số( VD: 90.ttf) để chỉnh cỡ cho font chữ. Chỉ đặt 1 file font duy nhất trong var/jb/Library/Applicatios Support/ClockFonts để tránh lỗi \n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnrepo999.github.io/infodeb/ClockFonts1/Screenshots/1.png",
+"url":"https://bvnrepo999.github.io/infodeb/ClockFonts/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/ClockFonts/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/ClockFonts/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -29,14 +32,7 @@
 "itemSize":"{185,400}"
 },
 {
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Liên hệ tôi"
-},
-{
-"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"markdown":"ClockFonts\n\n- Tuỳ chỉnh phông chữ đồng hồ trên màn hình khoá của bạn\n\n- Cách sử dụng:\n\n- Thêm Phông chữ có định dạng TTF vào ứng dụng Tệp,sau đó vào Tweak nhấn chọn phông chữ từ tệp nó sẽ tự động Áp dụng phông chữ\n\n- Hiện tại mình đã thêm 1 số phông chữ vào sẵn các bạn có thể dùng các phông chữ đó\n\n- Có thể tuỳ chỉnh kích thước Phông chữ trong phiên bản cập nhật này\n\n- Chúc ae thành công✌️ \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -45,14 +41,25 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Thông tin "
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
 },
 {
 "class":"DepictionTableTextView",
-"title":"Nhà phát triển",
-"text":"NQT1195"
+"title":"Tác giả",
+"text":"BVN"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -60,22 +67,22 @@
 },
 {
 "class":"DepictionTableTextView",
-"title":"Ngày tải lên",
-"text":"18/01/2024"
+"title":"Dung lượng",
+"text":"123 KB "
 },
 {
 "class":"DepictionTableTextView",
-"title":"Dung lượng",
-"text":"678 KB"
+"title":"Ngày tải lên",
+"text":"19/12/2025"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 15.9"
+"text":"iOS 15.0 đến 17.7.10"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -88,11 +95,42 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.3\n\n- Hỗ trợ Rootless Jailbreak"
+"markdown":"#### 1.4\n\nHỗ trợ iOS16\n\nThêm cài đặt\n\nThêm Phông chữ qua App Tệp\n\nTuỳ chỉnh kích thước phông chữ"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
