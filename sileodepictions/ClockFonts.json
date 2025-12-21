@@ -95,9 +95,9 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.5\n\nHỗ trợ iOS16\n\nThêm phông chữ mới\n\nThêm Phông chữ qua App Tệp\n\nTuỳ chỉnh kích thước phông chữ"
-}
-],
+"markdown":"### Phiên bản 1.6\n\n- Sửa lỗi tuỳ chỉnh kích thước trên 1 số thiết bị\n\n- Thêm phông chữ Noel"
+},
+{
 "class":"DepictionStackView"
 },
 {
