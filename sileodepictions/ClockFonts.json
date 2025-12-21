@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.6\n\n- Sửa lỗi tuỳ chỉnh kích thước trên 1 số thiết bị\n\n- Thêm phông chữ Noel"
+"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 },
 {
 "class":"DepictionStackView"
