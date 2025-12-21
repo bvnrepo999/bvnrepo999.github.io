@@ -44,7 +44,7 @@
 "title":"Liên hệ tôi "
 },
 {
-"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
+"markdown":"[**Ủng hộ**](https://bvnsupport.github.io/donate/) - Nhấn vào đây nè\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -68,17 +68,17 @@
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"123 KB "
+"text":"20 KB "
 },
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"20/12/2025"
+"text":"21/12/2025"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 17.7.10"
+"text":"iOS 15.0 đến 17.0"
 },
 {
 "class":"DepictionLabelView",
@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+"markdown":"#### 1.6\n\nHỗ trợ thêm phông chữ Noel\n\nSửa lỗi tuỳ chỉnh kích thước trên 1 số thiết bị"
 }
 ],
 "class":"DepictionStackView"
