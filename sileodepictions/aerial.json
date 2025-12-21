@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 3.2.3k\n\nThêm chức năng vô hiệu hóa tính năng tránh bàn phím từ menu cảm ứng 3D\n\nĐã sửa lỗi chế độ khóa ở chế độ cắt tỉa\n\nĐã khắc phục sự cố về kích thước của,UISceneLayerHostContainerView"
+"markdown":"#### 3.2.3k\n\nThay đổi hành vi của thanh dưới để chuyển đổi chức năng bằng cách nhấn giữ lâu (điều khiển cử chỉ/thu phóng)\n\nĐã sửa lỗi khôi phục chế độ khóa khi khôi phục từ chế độ thu nhỏ.\n\nHoạt ảnh thu nhỏ được tinh chỉnh\n\nSửa lỗi hiển thị bóng khi thu nhỏ ảnh động\n\nĐã thay đổi định dạng tránh bàn phím sang định dạng danh sách trắng\n\nTối ưu hóa ngưỡng cử chỉ và hoạt ảnh\n\nKhắc phục lỗi gây sập ứng dụng khi đóng từ API bên ngoài"
 }
 ],
 "class":"DepictionStackView"
