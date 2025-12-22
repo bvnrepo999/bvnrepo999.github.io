@@ -32,7 +32,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"ClockFonts\n\n- Tuỳ chỉnh phông chữ đồng hồ trên màn hình khoá của bạn\n\n- Cách sử dụng:\n\n- Thêm Phông chữ có định dạng TTF vào ứng dụng Tệp,sau đó vào Tweak nhấn chọn phông chữ từ tệp nó sẽ tự động Áp dụng phông chữ\n\n- Hiện tại mình đã thêm 1 số phông chữ vào sẵn các bạn có thể dùng các phông chữ đó\n\n- Có thể tuỳ chỉnh kích thước Phông chữ trong phiên bản cập nhật này\n\n- Chúc ae thành công✌️ \n\n",
+"markdown":"ClockFonts\n\n- Lưu Ý⚠️ Các thiết bị Xs trở lên vui lòng cài thêm Tweak Legacy arm64e Support\n\n- Tuỳ chỉnh phông chữ đồng hồ trên màn hình khoá của bạn\n\n- Cách sử dụng:\n\n- Thêm Phông chữ có định dạng TTF vào ứng dụng Tệp,sau đó vào Tweak nhấn chọn phông chữ từ tệp nó sẽ tự động Áp dụng phông chữ\n\n- Hiện tại mình đã thêm 1 số phông chữ vào sẵn các bạn có thể dùng các phông chữ đó\n\n- Có thể tuỳ chỉnh kích thước Phông chữ trong phiên bản cập nhật này\n\n- Chúc ae thành công✌️ \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
