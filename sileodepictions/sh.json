@@ -28,7 +28,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"Shadow(Gói TV)\n\n- Gói Tiếng Việt dành cho Tweak Shadow\n\n- Vui lòng cài Tweak Shadow\n\n- Các thiết bị Xs trở lên vui lòng cài đặt Tweak: Legacy arm64e Support để tăng khả năng tương thích \n\n",
+"markdown":"Shadow(Gói TV)\n\n- Đây là gói Tiếng Việt dành cho Tweak Shadow\n\n- Vui lòng cài Tweak Shadow để sử dụng\n\n- ⚠️Các thiết bị Xs trở lên vui lòng cài đặt Tweak: Legacy arm64e Support để tăng khả năng tương thích \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
