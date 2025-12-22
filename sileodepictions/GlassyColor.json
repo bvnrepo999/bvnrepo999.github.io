@@ -40,7 +40,7 @@
 "title":"Liên hệ tôi "
 },
 {
-"markdown":"[**Ủng hộ**](https://bvnsupport.github.io/donate/) - Nhấn vào đây nè\n\n\n",
+"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -59,7 +59,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Tweaks"
+"text":"Chủ đề"
 },
 {
 "class":"DepictionTableTextView",
