@@ -77,7 +77,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"18/8/2025"
+"text":"23/12/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -99,7 +99,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 3.8.36k\n\n- Sửa lỗi"
+"markdown":"### Phiên bản 3.8.37k\n\n- Đã sửa lỗi phóng to ảnh hồ sơ.\n\n- Đã khắc phục lỗi phóng to thu nhỏ video trên bảng tin\n\n- Khắc phục lỗi hiển thị kiểu chữ và phóng to bài viết trong bảng tin dạng lưới\n\n- Đã sửa các thao tác trong menu tùy chọn cốt truyện\n\n- Đã khắc phục sự cố tải xuống video và reel.\n\n- Đã sửa lỗi tải truyện.\n\n- Đã khắc phục lỗi giả mạo người dùng đã được xác minh"
 },
 {
 "class":"DepictionLabelView",
