@@ -16,7 +16,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnrepo999.github.io/infodeb/HideSerialNumber/Screenshots/1.png",
+"url":"https://bvnrepo999.github.io/infodeb/Floatyvh/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Floatyvh/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
