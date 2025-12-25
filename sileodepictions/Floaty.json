@@ -54,12 +54,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"9/9/2025"
+"text":"25/12/2025"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14 đến 16.7.11"
+"text":"iOS 14 đến 17.0"
 },
 {
 "class":"DepictionLabelView",
@@ -76,7 +76,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.2\n\nThêm tùy chọn hình dạng biểu tượng\n\nSửa lỗi giao diện thông báo bị giật lag một số lúc\n\nSửa lỗi tùy chọn kích thước biểu tượng không hoạt động"
+"markdown":"#### 1.3\n\nHỗ trợ iOS 17"
 }
 ],
 "class":"DepictionStackView"
