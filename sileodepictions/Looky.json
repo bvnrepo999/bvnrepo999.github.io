@@ -62,12 +62,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"9/9/2025"
+"text":"25/12/2025"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14 đến 16.7.11"
+"text":"iOS 14 đến 17.0"
 },
 {
 "class":"DepictionLabelView",
@@ -84,7 +84,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.2\n\nXóa bỏ âm lượng tăng và giảm để gửi thông báo thử nghiệm"
+"markdown":"#### 1.3\n\nHỗ trợ iOS 17"
 }
 ],
 "class":"DepictionStackView"
