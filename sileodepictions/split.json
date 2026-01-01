@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Split View Pro VH\n\n- Một tinh chỉnh chia đôi màn hình miễn phí hiện đang được phát triển bởi sunshinesong. Hãy kiên nhẫn chờ đợi những cải tiến \n\nㅤ\n\n",
+"markdown":"Split View Pro VH\n\n- Một tinh chỉnh chia đôi màn hình miễn phí hiện đang được phát triển bởi sunshinesong. Hỗ trợ các thiết bị A12 trở lên\n\n- Lưu ý⚠️: Cài thêm Tweak Legacy arm64e support để tăng khả năng tương thích \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
