@@ -28,7 +28,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"GhostBoard\n\n- GhostBoard là tweak tối giản giao diện Home Screen trên iOS, giúp màn hình chính gọn gàng và nhìn “Đẹp” hơn bằng cách ẩn các thành phần thừa.\n\n- Tính năng:\n\n- Ẩn nền Dock (dock trong suốt)\n\n- Ẩn viên thuốc tìm kiếm (Search Pill)\n\n- Ẩn dấu chấm trang (Page Dots)\n\n- Ẩn tên ứng dụng & tên thư mục \n\n",
+"markdown":"GhostBoard\n\n- GhostBoard là tweak tối giản giao diện Home Screen trên iOS, giúp màn hình chính gọn gàng và nhìn “Đẹp” hơn bằng cách ẩn các thành phần thừa.\n\n- Tính năng:\n\n- Ẩn nền Dock (dock trong suốt)\n\n- Ẩn viên thuốc tìm kiếm (Search Pill)\n\n- Ẩn dấu chấm trang (Page Dots)\n\n- Ẩn tên ứng dụng & tên thư mục\n\n- 5 biểu tượng trên Dock\n\n- Ẩn thư viện ứng dụng \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"5/1/2026"
+"text":"6/1/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -91,7 +91,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.0.0\n\nLần đầu phát hành"
+"markdown":"### Phiên bản 1.0.1\n\n- Thêm 5 biểu tượng trên Dock\n\n- Thêm ẩn thư viện ứng dụng"
 }
 ],
 "class":"DepictionStackView"
