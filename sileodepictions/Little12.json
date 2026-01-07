@@ -77,7 +77,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"2/1/2026"
+"text":"7/1/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -99,7 +99,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 2.1\n\nHỗ trợ Rootfull\n\nSửa lỗi vào Safemode trên 1 số thiết bị"
+"markdown":"### Phiên bản 2.2\n\n- Sửa lỗi chụp màn hình bằng phím cứng\n\n- Sửa lỗi văng cài đặt"
 }
 ],
 "class":"DepictionStackView"
