@@ -115,7 +115,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.4\n\n- Thêm hiển thị % Độ sáng & Âm lượng\n\n- Thêm 2 hàng Dock"
+"markdown":"### Phiên bản 1.4\n\n- Thêm hiển thị % Độ sáng & Âm lượng\n\n- Thêm 2 hàng Dock\n\n- Thêm tính năng điều chỉnh chiều Cao/Thấp ước tính sạc"
 }
 ],
 "class":"DepictionStackView"
