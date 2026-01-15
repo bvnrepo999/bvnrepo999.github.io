@@ -52,7 +52,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"GhostBoard\n\n- GhostBoard là tweak tối giản giao diện Home Screen trên iOS, giúp màn hình chính gọn gàng và nhìn “Đẹp” hơn bằng cách ẩn các thành phần thừa.\n\n- Tính năng:\n\n- Ẩn nền Dock (dock trong suốt)\n\n- Ẩn viên thuốc tìm kiếm (Search Pill)\n\n- Ẩn dấu chấm trang (Page Dots)\n\n- Ẩn tên ứng dụng & tên thư mục\n\n- 5 biểu tượng trên Dock\n\n- Ẩn thư viện ứng dụng\n\n- Ứng dụng ảnh:\n\n- Xoá ảnh hoàn toàn\n\n- Phóng to ảnh không giới hạn\n\n- Camera:\n\n- Tắt âm thanh chụp ảnh\n\n- Tự động mở khoá,vào thẳng màn hình chính khi nhận diện Faceid & vân tay\n\n- Xoay ngang biểu tượng ở màn hình chính\n\n- Tắt lời nhắc dán iOS16\n\n- Ước tính thời gian sạc MHK\n\n- 2 hàng Dock\n\n- Hiển thị % Độ sáng & Âm lượng trên trung tâm điều khiển  \n\n",
+"markdown":"GhostBoard\n\n- GhostBoard là tweak tối giản giao diện Home Screen trên iOS, giúp màn hình chính gọn gàng và nhìn “Đẹp” hơn bằng cách ẩn các thành phần thừa.\n\n- Tính năng:\n\n- Ẩn nền Dock (dock trong suốt)\n\n- Ẩn viên thuốc tìm kiếm (Search Pill)\n\n- Ẩn dấu chấm trang (Page Dots)\n\n- Ẩn tên ứng dụng & tên thư mục\n\n- 5 biểu tượng trên Dock\n\n- Ẩn thư viện ứng dụng\n\n- Ứng dụng ảnh:\n\n- Xoá ảnh hoàn toàn\n\n- Phóng to ảnh không giới hạn\n\n- Camera:\n\n- Tắt âm thanh chụp ảnh\n\n- Tự động mở khoá,vào thẳng màn hình chính khi nhận diện Faceid & vân tay\n\n- Xoay ngang biểu tượng ở màn hình chính\n\n- Tắt lời nhắc dán iOS16\n\n- Ước tính thời gian sạc MHK\n\n- 2 hàng Dock\n\n- Hiển thị % Độ sáng & Âm lượng trên trung tâm điều khiển\n- Xoá thông báo linh kiện không xác định,hiển thị % pin khi thay pin không chính hãng.  \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -115,7 +115,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.4\n\n- Thêm hiển thị % Độ sáng & Âm lượng\n\n- Thêm 2 hàng Dock\n\n- Thêm tính năng điều chỉnh chiều Cao/Thấp ước tính sạc"
+"markdown":"### Phiên bản 1.5\n\n- Thêm tính năng xoá thông báo linh kiện không xác định & hiện thị % pin khi thay pin không chính hãng.\n\n ### Phiên bản 1.4\n\n- Thêm hiển thị % Độ sáng & Âm lượng\n\n- Thêm 2 hàng Dock\n\n- Thêm tính năng điều chỉnh chiều Cao/Thấp ước tính sạc"
 }
 ],
 "class":"DepictionStackView"
