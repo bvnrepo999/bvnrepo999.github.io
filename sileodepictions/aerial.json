@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"21/12/2025"
+"text":"15/1/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 3.6k\n\n- Đã khắc phục sự cố xoay trên iPad\n\n- Đã thêm 4 Aerial API mới"
+"markdown":"### Phiên bản 3.7k\n\n- Đã thêm hỗ trợ camera (Khởi động lại UserSpace trước khi sử dụng lần đầu)\n\n- Đã tối ưu hóa việc tải lại FBScene, giờ đây nó sẽ không cần tải lại mỗi khi thay đổi chế độ môi trường."
 }
 ],
 "class":"DepictionStackView"
