@@ -24,7 +24,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"MessengerRingtones\n\n- Thay đổi nhạc chuông cuộc gọi đến của Ứng dụng Messenger\n\n- Lưu nhạc chuông của bạn vào Tệp sau đó vào Tweak chọn nhạc chuông từ Tệp là oki. \n\n",
+"markdown":"MessengerRingtones\n\n- Thay đổi nhạc chuông cuộc gọi đến của Ứng dụng Messenger\n\n- Lưu nhạc chuông của bạn vào Tệp sau đó vào Tweak chọn nhạc chuông từ Tệp là oki.\n\n- Thay đổi âm thanh tin nhắn tới \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -87,7 +87,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.5\n\n- Sửa lỗi\n\n- Thêm thay đổi âm thanh tin nhắn tới\n\ ### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
