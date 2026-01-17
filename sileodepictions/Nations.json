@@ -16,7 +16,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnrepo999.github.io/infodeb/MessengerRingtones/Screenshots/1.png",
+"url":"https://bvnrepo999.github.io/infodeb/Nations/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Nations/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -24,7 +28,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"MessengerRingtones\n\n- Thay đổi nhạc chuông cuộc gọi đến của Ứng dụng Messenger\n\n- Lưu nhạc chuông của bạn vào Tệp sau đó vào Tweak chọn nhạc chuông từ Tệp là oki.\n\n- Thay đổi âm thanh tin nhắn tới \n\n",
+"markdown":"Nations VH\n\n- Trình hiển thị phổ âm thanh kiểu Trap Nation\n\n- Nations mang đến hiệu ứng hiển thị phổ âm thanh đẹp mắt và có thể tuỳ biến trên iOS — lấy cảm hứng từ phong cách Trap Nation nổi tiếng với các dạng sóng “bươm bướm” và “đồng hồ cát”.\n\n- Bộ hiển thị phản hồi theo thời gian thực theo nhạc đang phát, đi kèm hoạt ảnh mượt và cho phép tuỳ chỉnh đầy đủ màu sắc cùng các tham số.\n\n- Tính năng:\n\n- Hiển thị âm thanh (Audio Visualization)\n\n- Dạng sóng Bươm bướm/Đồng hồ cát — Hai nửa vòng tròn đối xứng hiển thị phổ tần số, tần số thấp ở phía trên và tần số cao ở phía dưới\n\n- Phản hồi theo thời gian thực — Hoạt ảnh mượt, phản ứng ngay lập tức theo nhạc đang phát\n\n- Nhiều chế độ tần số — Tuỳ chỉnh số mức chia tần số để hiển thị chi tiết hoặc đơn giản hơn. \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -50,7 +54,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Tác giả",
-"text":"BVN Repo"
+"text":"UZRA"
 },
 {
 "class":"DepictionTableTextView",
@@ -60,12 +64,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"2061 kb "
+"text":"456 kb "
 },
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"15/1/2026"
+"text":"18/1/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -87,7 +91,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.2\n\n- Sửa lỗi\n\n- Thêm thay đổi âm thanh tin nhắn tới\n\n ### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
