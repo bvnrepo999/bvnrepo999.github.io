@@ -1,22 +1,17 @@
 {
-"minVersion":"0.1",
-"headerImage":"https://bvnrepo999.github.io/icon/VibeTok.png",
+"minVersion":"0.4",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
 "tabname":"Chi tiết",
 "views":[
-{ "class":"DepictionHeaderView", "title":"" },
 {
-"class":"DepictionHeaderView",
-"title":"Mô tả & Giới thiệu"
+"text": "Nhóm trò chuyện Tele BVN Repo",
+"action": "https://t.me/repobvn",
+"openExternal": 1,
+"class": "DepictionButtonView"
 },
-{
-"markdown":"VibeTok\n\n- VibeTok giúp thêm một số tính năng cho ứng dụng TikTok như:\n\n- Chỉnh sửa thanh tab\n\n- ⮑ Ẩn tab bạn bè\n\n- ⮑ Ẩn tab trang chủ\n\n- ⮑ Ẩn tab tạo\n\n- ⮑ Ẩn tab hộp thư đến\n\n- ⮑ Ẩn tab hồ sơ\n\n- Nguồn cấp dữ liệu\n\n- ⮑ Vô hiệu hóa kéo để làm mới\n\n- ⮑ Tự động cuộn\n\n- ⮑ Ẩn quảng cáo\n\n- Trò chuyện\n\n- ⮑ Xác nhận thích trong trò chuyện\n\n- ⮑ Mở liên kết trong trò chuyện \n\nㅤ\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{ "class":"DepictionHeaderView", "title":"Hình ảnh" },
 {
 "class":"DepictionScreenshotsView",
 "screenshots":[
@@ -41,14 +36,7 @@
 "itemSize":"{185,400}"
 },
 {
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Liên hệ tôi"
-},
-{
-"markdown":"[**Fanpage Facebook**](https://www.facebook.com/repocydiaBVN?mibextid=LQQJ4d) - 24/7\n\nㅤ\n\n",
+"markdown":"VibeTok\n\n- Bổ sung các tính năng hữu ích cho Ứng dụng Tiktok\n\n- Tải video [Chất lượng HD]\n\n- Tải hình ảnh\n\n- Tải story [Chất lượng HD]\n\n- Sao chép bình luận\n\n- Sao chép chú thích (caption)\n\n- Sao chép tiểu sử (bio)\n\n- Xác nhận khi theo dõi\n\n- Xác nhận khi thích\n\n- Xác nhận khi làm mới (Refresh)\n\n- Nhúng video/ảnh\n\n- Đọc tin nhắn (chat) ẩn danh\n\n- Trạng thái Follow – Tên người dùng màu xanh lá\n\n- Tự động xoá lịch sử tìm kiếm\n\n- Định dạng lượt xem (views)\n\n- Ẩn gợi ý m theo dõi\n\n- Mở liên kết trong bình luận\n\n- Chỉnh sửa thanh tab (Tab Bar)\n- Ẩn tab Bạn bè (Friends)\n\n- Ẩn tab Trang chủ (Home)\n\n- Ẩn tab Tạo\n\n- Ẩn tab Hộp thư\n\n- Ẩn tab Hồ sơ\n\n- Tắt kéo để làm mới\n\n- Tự động cuộn\n\n- * Chặn quảng cáo\n\n- Xác nhận khi thích\n\n- Mở liên kết trong tin nhắn trong tin nhắn  \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -57,37 +45,48 @@
 },
 {
 "class":"DepictionHeaderView",
-"title":"Thông tin "
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
 },
 {
 "class":"DepictionTableTextView",
-"title":"Nhà phát triển",
+"title":"Tác giả",
 "text":"DeNsor"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Tweaks"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Ngày tải lên",
-"text":"8/12/2024"
+"text":"Tweak"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"458 KB"
+"text":"456 KB "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"18/1/2026"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 16.x"
+"text":"iOS 15.0 đến 17.7.10"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by BVN999",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -100,11 +99,42 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.2\n\n- Thêm tính nănng mới"
+"markdown":"### Phiên bản 1.1\n\n- Thêm tải hình ảnh"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2025 by BVN999",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
