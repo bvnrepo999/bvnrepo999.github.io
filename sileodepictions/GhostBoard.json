@@ -115,7 +115,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.6\n\n- Thêm nhấn 2 lần để khoá màn hình\n\n- Thêm nhấn 2 lần nút giảm âm lượng để bật đèn Pin (Màn hình khoá)\n\n ### Phiên bản 1.5\n\n- Thêm tính năng xoá thông báo linh kiện không xác định & hiện thị % pin khi thay pin không chính hãng.\n\n ### Phiên bản 1.4\n\n- Thêm hiển thị % Độ sáng & Âm lượng\n\n- Thêm 2 hàng Dock\n\n- Thêm tính năng điều chỉnh chiều Cao/Thấp ước tính sạc"
+"markdown":"### Phiên bản 1.7\n\n- Sửa lỗi hiền thị 0% trên Trung tâm điều khiển\n\n ### Phiên bản 1.6\n\n- Thêm nhấn 2 lần để khoá màn hình\n\n- Thêm nhấn 2 lần nút giảm âm lượng để bật đèn Pin (Màn hình khoá)\n\n ### Phiên bản 1.5\n\n- Thêm tính năng xoá thông báo linh kiện không xác định & hiện thị % pin khi thay pin không chính hãng.\n\n ### Phiên bản 1.4\n\n- Thêm hiển thị % Độ sáng & Âm lượng\n\n- Thêm 2 hàng Dock\n\n- Thêm tính năng điều chỉnh chiều Cao/Thấp ước tính sạc"
 }
 ],
 "class":"DepictionStackView"
