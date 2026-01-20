@@ -7,22 +7,28 @@
 "tabname":"Chi tiết",
 "views":[
 {
+"text": "Nhóm trò chuyện Tele BVN Repo",
+"action": "https://t.me/repobvn",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnrepo999.github.io/infodeb/atria2/Screenshots/1.png",
+"url":"https://bvnrepo999.github.io/infodeb/atria/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnrepo999.github.io/infodeb/atria2/Screenshots/2.png",
+"url":"https://bvnrepo999.github.io/infodeb/atria/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnrepo999.github.io/infodeb/atria2/Screenshots/3.png",
+"url":"https://bvnrepo999.github.io/infodeb/atria/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnrepo999.github.io/infodeb/atria2/Screenshots/4.png",
+"url":"https://bvnrepo999.github.io/infodeb/atria/Screenshots/4.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -30,7 +36,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"# Atria VH(Rootless) Thay đổi bố cục màn hình chính của bạn \n\n### Atria mang đến hệ thống cấu hình bố cục màn hình chính cho người dùng iOS. \n\n### Điều gì làm nên sự khác biệt của Atria,Atria hoàn toàn tương thích với hệ thống widget gốc của iOS 14, vì vậy bạn có thể sử dụng các widget yêu thích của mình trong khi tùy chỉnh màn hình chính của mình! Không giống như các trình chỉnh sửa bố cục thay thế, Atria không chạm vào Thư viện ứng dụng, vì vậy chức năng và giao diện trực quan của nó không bị thay đổi. Atria cũng cung cấp bố cục trên mỗi trang để kiểm soát tối đa; các trang khác nhau có thể có các cài đặt khác nhau cho hàng, cột, tỷ lệ biểu tượng và phần trong! \n\n\n",
+"markdown":"Atria VH\n\n- Atria mang đến hệ thống cấu hình bố cục màn hình chính (Homescreen) linh hoạt cho người dùng iOS.\n\n- CÁC TÍNH NĂNG:\n\n- Bố cục và cấu hình biểu tượng theo từng trang\n\n- Tự động căn vị trí widget và tương thích tốt\n\n- Tự động lưu trạng thái biểu tượng (giữa các lần khởi động lại máy)\n\n- Tùy chỉnh số cột,số hàng\n\n- Tùy chỉnh tỉ lệ (kích thước) biểu tượng\n\n- Tùy chỉnh tỉ lệ biểu tượng của widget\n\n- Tùy chỉnh lề của trang (trái, phải, trên, dưới)\n\n- Tùy chỉnh độ lệch (offset) của trang và widget\n\n- Bật / Tắt Thư viện Ứng dụng (App Library)\n\n- Ẩn huy hiệu (badge), nhãn tên (label), chấm trang (page dots) và hiệu ứng mờ của biểu tượng thư mục\n\n- Hiển thị nền làm mờ tùy chỉnh phía sau các biểu tượng\n\n- Hiển thị nhãn trang tùy chỉnh và lời chào \n\n- Tùy chỉnh vị trí chấm trang\n\n- Xuất và nhập chuỗi preset\n\n- CÁCH SỬ DỤNG:\n\n- Để bắt đầu dùng Atria, hãy 3D Touch vào một biểu tượng trên màn hình chính và nhấn “Chỉnh bố cục (Edit Layout)”. Bạn sẽ thấy thêm hướng dẫn để sử dụng tweak này hết khả năng. Đừng quên: phần Cài đặt (Settings) cũng cung cấp một số cấu hình nâng cao không có trực tiếp trên màn hình chính \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -42,7 +48,7 @@
 "title":"Liên hệ tôi "
 },
 {
-"markdown":"[**Facebook**](https://www.facebook.com/bvnmobileservices999) - Liên hệ cho tôi qua Facebook\n\n\n",
+"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -61,21 +67,26 @@
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
-"text":"Tweaks"
+"text":"Tweak"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"456 KB "
 },
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"26/5/2023"
+"text":"18/1/2026"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 16.4"
+"text":"iOS 15.0 đến 17.7.10"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by BVN",
+"text":"Copyright © 2025 by BVN999",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -88,11 +99,42 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.3.3\n\nĐã hỗ trợ Rootless Jailbreak."
+"markdown":"### Phiên bản 1.4.1\n\n- Sửa lỗi"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by BVN",
+"text":"Copyright © 2025 by BVN999",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
