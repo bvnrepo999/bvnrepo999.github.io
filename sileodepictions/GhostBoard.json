@@ -1,163 +1,202 @@
 {
-"minVersion":"0.4",
-"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
-"tintColor":"#5777B8",
-"tabs":[
-{
-"tabname":"Chi tiết",
-"views":[
-{
-"text": "Nhóm trò chuyện Tele BVN Repo",
-"action": "https://t.me/repobvn",
-"openExternal": 1,
-"class": "DepictionButtonView"
-},
-{
-"class":"DepictionScreenshotsView",
-"screenshots":[
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/3.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/4.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/5.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/6.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/7.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/8.png",
-"accessibilityText":"Screenshot"
-}
-],
-"itemCornerRadius":0,
-"itemSize":"{185,400}"
-},
-{
-"markdown":"GhostBoard\n\n- GhostBoard là tweak tối giản giao diện Home Screen trên iOS, giúp màn hình chính gọn gàng và nhìn “Đẹp” hơn bằng cách ẩn các thành phần thừa.\n\n- Tính năng:\n\n- Ẩn nền Dock (dock trong suốt)\n\n- Ẩn viên thuốc tìm kiếm (Search Pill)\n\n- Ẩn dấu chấm trang (Page Dots)\n\n- Ẩn tên ứng dụng & tên thư mục\n\n- 5 biểu tượng trên Dock\n\n- Ẩn thư viện ứng dụng\n\n- Ứng dụng ảnh:\n\n- Xoá ảnh hoàn toàn\n\n- Phóng to ảnh không giới hạn\n\n- Camera:\n\n- Tắt âm thanh chụp ảnh\n\n- Tự động mở khoá,vào thẳng màn hình chính khi nhận diện Faceid & vân tay\n\n- Xoay ngang biểu tượng ở màn hình chính\n\n- Tắt lời nhắc dán iOS16\n\n- Ước tính thời gian sạc MHK\n\n- 2 hàng Dock\n\n- Hiển thị % Độ sáng & Âm lượng trên trung tâm điều khiển\n- Xoá thông báo linh kiện không xác định,hiển thị % pin khi thay pin không chính hãng.\n\n- Thêm nhấn 2 lần nút giảm âm lượng để bật đèn Pin (Màn hình khoá)\n\n- Thêm nhấn 2 lần để khoá màn hình\n\n- Ẩn chế độ xem hôm nay\n\n- Nhấn 2 lần ở màn hình khoá để tắt\n\n- Ẩn thanh Home\n\n- Tắt hẳn Wifi & Bluetooth  \n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Liên hệ tôi "
-},
-{
-"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Thông tin"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Tác giả",
-"text":"BVN"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Thể loại",
-"text":"Tweak"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Dung lượng",
-"text":"456 KB "
-},
-{
-"class":"DepictionTableTextView",
-"title":"Ngày tải lên",
-"text":"21/1/2026"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 17.7.10"
-},
-{
-"class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN999",
-"textColor":"#999999",
-"fontSize":"10.0",
-"alignment":1
-}
-],
-"class":"DepictionStackView"
-},
-{
-"tabname":"Nhật ký thay đổi",
-"views":[
-{
-"class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.9\n\n- Thêm Tắt hẳn Wifi & Bluetooth\n\n- Thêm ẩn thanh Home\n\n ### Phiên bản 1.8\n\n- Thêm nhấn 2 lần ở màn hình khoá để tắt\n\n- Thêm ẩn chế độ xem hôm nay(Today view)\n\n ### Phiên bản 1.7\n\n- Sửa lỗi hiền thị 0% trên Trung tâm điều khiển\n\n ### Phiên bản 1.6\n\n- Thêm nhấn 2 lần để khoá màn hình\n\n- Thêm nhấn 2 lần nút giảm âm lượng để bật đèn Pin (Màn hình khoá)\n\n ### Phiên bản 1.5\n\n- Thêm tính năng xoá thông báo linh kiện không xác định & hiện thị % pin khi thay pin không chính hãng.\n\n ### Phiên bản 1.4\n\n- Thêm hiển thị % Độ sáng & Âm lượng\n\n- Thêm 2 hàng Dock\n\n- Thêm tính năng điều chỉnh chiều Cao/Thấp ước tính sạc"
-}
-],
-"class":"DepictionStackView"
-},
-{
-"tabname":"L.Hệ & Hỗ trợ",
-"views":[
-{
-"class":"DepictionTableButtonView",
-"title": "Paypal",
-"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Mua cho tôi một ly cà phê",
-"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Telegram Admin",
-"action": "https://t.me/bvnsupport"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Nhóm Telegram",
-"action": "https://t.me/repobvn"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Fanpage Facebook",
-"action": "https://facebook.com/repocydiaBVN"
-},
-{
-"class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN999",
-"textColor":"#999999",
-"fontSize":"10.0",
-"alignment":1
-}
-],
-"class":"DepictionStackView"
-}
-],
-"class":"DepictionTabView"
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/repobvn",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            { "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/1.png", "accessibilityText": "Screenshot" },
+            { "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/2.png", "accessibilityText": "Screenshot" },
+            { "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/3.png", "accessibilityText": "Screenshot" },
+            { "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/4.png", "accessibilityText": "Screenshot" },
+            { "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/5.png", "accessibilityText": "Screenshot" },
+            { "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/6.png", "accessibilityText": "Screenshot" },
+            { "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/7.png", "accessibilityText": "Screenshot" },
+            { "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/8.png", "accessibilityText": "Screenshot" }
+          ],
+          "itemCornerRadius": 0,
+          "itemSize": "{185,400}"
+        },
+
+        {
+          "class": "DepictionLabelView",
+          "text": "GhostBoard",
+          "textColor": "#5777B8",
+          "fontSize": "20.0",
+          "alignment": 0
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- GhostBoard là tweak tối giản giao diện Home Screen trên iOS, giúp màn hình chính gọn gàng và nhìn “Đẹp” hơn bằng cách ẩn các thành phần thừa.\n",
+          "useSpacing": "true"
+        },
+
+        {
+          "class": "DepictionLabelView",
+          "text": "Tính năng:",
+          "textColor": "#8B5CF6",
+          "fontSize": "18.0",
+          "alignment": 0
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Ẩn nền Dock (dock trong suốt)\n\n- Ẩn viên thuốc tìm kiếm (Search Pill)\n\n- Ẩn dấu chấm trang (Page Dots)\n\n- Ẩn tên ứng dụng & tên thư mục\n\n- 5 biểu tượng trên Dock\n\n- Ẩn thư viện ứng dụng\n\n",
+          "useSpacing": "true"
+        },
+
+        {
+          "class": "DepictionLabelView",
+          "text": "Ứng dụng ảnh:",
+          "textColor": "#22C55E",
+          "fontSize": "18.0",
+          "alignment": 0
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Xoá ảnh hoàn toàn\n\n- Phóng to ảnh không giới hạn\n\n",
+          "useSpacing": "true"
+        },
+
+        {
+          "class": "DepictionLabelView",
+          "text": "Camera:",
+          "textColor": "#F59E0B",
+          "fontSize": "18.0",
+          "alignment": 0
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Tắt âm thanh chụp ảnh\n\n- Tự động mở khoá,vào thẳng màn hình chính khi nhận diện Faceid & vân tay\n\n",
+          "useSpacing": "true"
+        },
+
+        {
+          "class": "DepictionLabelView",
+          "text": "Khác:",
+          "textColor": "#06B6D4",
+          "fontSize": "18.0",
+          "alignment": 0
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Xoay ngang biểu tượng ở màn hình chính\n\n- Tắt lời nhắc dán iOS16\n\n- Ước tính thời gian sạc MHK\n\n- 2 hàng Dock\n\n- Hiển thị % Độ sáng & Âm lượng trên trung tâm điều khiển\n- Xoá thông báo linh kiện không xác định,hiển thị % pin khi thay pin không chính hãng.\n\n- Thêm nhấn 2 lần nút giảm âm lượng để bật đèn Pin (Màn hình khoá)\n\n- Thêm nhấn 2 lần để khoá màn hình\n\n- Ẩn chế độ xem hôm nay\n\n- Nhấn 2 lần ở màn hình khoá để tắt\n\n- Ẩn thanh Home\n\n- Tắt hẳn Wifi & Bluetooth  \n\n",
+          "useSpacing": "true"
+        },
+
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Liên hệ tôi "
+        },
+        {
+          "markdown": "[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tác giả",
+          "text": "BVN"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Thể loại",
+          "text": "Tweak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Dung lượng",
+          "text": "456 KB "
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Ngày tải lên",
+          "text": "21/1/2026"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Khả năng tương thích",
+          "text": "iOS 15.0 đến 17.7.10"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2025 by BVN999",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+
+    {
+      "tabname": "Nhật ký thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 1.9\n\n- Thêm Tắt hẳn Wifi & Bluetooth\n\n- Thêm ẩn thanh Home\n\n ### Phiên bản 1.8\n\n- Thêm nhấn 2 lần ở màn hình khoá để tắt\n\n- Thêm ẩn chế độ xem hôm nay(Today view)\n\n ### Phiên bản 1.7\n\n- Sửa lỗi hiền thị 0% trên Trung tâm điều khiển\n\n ### Phiên bản 1.6\n\n- Thêm nhấn 2 lần để khoá màn hình\n\n- Thêm nhấn 2 lần nút giảm âm lượng để bật đèn Pin (Màn hình khoá)\n\n ### Phiên bản 1.5\n\n- Thêm tính năng xoá thông báo linh kiện không xác định & hiện thị % pin khi thay pin không chính hãng.\n\n ### Phiên bản 1.4\n\n- Thêm hiển thị % Độ sáng & Âm lượng\n\n- Thêm 2 hàng Dock\n\n- Thêm tính năng điều chỉnh chiều Cao/Thấp ước tính sạc"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+
+    {
+      "tabname": "L.Hệ & Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram Admin",
+          "action": "https://t.me/bvnsupport"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Nhóm Telegram",
+          "action": "https://t.me/repobvn"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2025 by BVN999",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
 }
