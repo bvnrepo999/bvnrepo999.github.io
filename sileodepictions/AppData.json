@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://bvnrepo999.github.io/features/sileo.png",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -56,7 +56,7 @@
 "title":"Nhà phát triển",
 "text":"Fouad Rahed"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.4.4" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.4.5" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
