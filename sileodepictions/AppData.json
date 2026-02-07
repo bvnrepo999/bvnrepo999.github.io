@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"headerImage":"https://bvnrepo999.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"30/10/2024"
+"text":"7/2/2025"
 },
 {
 "class":"DepictionTableTextView",
@@ -79,7 +79,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 1024 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -92,11 +92,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.4.4\n\n- Cho phép các ứng dụng được cài đặt trên TrollStore thiết lập lại dữ liệu và quyền"
+"markdown":"### Phiên bản 1.4.5\n\n- Sửa đổi giao diện API để lấy số phiên bản đã hạ cấp của ứng dụng."
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
