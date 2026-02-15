@@ -28,7 +28,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"CallDeclineLS\n\n- CallDeclineLS thêm nút Từ chối cuộc gọi  ngay trên màn hình khoá khi có cuộc gọi đến, giúp bạn từ chối nhanh. \n\n",
+"markdown":"CallDeclineLS\n\n- CallDeclineLS thêm nút Từ chối/Chấp nhận cuộc gọi  ngay trên màn hình khoá khi có cuộc gọi đến \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
