@@ -64,7 +64,7 @@
 "title":"Nhà phát triển",
 "text":"Eevee"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"6.2.2" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"6.5.3" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -87,7 +87,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 6.4.8\n\n- Đã thêm hỗ trợ cho Spotify 9.1.6"
+"markdown":"### Phiên bản 6.5.3\n\n- Đã cập nhật lên Spotify 9.1.22\n\n- Cài đặt Eeveespotify được chuyển lên trên cùng bên phải dưới dạng biểu tượng bánh răng"
 }
 ],
 "class":"DepictionStackView"
