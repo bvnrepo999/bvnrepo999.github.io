@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"headerImage":"https://support-jailbreak.github.io/features/sileo.png",
 "tintColor":"#5777B8",
 "tabs":[
 {
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"25/2/2023"
+"text":"22/2/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -87,7 +87,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2026 by BVN999",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -100,11 +100,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.1\n\n- Hỗ trợ iOS 15/16"
+"markdown":"### Phiên bản 2.1\n\n- Hỗ trợ iOS 15/16\n\n- Hỗ trợ thêm Roothide"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2026 by BVN999",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
