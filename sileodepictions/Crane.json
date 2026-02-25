@@ -35,6 +35,10 @@
 {
 "url":"https://bvnrepo999.github.io/infodeb/Crane/Screenshots/4.png",
 "accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/Crane/Screenshots/5.png",
+"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
@@ -64,7 +68,7 @@
 "title":"Nhà phát triển",
 "text":"opa334"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3.16-4K" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.3.17k" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,7 +77,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"10/3/2025"
+"text":"25/2/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -83,11 +87,11 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 11.0 đến 18.0.1"
+"text":"iOS 11.0 đến 18.4+"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -100,7 +104,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.3.16-4K\n\n- Sửa lỗi "
+"markdown":"### Phiên bản 1.3.17k\n\n- Thêm hỗ trợ cho iOS 18.4 trở lên.\n\n- Thêm công cụ dòng lệnh cranectl, có thể được sử dụng để thực hiện nhiều thao tác khác nhau (liệt kê container, chuyển đổi container, tạo container, xóa container) từ dòng lệnh (Việc này được thêm vào chỉ để khiến gã bán công cụ tương tự với giá 100 đô la mỗi người dùng phải ngừng kinh doanh, không có gì đâu).\n\n ### Phiên bản 1.3.16-4K\n\n- Sửa lỗi "
 },
 {
 "class":"DepictionLabelView",
