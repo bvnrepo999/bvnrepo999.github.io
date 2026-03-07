@@ -88,7 +88,7 @@
 "title":"Nhà phát triển",
 "text":"AhmedBafkir"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.14.8K" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.14.9K" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -97,7 +97,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"11/5/2025"
+"text":"7/3/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -111,7 +111,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -124,11 +124,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.14.8\n\n- Sửa lỗi văng ứng dụng khi tải xuống.\n\n- Cập nhật danh sách phiên bản được hỗ trợ"
+"markdown":"### Phiên bản 2.14.9k\n\n- Đã khắc phục sự cố bảo mật cho phép truy cập trái phép vào toàn bộ hệ thống tập tin từ mạng cục bộ. Dịch vụ hiện chỉ được phép truy cập từ localhost và không còn truy cập được từ bên ngoài nữa.\n\n- Đã cải thiện khả năng tương thích với các phiên bản ứng dụng mới nhất.\n\n- Đã cập nhật danh sách các phiên bản được hỗ trợ.\n\n- Các vấn đề khác đã được khắc phục."
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
