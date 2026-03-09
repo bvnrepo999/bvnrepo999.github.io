@@ -65,12 +65,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"24/2/2026"
+"text":"9/3/2026"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 17.0"
+"text":"iOS 12.0 đến 17.0"
 },
 {
 "class":"DepictionLabelView",
@@ -87,7 +87,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.0\n\n- Thay thế toàn bộ icon Cài đặt\n\n- Sửa lỗi văng ứng dụng khi bật Dark Settings\n\n ### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
