@@ -64,7 +64,7 @@
 "title":"Nhà phát triển",
 "text":"Eevee"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"6.5.3" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"6.6.2" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"2/1/2026"
+"text":"13/3/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 6.6.0\n\n- Hỗ trợ Spotify 9.1.24\n\n ### Phiên bản 6.5.3\n\n- Đã cập nhật lên Spotify 9.1.22\n\n- Cài đặt Eeveespotify được chuyển lên trên cùng bên phải dưới dạng biểu tượng bánh răng"
+"markdown":"### Phiên bản 6.6.2\n\n- Hỗ trợ Spotify 9.1.28\n\n ### Phiên bản 6.5.3\n\n- Đã cập nhật lên Spotify 9.1.22\n\n- Cài đặt Eeveespotify được chuyển lên trên cùng bên phải dưới dạng biểu tượng bánh răng"
 }
 ],
 "class":"DepictionStackView"
