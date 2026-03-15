@@ -32,7 +32,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"VideoWall\n\n- Tính năng:\n\n- Thêm Video để làm nền cho Màn hình khoá & Màn hình chính trên thiết bị iOS của bạn\n\n- Vui lòng cài đặt Tweak Legacy arm64e trước khi cài Tweak này\n\n- Sau khi cài đặt xong ở Màn hình chính sẽ xuất hiện 1 ứng dụng có tên VideoWall\n\n- Bạn chỉ cần bật lên và chọn Video nó sẽ tự động được thêm vào màn hình chính hoặc màn hình khoá mà không cần Respring\n\n- Có thể tuỳ chỉnh âm lượng\n\n- Phiên bản hiện tại chỉ hỗ trợ ios 16 trở lên tôi sẽ cập nhật cho các iOS thấp hơn vào 1 ngày gần nhất.\n\n- Nathan không hỗ trợ😭 \n\n",
+"markdown":"VideoWall\n\n- Tính năng:\n\n- Thêm Video để làm nền cho Màn hình khoá & Màn hình chính trên thiết bị iOS của bạn\n\n- 🚨Xs trở lên Vui lòng cài đặt Tweak Legacy arm64e trước khi cài Tweak này\n\n- Sau khi cài đặt xong ở Màn hình chính sẽ xuất hiện 1 ứng dụng có tên VideoWall\n\n- Bạn chỉ cần bật lên và chọn Video nó sẽ tự động được thêm vào màn hình chính hoặc màn hình khoá mà không cần Respring\n\n- Có thể tuỳ chỉnh âm lượng\n\n- Lần đầu tiên thêm Video vui lòng Respring để áp dụng các thay đổi \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -73,16 +73,16 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"11/12/2025"
+"text":"15/3/2026"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 16.0 đến 16.7.12"
+"text":"iOS 15.0 đến 16.7.12"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.0.0\n\nLần đầu phát hành"
+"markdown":"#### 1.0.1\n\n- Thêm hỗ trợ iOS15,sửa lỗi\n\n #### 1.0.0\n\nLần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
@@ -130,7 +130,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
