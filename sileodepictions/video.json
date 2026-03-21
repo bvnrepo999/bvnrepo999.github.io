@@ -91,7 +91,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.0.1\n\n- Sửa lỗi,cải thiện hiệu năng\n\n- Thêm bật đảo nhỏ\n\n\- Thêm trang tải video\n\n #### 1.0.1\n\nHỗ trợ thêm Video trực tiếp từ Album ảnh\n\nThêm chế độ thu phóng Video"
+"markdown":"#### 1.0.2\n\n- Sửa lỗi,cải thiện hiệu năng\n\n- Thêm bật đảo nhỏ\n\n\- Thêm trang tải video\n\n #### 1.0.1\n\nHỗ trợ thêm Video trực tiếp từ Album ảnh\n\nThêm chế độ thu phóng Video"
 }
 ],
 "class":"DepictionStackView"
