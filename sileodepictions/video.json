@@ -28,7 +28,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"VideoIsland\n\n- Sử dụng video làm nền cho Dynamicisland\n\n- Cách sử dụng:\n\n- 🚨iPhone XS trở lên Yêu cầu cài Tweak Legacy arm64e Support\n\n- X trở xuống cài oldabi-stub\n\n- Vào cài đặt của Tweak nhấn chọn Video từ Album ảnh\n\n- Lưu lại các Video đã thêm\n\n- Nếu muốn xoá vuốt sang trái để xoá\n\n- 1 Số Video mình gửi trong nhóm chát Telegram các bạn nhấp vào Tham gia gr ở phía trên để tải nhé \n\n",
+"markdown":"VideoIsland\n\n- Sử dụng video làm nền cho Dynamicisland\n\n- Cách sử dụng:\n\n- 🚨iPhone XS trở lên Yêu cầu cài Tweak Legacy arm64e Support\n\n- X trở xuống cài oldabi-stub\n\n- Vào cài đặt của Tweak nhấn chọn Video từ Album ảnh\n\n- Lưu lại các Video đã thêm\n\n- Nếu muốn xoá vuốt sang trái để xoá\n\n- Các bạn có thể than gia nhóm Tegram của Repo BVN để tải Video nhé \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -40,7 +40,7 @@
 "title":"Liên hệ tôi "
 },
 {
-"markdown":"[**Ủng hộ**](https://bvnsupport.github.io/donate/) - Nhấn vào đây nè\n\n\n",
+"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
