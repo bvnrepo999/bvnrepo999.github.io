@@ -40,7 +40,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"Fix Rdar Red StatusBar\n\n- Sửa lỗi thanh Rdar đỏ trên thanh trạng thái khi giả mạo cử chỉ iPhone X\n\n- Sau khi cài xong Respring vào Dopamine hoặc Palera Khởi động lại không gian người dùng\n\n- Lưu ý⚠️: Khi muốn trở về trạng thái bình thường hoặc các bạn xoá Jailbreak vui lòng cài Filza\n\n- Mở filza đi tới var-mobile-Library-Preferences tìm tệp com.apple.UIKit.plist\n\n- Thấy dòng UIStatusBarVisualProviderClassName nhấp vào đây và xoá dòng _UIStatusBarVisualProvider_Split1170 và nhấn lưu lại tránh bị lỗi khi khi các bạn muốn xoá hẳn Jailbreak\n\n- Chúc các bạn thành công \n\n",
+"markdown":"Fix Rdar Red StatusBar\n\n- Sửa lỗi thanh Rdar đỏ trên thanh trạng thái khi giả mạo cử chỉ iPhone X\n\n- Sau khi cài xong Respring vào Dopamine hoặc Palera Khởi động lại không gian người dùng\n\n- Lưu ý⚠️: Khi muốn trở về trạng thái bình thường hoặc các bạn xoá Jailbreak vui lòng cài Filza\n\n- Mở filza đi tới var-mobile-Library-Preferences tìm tệp com.apple.UIKit.plist\n\n- Thấy dòng UIStatusBarVisualProviderClassName nhấp vào đây và Sửa dòng _UIStatusBarVisualProvider_Split1170 thành null và nhấn lưu lại tránh bị lỗi khi khi các bạn muốn xoá hẳn Jailbreak\n\n- Chúc các bạn thành công \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
