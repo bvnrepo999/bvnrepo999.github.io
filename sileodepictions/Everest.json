@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.4\n\n- Sửa lỗi tắt tiếng trên Youtube và 1 số ứng dụng khác.\n\n- Cải thiện độ nét của video"
+"markdown":"### Phiên bản 1.0.1\n\n- Hỗ trợ rootless"
 }
 ],
 "class":"DepictionStackView"
