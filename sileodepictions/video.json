@@ -32,7 +32,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"VideoIsland\n\n- Sử dụng video làm nền cho Dynamicisland\n\n ###    Chú ý:\n\n- Vui lòng cài tweak Legacy Arm64e Support đối với các thiết bị Xs trở lên\n\n ### Các tính năng chính:\n\n- Chọn video từ album ảnh để thêm vào DynamicIsland\n\n- Các video được thên thêm vào sẽ lưu lại và có tuỳ chọn video và xoá\n\n- Chế độ Bật đảo nhỏ\n\n- Cacs video sau khi được thêm vào sẽ hoạt động ngay lập tức mà không cần phải Respring\n\n ### Hỗ trợ: \n\n- Dopamine,Roothide,Palera1n,Bootstrap \n\n",
+"markdown":"VideoIsland\n\n- Sử dụng video làm nền cho Dynamicisland\n\n ###    Chú ý:\n\n- Vui lòng cài tweak Legacy Arm64e Support đối với các thiết bị Xs trở lên\n\n ### Các tính năng chính:\n\n- Chọn video từ album ảnh để thêm vào DynamicIsland\n\n- Video được thêm vào sẽ lưu lại và có tuỳ chọn video đã lưu và xoá\n\n- Chế độ Bật đảo nhỏ\n\n- Các video sau khi được thêm vào sẽ hoạt động ngay lập tức mà không cần phải Respring\n\n ### Hỗ trợ: \n\n- Dopamine,Roothide,Palera1n,Bootstrap \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
