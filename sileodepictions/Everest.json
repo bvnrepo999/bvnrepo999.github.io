@@ -78,7 +78,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 16.0 đến 17.0"
+"text":"iOS 14.0 đến 17.0"
 },
 {
 "class":"DepictionLabelView",
