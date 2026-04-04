@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"Ango Theme Full \n\n- 6881 Biểu tượng\n\n- Biểu tượng thanh trạng thái\n\n- Biểu tượng cài đặt\n\n- Và 1 số mục khác\n\n- Yêu cầu cài Tweak Snowboard để kích hoạt \n\nㅤ\n\n",
+"markdown":"Ango Theme Full \n\n- Hơn 7000 biểu tượng\n\n- Biểu tượng thanh trạng thái\n\n- Biểu tượng cài đặt\n\n- Và 1 số mục khác\n\n- Yêu cầu cài Tweak Snowboard để kích hoạt \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -88,7 +88,7 @@
 "title":"Nhà phát triển",
 "text":"maxpatchs"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"6.0K" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"6.4" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -111,7 +111,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -124,11 +124,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 6.0\n\n- Thêm biểu tượng mới"
+"markdown":"### Phiên bản 6.4\n\n- Thêm biểu tượng mới"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
