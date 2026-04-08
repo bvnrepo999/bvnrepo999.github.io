@@ -77,7 +77,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"9/3/2026"
+"text":"8/4/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -99,7 +99,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.94\n\n- Sửa lỗi"
+"markdown":"### Phiên bản 1.98\n\n- Xem ảnh đại diện : Xem ảnh đại diện của bất kỳ ai ở độ phân giải cao ngay cả khi nó bị khóa\n\n- Giao diện tài khoản đã truy cập : Cải tiến lớn cho bố cục nhật ký tài khoản\n\n- Đã sửa lỗi sập ứng dụng trên Reels\n\n- Đã sửa lỗi thời gian trên Reel\n\n- Đã sửa lỗi sao chép bình luận\n\n- Đã sửa lỗi mở liên kết trong bình luận\n\n- Đã sửa lỗi tải video trong tin nhắn\n\n- Đã sửa lỗi thay đổi màu sắc/phông chữ\n\n ### Phiên bản 1.94\n\n- Sửa lỗi"
 }
 ],
 "class":"DepictionStackView"
