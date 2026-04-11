@@ -10,7 +10,7 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnsupport.github.io/infodeb/ytx/Screenshots/1.png",
+"url":"https://bvnrepo999.github.io/infodeb/ytx/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -54,7 +54,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"11/10/2025"
+"text":"12/04/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -63,7 +63,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by BVN",
+"text":"Copyright © 2026 by BVN",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -76,11 +76,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### Phiên bản 1.7.17\n\nChặn loại quảng cáo video mới"
+"markdown":"#### Phiên bản 1.7.18\n\nThử nghiệm: Đã loại bỏ các liên kết có thể không cần thiết liên quan đến quảng cáo"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN",
+"text":"Copyright © 2026 by BVN",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
