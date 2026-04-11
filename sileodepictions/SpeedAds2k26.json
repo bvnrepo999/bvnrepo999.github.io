@@ -87,7 +87,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.1.4\n\n- Hỗ trợ thêm quảng cáo"
+"markdown":"### Phiên bản 1.1.5\n\n- Hỗ trợ thêm quảng cáo"
 }
 ],
 "class":"DepictionStackView"
