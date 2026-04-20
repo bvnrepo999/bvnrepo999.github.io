@@ -50,9 +50,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"Dell"
+"text":"Blatants"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"0.0.1" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.0" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,12 +61,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"5/9/2024"
+"text":"20/4/2026"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"125 KN"
+"text":"13,3 MB"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,7 +75,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -88,11 +88,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 0.0.1\n\n- Rootless Support"
+"markdown":"### Phiên bản 1.0.0\n\n- Hỗ trợ phiên bản mới nhất"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
