@@ -24,7 +24,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"WatchFix\n\n- Hỗ trợ kết nối iPhone phiên bản iOS cũ với Apple Watch phiên bản mới \n\n ### Chú ý:\n\n- Hiện tại chỉ cho phép ghép nối với các thiết bị dưới WatchOS 26\n\n ### Các tính năng chính:\n\n- Thêm tính năng Gọi Apple Watch của tôi trong Trung tâm điều khiển\n\n- Hỗ trợ đồng bộ hóa hình ảnh\n\n- Hỗ trợ đồng bộ hóa nhạc\n\n- Hỗ trợ bố cục\n\n- Hỗ  trợ mặt đồng hồ\n\n- Hỗ trợ bản đồ\n\n- Hỗ trợ chế độ Lockdown\n\n- Hỗ trợ mạng di động \n\n",
+"markdown":"WatchFix\n\n ### Với WatchOS 26, vui lòng sử dụng Tweak này một cách thận trọng, chúng tôi không chịu trách nhiệm nếu xảy ra việc phải ghép đôi lại!\n\n- Hỗ trợ kết nối iPhone phiên bản iOS cũ với Apple Watch phiên bản mới \n\n ### Chú ý:\n\n- Hiện tại chỉ cho phép ghép nối với các thiết bị dưới WatchOS 26\n\n ### Các tính năng chính:\n\n- Thêm tính năng Gọi Apple Watch của tôi trong Trung tâm điều khiển\n\n- Hỗ trợ đồng bộ hóa hình ảnh\n\n- Hỗ trợ đồng bộ hóa nhạc\n\n- Hỗ trợ bố cục\n\n- Hỗ  trợ mặt đồng hồ\n\n- Hỗ trợ bản đồ\n\n- Hỗ trợ chế độ Lockdown\n\n- Hỗ trợ mạng di động\n\n ### Nếu Tweak không hoạt động, hãy khởi động lại không gian người dùng thủ công một lần! \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"9/4/2026"
+"text":"21/4/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -87,7 +87,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\n- Sửa lỗi\n\n- Thêm tính năng mới"
+"markdown":"### Phiên bản 2.0.1\n\n- Hỗ trợ WatchOS 26 (Thử nghiệm)\n\n- Sửa lỗi đồng bộ hóa thư viện ảnh\n\n- Thêm ứng dụng ở Màn hình chính\n\n- Thêm chức năng chẩn đoán\n\n- Thêm nhiều tùy chọn cài đặt hơn\n\n ### Phiên bản 1.0.0\n\n- Sửa lỗi\n\n- Thêm tính năng mới"
 }
 ],
 "class":"DepictionStackView"
