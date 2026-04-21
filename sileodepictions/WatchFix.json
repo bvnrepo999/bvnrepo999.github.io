@@ -18,13 +18,25 @@
 {
 "url":"https://bvnrepo999.github.io/infodeb/WatchFix/Screenshots/1.png",
 "accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/WatchFix/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/WatchFix/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/WatchFix/Screenshots/4.png",
+"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
 },
 {
-"markdown":"WatchFix\n\n ### Với WatchOS 26, vui lòng sử dụng Tweak này một cách thận trọng, chúng tôi không chịu trách nhiệm nếu xảy ra việc phải ghép đôi lại!\n\n- Hỗ trợ kết nối iPhone phiên bản iOS cũ với Apple Watch phiên bản mới \n\n ### Chú ý:\n\n- Hiện tại chỉ cho phép ghép nối với các thiết bị dưới WatchOS 26\n\n ### Các tính năng chính:\n\n- Thêm tính năng Gọi Apple Watch của tôi trong Trung tâm điều khiển\n\n- Hỗ trợ đồng bộ hóa hình ảnh\n\n- Hỗ trợ đồng bộ hóa nhạc\n\n- Hỗ trợ bố cục\n\n- Hỗ  trợ mặt đồng hồ\n\n- Hỗ trợ bản đồ\n\n- Hỗ trợ chế độ Lockdown\n\n- Hỗ trợ mạng di động\n\n ### Nếu Tweak không hoạt động, hãy khởi động lại không gian người dùng thủ công một lần! \n\n",
+"markdown":"WatchFix\n\n ### Với WatchOS 26, vui lòng sử dụng Tweak này một cách thận trọng, chúng tôi không chịu trách nhiệm nếu xảy ra việc phải ghép đôi lại!\n\n- Hỗ trợ kết nối iPhone phiên bản iOS cũ với Apple Watch phiên bản mới\n\n ### Các tính năng chính:\n\n- Thêm tính năng Gọi Apple Watch của tôi trong Trung tâm điều khiển\n\n- Hỗ trợ đồng bộ hóa hình ảnh\n\n- Hỗ trợ đồng bộ hóa nhạc\n\n- Hỗ trợ bố cục\n\n- Hỗ  trợ mặt đồng hồ\n\n- Hỗ trợ bản đồ\n\n- Hỗ trợ chế độ Lockdown\n\n- Hỗ trợ mạng di động\n\n ### Nếu Tweak không hoạt động, hãy khởi động lại không gian người dùng thủ công một lần! \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
