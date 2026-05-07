@@ -56,7 +56,7 @@
 "title":"Nhà phát triển",
 "text":"Fouad Rahed"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.4.5" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"7/2/2025"
+"text":"7/5/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,7 +75,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15 đến 16.x"
+"text":"iOS 15 đến 17.0"
 },
 {
 "class":"DepictionLabelView",
@@ -92,7 +92,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.4.5\n\n- Sửa đổi giao diện API để lấy số phiên bản đã hạ cấp của ứng dụng."
+"markdown":"### Phiên bản 2.0.1\n\n- Thêm tính năng mới."
 },
 {
 "class":"DepictionLabelView",
