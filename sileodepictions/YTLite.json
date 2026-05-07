@@ -31,18 +31,6 @@
 {
 "url":"https://bvnrepo999.github.io/infodeb/YTLite/Screenshots/3.png",
 "accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/YTLite/Screenshots/4.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/YTLite/Screenshots/5.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/YTLite/Screenshots/6.png",
-"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
@@ -72,7 +60,7 @@
 "title":"Nhà phát triển",
 "text":"dvntm"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"5.2b4" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"5.2.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -81,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"05/11/2025"
+"text":"7/5/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -95,7 +83,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -108,11 +96,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 5.2b4\n\n- Sửa lỗi"
+"markdown":"### Phiên bản 5.2.1\n\n- Hỗ trợ phiên bản Youtube mới nhất"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
