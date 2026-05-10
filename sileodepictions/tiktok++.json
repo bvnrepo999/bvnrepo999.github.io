@@ -1,0 +1,135 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"text": "Nhóm trò chuyện Tele BVN Repo",
+"action": "https://t.me/repobvn",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnrepo999.github.io/infodeb/tiktok++/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"Tiktok++\n\n ### Bổ sung các tính năng hữu ích cho Tiktok\n\n ### Các tính năng:\n\n- Tải Video,ảnh ,âm thanh\n\n- Chặn quảng cáo\n\n- Ẩn video phát trực tiếp\n\n- Tự động chuyển tiếp video\n\n- Xoá logo hộp quà,nhấp ngay có thường\n\n- Xem hồ sơ ẩn danh\n\n- Tự động xoá lịch sử\n\n- Xác nhận trước khi thích\n\n- Luôn hiện thanh tiến trình\n\n- Hiển thị lượt thích và số bài đăng trên hồ sơ\n\n- Số người theo dõi chính xác\n\n- Giả mạo tích xanh\n\n- Giả mạo người theo dõi\n\n- Giả mạo đã theo dõi\n\n ### Cách kích hoạt\n\n- Chạm 2 ngón tay trên màn hình để hiển thị cài đặt \n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"BvN"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweak"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"456 KB "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"10/5/2026"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 12.0 đến 17.0"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2026 by BVN999",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2026 by BVN999",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
