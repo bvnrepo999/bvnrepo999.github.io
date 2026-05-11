@@ -28,7 +28,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"Messenger++\n\n ### Bổ sung các tính năng hữu ích cho ứng dụng Messenger\n\n ### Các tính năng:\n\n- Chặn quảng cáo\n\n- Tắt đã xem tin nhắn\n\n- Hiển thị con mắt\n\n- Xác nhận trước khi gọi\n\n- Tải Story\n\n- Tăng độ dài video đăng tin\n\n- Tắt xem trước tin\n\n- Tắt đã xem tin\n\n- Tắt đang gõ tin nhắn \n\n",
+"markdown":"Messenger++\n\n ### Bổ sung các tính năng hữu ích cho ứng dụng Messenger\n\n ### Các tính năng:\n\n- Chặn quảng cáo\n\n- Tắt đã xem tin nhắn\n\n- Hiển thị con mắt\n\n- Xác nhận trước khi gọi\n\n- Tải Story\n\n- Tăng độ dài video đăng tin\n\n- Tắt xem trước tin\n\n- Tắt đã xem tin\n\n- Tắt đang gõ tin nhắn\n\n ### Cách kích hoạt\n\n- Nhấn giữ mục thông báo ở thanh Tab để hiển thị cài đặt \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
