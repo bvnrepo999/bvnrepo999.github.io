@@ -16,7 +16,7 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnrepo999.github.io/infodeb/tiktok++/Screenshots/1.png",
+"url":"https://bvnrepo999.github.io/infodeb/bvnringtones/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -24,7 +24,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"Tiktok++\n\n ### Bổ sung các tính năng hữu ích cho Tiktok\n\n ### Các tính năng:\n\n- Tải Video,ảnh ,âm thanh\n\n- Chặn quảng cáo\n\n- Ẩn video phát trực tiếp\n\n- Tự động chuyển tiếp video\n\n- Xoá logo hộp quà,nhấp ngay có thường\n\n- Xem hồ sơ ẩn danh\n\n- Tự động xoá lịch sử\n\n- Xác nhận trước khi thích\n\n- Luôn hiện thanh tiến trình\n\n- Hiển thị lượt thích và số bài đăng trên hồ sơ\n\n- Số người theo dõi chính xác\n\n- Giả mạo tích xanh\n\n- Giả mạo người theo dõi\n\n- Giả mạo đã theo dõi\n\n- Giả mạo lượt thích hồ sơ\n\n ### Cách kích hoạt\n\n- Nhấn giữ menu Hộp thư để hiển thị cài đặt \n\n",
+"markdown":"BVNRingtones\n\n ### Tạo nhạc chuông ngay trên thiết bị của bạn\n\n ### Các tính năng:\n\n- Cho phép tạo nhạc chuông từ Video trong album ảnh\n\n- Tạo nhạc chuông có sẵn từ Tệp\n\n- Cho phép đổi tên,phát nhạc,và \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -70,7 +70,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 12.0 đến 17.0"
+"text":"iOS 15.0 đến 17.0"
 },
 {
 "class":"DepictionLabelView",
@@ -87,7 +87,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\n- Thêm giả mạo lượt thích hồ sơ\n\n- Thay đổi cách gọi Menu cài đặt qua nhấn giữ Hộp thư\n\n ### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
