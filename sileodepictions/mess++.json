@@ -91,7 +91,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.0\n\n- Sửa lỗi văng Messenger\n\n- Thêm ẩn vìng tròn AI\n\n- Thêm ẩn Stori dưới mục tìm kiếm\n\n- Sửa lỗi không hiển thị cài đặt Mess++\n\n ### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
