@@ -18,13 +18,17 @@
 {
 "url":"https://bvnrepo999.github.io/infodeb/fb++/Screenshots/1.png",
 "accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/fb++/Screenshots/2.png",
+"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
 "itemSize":"{185,400}"
 },
 {
-"markdown":"Facebook++\n\n ### Bổ sung các tính năng hữu ích cho ứng dụng Facebook\n\n ### Các tính năng:\n\n- Chặn quảng cáo\n\n- Tắt đã xem Story\n\n- Tải xuông video ở bảng tin\n\n- Tải xuống Video Reels\n\n- Tải Story\n\n- Tự động chuyển tiếp Video Reels\n\n ### Cách kích hoạt\n\n- Nhấp 2 ngón tay 2 lần để để mở cài đặt \n\n",
+"markdown":"Facebook++\n\n ### Bổ sung các tính năng hữu ích cho ứng dụng Facebook\n\n ### Các tính năng:\n\n- Chặn quảng cáo\n\n- Tắt đã xem Story\n\n- Tải xuông video ở bảng tin\n\n- Tải xuống Video Reels\n\n- Tải Story\n\n- Tự động chuyển tiếp Video Reels\n\n- Xoá bộ nhớ đệm\n\n ### Cách kích hoạt\n\n- Nhấn giữ các tab ở dưới để mở cài đặt \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -87,7 +91,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.1\n\n- Sửa lỗi khựng khi lướt bảng tin\n\n- Thêm xoá bộ nhớ đệm\n\n ### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.2\n\n- Thay đổi cách gọi Menu bằng cách nhấn giữ các tab ở dưới\n\n- Sửa lỗi nhạy khi nhấn giữ để tải video\n\n ### Phiên bản 1.0.1\n\n- Sửa lỗi khựng khi lướt bảng tin\n\n- Thêm xoá bộ nhớ đệm\n\n ### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
