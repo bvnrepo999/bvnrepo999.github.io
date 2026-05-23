@@ -18,6 +18,14 @@
 {
 "url":"https://bvnrepo999.github.io/infodeb/tiktok++/Screenshots/1.png",
 "accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/tiktok++/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/tiktok++/Screenshots/3.png",
+"accessibilityText":"Screenshot"
 }
 ],
 "itemCornerRadius":0,
@@ -87,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\n- Thêm giả mạo lượt thích hồ sơ\n\n- Thay đổi cách gọi Menu cài đặt qua nhấn giữ Hộp thư\n\n ### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.1\n\n- Cài đặt được chuyển vào mục Cài đặt quyền riêng tư,tài khoản Tiktok++\n\n ### Phiên bản 1.0.0\n\n- Thêm giả mạo lượt thích hồ sơ\n\n- Thay đổi cách gọi Menu cài đặt qua nhấn giữ Hộp thư\n\n ### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
