@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.1\n\n- Cài đặt được chuyển vào mục Cài đặt quyền riêng tư,tài khoản Tiktok++\n\n ### Phiên bản 1.0.0\n\n- Thêm giả mạo lượt thích hồ sơ\n\n- Thay đổi cách gọi Menu cài đặt qua nhấn giữ Hộp thư\n\n ### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.2\n\n- Nút ẩn,hiện giao diện.Hiện nút con mắt dưới nút tải để ẩn,hiện giao diện video.\n\n- Khu vực tải lên.Hiển thị cờ khu vực tải lên cạnh tên người dùng.\n\n ### Phiên bản 1.0.1\n\n- Cài đặt được chuyển vào mục Cài đặt quyền riêng tư,tài khoản Tiktok++\n\n ### Phiên bản 1.0.0\n\n- Thêm giả mạo lượt thích hồ sơ\n\n- Thay đổi cách gọi Menu cài đặt qua nhấn giữ Hộp thư\n\n ### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
