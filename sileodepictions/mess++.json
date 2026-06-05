@@ -28,7 +28,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"Messenger++\n\n ### Bổ sung các tính năng hữu ích cho ứng dụng Messenger\n\n ### Các tính năng:\n\n- Chặn quảng cáo\n\n- Tắt đã xem tin nhắn\n\n- Hiển thị con mắt\n\n- Xác nhận trước khi gọi\n\n- Tải Story\n\n- Tăng độ dài video đăng tin\n\n- Tắt xem trước tin\n\n- Tắt đã xem tin\n\n- Tắt đang gõ tin nhắn\n\n- Lưu ảnh 1 lần\n\n- Lưu video 1 lần\n\n- Không thông báo đã chụp ảnh màn hình ảnh 1 lần\n\n- Ẩn mục tin\n\n- Ẩn mục thông báo\n\n- Ẩn mục chát\n\n- Ẩn mục menu \n\n",
+"markdown":"Messenger++\n\n ### Bổ sung các tính năng hữu ích cho ứng dụng Messenger\n\n ### Các tính năng:\n\n- Chặn quảng cáo\n\n- Tắt đã xem tin nhắn\n\n- Hiển thị con mắt\n\n- Xác nhận trước khi gọi\n\n- Tải Story\n\n- Tăng độ dài video đăng tin\n\n- Tắt xem trước tin\n\n- Tắt đã xem tin\n\n- Tắt đang gõ tin nhắn\n\n- Lưu ảnh 1 lần\n\n- Lưu video 1 lần\n\n- Không thông báo đã chụp ảnh màn hình ảnh 1 lần\n\n- Ẩn mục tin\n\n- Ẩn mục thông báo\n\n- Ẩn mục chát\n\n- Ẩn mục menu\n\n- Khoá đoạn chát\n\n- Lưu thông báo \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"24/5/2026"
+"text":"5/6/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -91,7 +91,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.6\n\n- Phiên bản thử nghiệm lưu thông báo\n\n- xem lại tin nhắn đã bị thu hồi\n\n ### Phiên bản 1.0.5\n\n- Sửa lỗi\n\n ### Phiên bản 1.0.4\n\n- Sửa lỗi ko ẩn được vòng tròn AI\n\n- Thêm kiểu hiển thị Cài đặt Mess++ mới dành cho nhưng tài khoản ko hiển thị,Nhấp vào Tab Menu > Cài đặt sẽ có 1 biểu tượng ở bên góc phải để mở Mess++\n\n ### Phiên bản 1.0.3\n\n- Sửa đổi cài đặt Messs++\n\n- Thêm tải ảnh gửi 1 lần\n\n- Thêm tải video gửi 1 lần\n\n- Thêm ẩn mục thông báo\n\n- Thêm ẩn mục Menu\n\n- Thêm ẩn mục chát\n\n ### Phiên bản 1.0.2\n\n- Sửa lỗi\n\n ### Phiên bản 1.0.1\n\n- Sửa lỗi hiển thị con mắt\n\n- Thêm ẩn mục tin\n\n ### Phiên bản 1.0.0\n\n- Sửa lỗi văng Messenger\n\n- Thêm ẩn vìng tròn AI\n\n- Thêm ẩn Stori dưới mục tìm kiếm\n\n- Sửa lỗi không hiển thị cài đặt Mess++\n\n ### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.7\n\n- Thêm khoá đoạn chát ,bảo mật quyền riêng tư của bạn\n\n ### Phiên bản 1.0.6\n\n- Phiên bản thử nghiệm lưu thông báo\n\n- xem lại tin nhắn đã bị thu hồi\n\n ### Phiên bản 1.0.5\n\n- Sửa lỗi\n\n ### Phiên bản 1.0.4\n\n- Sửa lỗi ko ẩn được vòng tròn AI\n\n- Thêm kiểu hiển thị Cài đặt Mess++ mới dành cho nhưng tài khoản ko hiển thị,Nhấp vào Tab Menu > Cài đặt sẽ có 1 biểu tượng ở bên góc phải để mở Mess++\n\n ### Phiên bản 1.0.3\n\n- Sửa đổi cài đặt Messs++\n\n- Thêm tải ảnh gửi 1 lần\n\n- Thêm tải video gửi 1 lần\n\n- Thêm ẩn mục thông báo\n\n- Thêm ẩn mục Menu\n\n- Thêm ẩn mục chát\n\n ### Phiên bản 1.0.2\n\n- Sửa lỗi\n\n ### Phiên bản 1.0.1\n\n- Sửa lỗi hiển thị con mắt\n\n- Thêm ẩn mục tin\n\n ### Phiên bản 1.0.0\n\n- Sửa lỗi văng Messenger\n\n- Thêm ẩn vìng tròn AI\n\n- Thêm ẩn Stori dưới mục tìm kiếm\n\n- Sửa lỗi không hiển thị cài đặt Mess++\n\n ### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"

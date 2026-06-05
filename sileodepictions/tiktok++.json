@@ -32,7 +32,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"Tiktok++\n\n ### Bổ sung các tính năng hữu ích cho Tiktok\n\n ### Các tính năng:\n\n- Tải Video,ảnh ,âm thanh\n\n- Chặn quảng cáo\n\n- Ẩn video phát trực tiếp\n\n- Tự động chuyển tiếp video\n\n- Xoá logo hộp quà,nhấp ngay có thường\n\n- Xem hồ sơ ẩn danh\n\n- Tự động xoá lịch sử\n\n- Xác nhận trước khi thích\n\n- Luôn hiện thanh tiến trình\n\n- Hiển thị lượt thích và số bài đăng trên hồ sơ\n\n- Số người theo dõi chính xác\n\n- Giả mạo tích xanh\n\n- Giả mạo người theo dõi\n\n- Giả mạo đã theo dõi\n\n- Giả mạo lượt thích hồ sơ\n\n ### Cách kích hoạt\n\n- Nhấn giữ menu Hộp thư để hiển thị cài đặt \n\n",
+"markdown":"Tiktok++\n\n ### Bổ sung các tính năng hữu ích cho Tiktok\n\n ### Các tính năng:\n\n- Tải Video,ảnh ,âm thanh\n\n- Chặn quảng cáo\n\n- Ẩn video phát trực tiếp\n\n- Tự động chuyển tiếp video\n\n- Xoá logo hộp quà,nhấp ngay có thường\n\n- Xem hồ sơ ẩn danh\n\n- Tự động xoá lịch sử\n\n- Xác nhận trước khi thích\n\n- Luôn hiện thanh tiến trình\n\n- Hiển thị lượt thích và số bài đăng trên hồ sơ\n\n- Số người theo dõi chính xác\n\n- Giả mạo tích xanh\n\n- Giả mạo người theo dõi\n\n- Giả mạo đã theo dõi\n\n- Giả mạo lượt thích hồ sơ\n\n ### Cách kích hoạt\n\n- Nhấn giữ menu Hộp thư để hiển thị cài đặt\n\n- Tải xuống Stori\n\n- Tắt đang gõ tin nhắn\n\n- Tắt đã xem tin nhắn\n\n- Tải ảnh bình luận \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"15/5/2026"
+"text":"5/6/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.3\n\n- Thêm 10 ngôn ngữ mới\n\n- Thêm không báo đã xem tin nhắn\n\n- Thêm tắt đang gõ tin nhắn\n\n- Thêm tảu xuống Stori\n\n ### Phiên bản 1.0.2\n\n- Nút ẩn,hiện giao diện.Hiện nút con mắt dưới nút tải để ẩn,hiện giao diện video.\n\n- Khu vực tải lên.Hiển thị cờ khu vực tải lên cạnh tên người dùng.\n\n ### Phiên bản 1.0.1\n\n- Cài đặt được chuyển vào mục Cài đặt quyền riêng tư,tài khoản Tiktok++\n\n ### Phiên bản 1.0.0\n\n- Thêm giả mạo lượt thích hồ sơ\n\n- Thay đổi cách gọi Menu cài đặt qua nhấn giữ Hộp thư\n\n ### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.4\n\n- Thêm tải ảnh bình luận\n\n- Thêm khoá đoạn chát\n\n ### Phiên bản 1.0.3\n\n- Thêm 10 ngôn ngữ mới\n\n- Thêm không báo đã xem tin nhắn\n\n- Thêm tắt đang gõ tin nhắn\n\n- Thêm tảu xuống Stori\n\n ### Phiên bản 1.0.2\n\n- Nút ẩn,hiện giao diện.Hiện nút con mắt dưới nút tải để ẩn,hiện giao diện video.\n\n- Khu vực tải lên.Hiển thị cờ khu vực tải lên cạnh tên người dùng.\n\n ### Phiên bản 1.0.1\n\n- Cài đặt được chuyển vào mục Cài đặt quyền riêng tư,tài khoản Tiktok++\n\n ### Phiên bản 1.0.0\n\n- Thêm giả mạo lượt thích hồ sơ\n\n- Thay đổi cách gọi Menu cài đặt qua nhấn giữ Hộp thư\n\n ### Phiên bản 0.0.1\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
