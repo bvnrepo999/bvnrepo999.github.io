@@ -111,7 +111,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.1\n\n- Sửa lỗi chặn quảng cáo Youtube\n\n- Thêm hiển thị con mắt trong Stori\n\n- Thêm Không làm gián đoạn nhạc đang phát khi lướt bảng tin Facebook\n\n ### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
