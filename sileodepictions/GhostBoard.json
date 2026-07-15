@@ -1,191 +1,232 @@
 {
-"minVersion":"0.4",
-"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
-"tintColor":"#5777B8",
-"tabs":[
-{
-"tabname":"Chi tiết",
-"views":[
-{
-"text": "Nhóm trò chuyện Tele BVN Repo",
-"action": "https://t.me/bvnrepo",
-"openExternal": 1,
-"class": "DepictionButtonView"
-},
-{
-"class":"DepictionScreenshotsView",
-"screenshots":[
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/3.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/4.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/5.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/6.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/7.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/8.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/9.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/10.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/11.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/12.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/13.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/14.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/15.png",
-"accessibilityText":"Screenshot"
-}
-],
-"itemCornerRadius":0,
-"itemSize":"{185,400}"
-},
-{
-"markdown":"GhostBoard\n\n- GhostBoard là một tweak All-in-One dành cho iOS giúp bạn tùy biến giao diện và trải nghiệm hệ thống theo phong cách gọn,đẹp,nhanh mà không cần cài nhiều tweak lẻ.\n\n ### Tính năng:\n\n- Ẩn nền Dock (dock trong suốt)\n\n- Ẩn viên thuốc tìm kiếm (Search Pill)\n\n- Ẩn dấu chấm trang (Page Dots)\n\n- Ẩn tên ứng dụng & tên thư mục\n\n- 5 biểu tượng trên Dock\n\n- Ẩn thư viện ứng dụng\n\n ### Ứng dụng ảnh:\n\n- Xoá ảnh hoàn toàn\n\n- Phóng to ảnh không giới hạn\n\n ### Camera:\n\n- Tắt âm thanh chụp ảnh\n\n ### Cài đặt\n\n- Ẩn thông báo linh kiện không xác định,hiển thị % pin khi thay pin không chính hãng\n\n- Bo tròn biểu tượng\n\n- Giới hạn Wi-Fi + Dữ liệu di động\n\n- Bật tuỳ chọn để hiện giao diện giới hạn Wi-Fi + Dữ liệu di động theo từng ứng dụng bằng cách giả lập vùng Trung Quốc\n\n- Giả mạo thông tin ở mục giới thiệu\n\n- Giả mạo tình trạng pin trong cài đặt\n\n-WifQR\n\n- Hiển thị mật khẩu Wifi đã kết nối\n\n ### Điện thoại:\n\n- Rung khi người nhận bắt máy và ngắt máy\n\n ### Tuỳ chọn Màn hình chính:\n\n- Tự động mở khoá,vào thẳng màn hình chính khi nhận diện Faceid & vân tay\n\n- Xoay ngang biểu tượng ở màn hình chính\n\n- Tắt lời nhắc dán iOS16\n\n- 2 hàng Dock\n\n- Hiển thị % Độ sáng & Âm lượng trên trung tâm điều khiển\n- Thêm nhấn 2 lần để khoá màn hình\n\n- Ẩn chế độ xem hôm nay\n\n- Ẩn thanh Home\n\n- Tắt hẳn Wifi & Bluetooth\n\n- Hoạt ảnh sạc MagSafe\n\n- Bảo mật ứng dụng bằng FaceID\n\n- Hiển thị Lịch âm ở trên thanh trạng thái\n\n- Hoạt ảnh mở ứng dụng\n\n ### Tuỳ chọn Màn hình khoá:\n\n- Nhấn 2 lần nút giảm âm lượng để bật đèn Pin\n\n- Nhấn 2 lần ở màn hình khoá để tắt\n\n- Ước tính thời gian sạc\n\n- Ẩn chế độ xem hôm nay\n\n- Ẩn phím tắt (Đèn pin & Camera)\n\n- Ẩn không có thông báo cũ hơn\n\n ### IPAD/DOCK NỔI:\n\n- Buộc dock nổi\n\n- Tắt cử chỉ Dock\n\n- Hiển thị thư viện ứng dụng\n\n- Hiển thị ứng dụng gần đây\n\n- Đa nhiệm kiêut iPad\n\n ### WI-FI:\n\n- Bỏ giới hạn RSSI sẽ hiện cả mạng yếu\n\n- Hiện địa chỉ MAC (BSSID)\n\n ### Giả mạo cử chỉ iPhone X\n\n- Giúp giả lập cử chỉ iPhone X (thanh Home + vuốt lên về màn hình chính, vuốt để mở Control Center...) trên các máy chưa hỗ trợ\n\n ### Đa nhiệm\n\n- Đóng tất cả đa nhiệm ở màn hình chính\n\n- Vuốt xuống 1 ứng dụng bất kỳ ở đa nhiệm sẽ có tuỳ chọn đóng\n\n ### Ẩn ứng dụng\n\n- Chọn ứng dụng cần ân trên màn hình chính,cần Respring để áp dụng\n\n ### Thanh trạng thái:\n\n- Thay đổi tên nhà mạng\n\n- Thay đổi biểu tượng 3,4G,5G\n\n- Hiển thị tốc độ mạng\n\n- Hiển thị nhiệt độ pin, dòng điện (mA) và công suất bộ sạc ước tính (W) \n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Liên hệ tôi "
-},
-{
-"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Thông tin"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Tác giả",
-"text":"BVN"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Thể loại",
-"text":"Tweak"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Dung lượng",
-"text":"3.5 MB "
-},
-{
-"class":"DepictionTableTextView",
-"title":"Ngày tải lên",
-"text":"6/7/2026"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 17.0"
-},
-{
-"class":"DepictionLabelView",
-"text":"Copyright © 2026 by BVN999",
-"textColor":"#999999",
-"fontSize":"10.0",
-"alignment":1
-}
-],
-"class":"DepictionStackView"
-},
-{
-"tabname":"Nhật ký thay đổi",
-"views":[
-{
-"class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 6.6\n\n- Thêm biểu tượng tắt tiếng ở Trung tâm điều khiển & thanh trạng thái\n\n ### Phiên bản 6.5\n\n- Sửa lỗi đa nhiệm kiểu ipad, không hiển thị nút x đóng tất cả ứng dụng đa nhiệm các dòng máy 8plus trở xuống\n\n ### Phiên bản 6.4\n\n- Sửa lỗi🫠\n\n ### Phiên bản 6.3\n\n- Thêm tuỳ chỉnh cho Thư mục\n\n ### Phiên bản 6.2\n\n- Tối ưu hoá 1 số tính năng\n\n- Nếu gặp bất kỳ lỗi nào hãy nhắn tin cho tôi\n\n ### Phiên bản 6.1\n\n- Loại bỏ phụ thuộc Legacy arm64e support\n\n- Thêm hình nền và video ở trung tâm điều khiển\n\n ### Phiên bản 6.0\n\n- Sửa lỗi đơ cài đặt\n\n- Thêm tuỳ chọn Sim trước khi gọi dành cho máy 2 sim\n\n ### Phiên bản 5.9\n\n- Sửa lỗi\n\n ### Phiên bản 5.7\n\n- Sửa lỗi đơ cài đặt,nóng máy\n\n ### Phiên bản 5.6\n\n- Thêm tuỳ chọn hiển thị lịch Âm,Dương ở màn hình khoá\n\n- Sửa lỗi Tốc độ mạng,nhiệt độ không hoạt động trên 1 số thiết bị\n\n ### Tiktok\n\n- Thêm tải video ,Ảnh ,Âm thanh không có logo\n\n- Chặn quảng cáo\n\n- Ẩn video phát trực tiếp\n\n ### Phiên bản 5.5\n\n- Sửa lỗi Dock kiểu ipad\n\n- Thêm hình nền,Video nền cho ứng dụng cài đặt\n\n ### Phiên bản 5.4\n\n- Thêm sắp xếp các mục trong cài đặt\n\n- Thêm hình ảnh vào phía trên mục icloud\n\n- Thêm tự động chuyển tiếp video Reels Facebook\n\n ### Phiên bản 5.3\n\n- Sửa lỗi\n\n- Thêm chặn quảng cáo Facebook\n\n- Thêm không làm tắt nhạc đang phát khi lướt bảng tin\n\n ### Phiên bản 5.2\n\n- Sửa lỗi\n\n ### Phiên bản 5.1\n\n- Thêm đổ bóng icon Dock\n\n- Thêm hiển thị Ram,Cpu ở thanh trạng thái\n\n- Thêm tuỳ chỉnh chi các tính năng hiển thị Tốc độ mạng,nhiệt độ,w v.v\n\n- Cải thiện & sửa lỗi\n\n ### Phiên bản 5.0\n\n- Thêm tuỳ chỉnh màu sắc cuộc gọi gần đây\n\n- Thêm trong suốt trình phát nhạc ở Màn hình khoá\n\n- Thêm hình tròn xoay album và ảnh động ở Trung tâm điều khiển khi phát nhạc\n\n- Sửa lỗi văng cài đặt khi bật tắt Wifi\n\n ### Phiên bản 4.9\n\n- Thêm hiển thị nút từ chối cuộc gọi ở màn hình khoá\n\n- Thêm xáo trộn mật mã\n\n ### Điện thoại\n\n- Thêm xác nhận trước khi gọi ở mục yêu thích\n\n- Thêm xác nhận trước khi gọi ở mục gần đây\n\n- Ẩn cuộc gọi thường\n\n- Ẩn cuộc gọi bên ứng dụng thứ 3\n\n- Ẩn cuộc gọi Facetime\n\n- Ẳn tab yêu thích\n\n- Ẩn tab gần đây\n\n- Ẩn tab Danh bạ\n\n- Ẩn tab bàn phím\n\n- Ẩn tab thư thoại\n\n ### Tiktok\n\n- Tiktok Rewards ,xoá hộp quà (Nhấp ngay có thưởng)\n\n- Tự động chuyển tiếp video\n\n ### Phiên bản 4.8\n\n- Tuỳ chỉnh kích thước biểu tượng màn hình chính\n\n- Thêm sắp xếp biểu tượng thei bảng chữ cái v.v\n\n ### Phiên bản 4.7\n\n- Thêm tuỳ chỉnh âm thanh\n\n- Âm thanh khi cắm sạc\n\n- Âm thanh khi khoá màn hình\n\n- Âm thanh nhập mật mã\n\n- Âm thanh Respring\n\n- Âm thanh mở khoá\n\n- Âm thanh nhấn nút tăng giảm âm lương\n\n ### Phiên bản 4.6\n\n- Thêm ẩn dấu chấm xanh ở cạnh biểu tượng ứng dụng sau khi cập nhật\n\n- Thêm tự động tự động bật chế độ nguồn điện thấp khi không sạc và tắt khi đang sạc\n\n- Thêm ghi nhớ lần mở khoá ở mục Bảo vệ ứng dụng tuỳ chỉnh theo số Phút\n\n- Thêm hiển thị thanh trạng thái trong đa nhiệm\n\n ### Phiên bản 4.5\n\n- Sửa lỗi\n\n- Thêm nút X để đóng ứng dụng đa nhiệm\n\n ### Phiên bản 4.4\n\n- Sửa lỗi lag khi vuốt Trung tâm điều khiển\n\n- Sửa lỗi nhấn 2 lần để tắt màn hình ở màn hình khoá\n\n- Thêm hiển thị tốc độ mạng ở thanh trạng thái\n\n- Thêm Hiển thị nhiệt độ pin, dòng điện (mA) và công suất bộ sạc ước tính (W) ở thanh trạng thái\n\n ### Phiên bản 4.2\n\n- Thêm hiển thị lịch Dương\n\n- Thêm thêm trong suốt thư mục\n\n- Thêm ẩn thanh tìm kiếm trong cài đặt\n\n- Thêm bo tròn thành tìm kiếm\n\n ### Phiên bản 4.1\n\n- Thêm ẩn chỉ báo dùng micro & camera\n\n- Thêm ẩn xoá chấm vàng nhỏ trước ứng dụng được tải xuống trong  TestFlight v.v\n\n- Thêm hiển thị % pin giống iOS16 cho các thiết bị iOS15 trở xuống\n\n- Thêm ẩn ứng dụng ở màn hình chính\n\n ### Phiên bản 4.0\n\n- Sửa lỗi,cải thiện hiệu năng\n\n ### Phiên bản 3.9\n\n- Thêm Lưu vị trí biểu tượng ở Màn hình chính\n\n- Thêm hiển thị thanh tải xuống khi tải ứng dụng\n\n ### Phiên bản 3.8\n\n- Thêm hiển thị mật khẩu Wifi đã kết nối\n\n- Thêm chia sẻ Wi-Fi bằng mã QR\n\n ### Phiên bản 3.6\n\n- Thêm Giả mạo tình trạng Pin\n\n- Thêm Trở về đảo linh động,tính năng này dành cho những máy có dynamicIsland hoặc Fake khi vuốt thoát ứng dụng sẽ bay lên Dynamicisland\n\n ### Phiên bản 3.5\n\n- Tắt âm thông báo khi đang phát nhạc\n\n- Hiển thị giây trên đồng hồ ở thanh trạng thái\n\n- Ẩn thanh CC Grabber trên thanh trạng thái màn hình khoá\n\n ### Phiên bản 3.4\n\n- Thêm giả mạo thông tin thiết bị ở mục giới thiệu máy\n\n- Thêm Vuốt 2 ngón tay trên thanh trạng thái để chụp ảnh màn hình\n\n ### Phiên bản 3.3\n\n- Sửa lỗi văng ứng dụng ảnh khi bật pip video\n\n- Tối ưu hoá giao diện cài đặt\n\n- Thêm lật úp để tắt điện thoại\n\n- Yêu cầu thêm tính năng mới ở mục giới thiệu tweak\n\n ### Phiên bản 3.2\n\n- Thêm Tuỳ chỉnh trong suốt trung tâm điều khiển\n\n- Thêm tự động bật tiếng Video trong ứng dụng ảnh\n\n- Thêm chế độ Pip Video trong ứng dụng ảnh\n\n ### Phiên bản 3.1\n\n- Thêm bo tròn các mục trong cài đặt.Tuỳ chỉnh trong mục Ứng dụng > Cài đặt\n\n- Thêm hiển thị chi tiết pin\n\n ### Phiên bản 3.0\n\n- Thêm Ẩn nút quay lại ứng dụng\n\n- Thêm tắt âm thanh chụp ảnh màn hình\n\n- Thêm tắt bản xem trước ảnh chụp màn hình\n\n- Thêm hiển thị tên ứng dụng trên Dock\n\n- Thêm tuỳ chỉnh độ trong suốt thông báo\n\n- Màu thông báo theo màu biểu tượng\n\n- Thêm thay đổi tên nhà mạng\n\n ### Phiên bản 2.9\n\n- Thêm đóng tất cả ứng dụng ở đa nhiệm\n\n- Thêm Rung khi người nhận bắt máy và ngắt máy\n\n- Thêm Lịch Âm & Dương ở thanh trạng thái\n\n ### Phiên bản 2.8\n\n- Thêm giả mạo cử chỉ iPhone X\n\n- Thêm thay đổi 3,4,5G\n\n- Thêm thay tuỳ chỉnh kích thước lịch âm\n\n ### Phiên bản 2.7\n\n- Sửa lỗi lịch âm\n\n ### Phiên bản 2.6\n\n- Thêm hiển thị Lịch âm trên thanh trạng thái\n\n- Thêm hoạt ảnh mở ứng dụng\n\n ### Phiên bản 2.5\n\n- Thêm đa nhiệm kiểu iPAD\n\n- Tắt cử chỉ vuốt sang trái để mở Camera (màn hình khoá)\n\n ### Phiên bản 2.4\n\n- Thêm ẩn chế độ xem hôm nay(màn hình khoá)\n\n- Ẩn không có thông báo cũ hơn\n\n- Ẩn phím tắt (Đèn pin & Camera)\n\n- Bo tròn biểu tượng trong cài đặt\n\n- Tuỳ chọn bật tắt Wifi & 4G cho các ứng dụng trong mục di động\n\n ### Phiên bản 2.3\n\n- Thêm Bỏ giới hạn RSSI sẽ hiện cả mạng yếu\n\n- Hiện địa chỉ MAC (BSSID)\n\n ### Phiên bản 2.2\n\n- Thêm Dock kiểu iPad\n\n ### Phiên bản 2.1\n\n- Sửa lỗi Bảo mật ứng dụng\n\n ### Phiên bản 2.0\n\n- Thêm Hoạt ảnh sạc MagSafe\n\n- Bảo mật ứng dụng bằng FaceID & TouchID\n\n- Sửa lỗi ẩn dấu chấm trang trên các dòng iPhone 8plus trở xuống\n\n ### Phiên bản 1.9\n\n- Thêm Tắt hẳn Wifi & Bluetooth\n\n- Thêm ẩn thanh Home\n\n ### Phiên bản 1.8\n\n- Thêm nhấn 2 lần ở màn hình khoá để tắt\n\n- Thêm ẩn chế độ xem hôm nay(Today view)\n\n ### Phiên bản 1.7\n\n- Sửa lỗi hiền thị 0% trên Trung tâm điều khiển\n\n ### Phiên bản 1.6\n\n- Thêm nhấn 2 lần để khoá màn hình\n\n- Thêm nhấn 2 lần nút giảm âm lượng để bật đèn Pin (Màn hình khoá)\n\n ### Phiên bản 1.5\n\n- Thêm tính năng xoá thông báo linh kiện không xác định & hiện thị % pin khi thay pin không chính hãng.\n\n ### Phiên bản 1.4\n\n- Thêm hiển thị % Độ sáng & Âm lượng\n\n- Thêm 2 hàng Dock\n\n- Thêm tính năng điều chỉnh chiều Cao/Thấp ước tính sạc"
-}
-],
-"class":"DepictionStackView"
-},
-{
-"tabname":"L.Hệ & Hỗ trợ",
-"views":[
-{
-"class":"DepictionTableButtonView",
-"title": "Paypal",
-"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Mua cho tôi một ly cà phê",
-"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Telegram Admin",
-"action": "https://t.me/bvnsupport"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Nhóm Telegram",
-"action": "https://t.me/repobvn"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Fanpage Facebook",
-"action": "https://facebook.com/repocydiaBVN"
-},
-{
-"class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN999",
-"textColor":"#999999",
-"fontSize":"10.0",
-"alignment":1
-}
-],
-"class":"DepictionStackView"
-}
-],
-"class":"DepictionTabView"
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#00B8D9",
+  "tabs": [
+    {
+      "tabname": "Tổng quan",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "GHOSTBOARD // CONTROL CENTER"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "> **ALL‑IN‑ONE iOS TWEAK**  \n> Tinh gọn hệ thống. Mở rộng trải nghiệm. Làm chủ thiết bị.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "⚡ Tham gia cộng đồng BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/1.png",
+              "accessibilityText": "GhostBoard screenshot 1"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/2.png",
+              "accessibilityText": "GhostBoard screenshot 2"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/3.png",
+              "accessibilityText": "GhostBoard screenshot 3"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/4.png",
+              "accessibilityText": "GhostBoard screenshot 4"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/5.png",
+              "accessibilityText": "GhostBoard screenshot 5"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/6.png",
+              "accessibilityText": "GhostBoard screenshot 6"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/7.png",
+              "accessibilityText": "GhostBoard screenshot 7"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/8.png",
+              "accessibilityText": "GhostBoard screenshot 8"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/9.png",
+              "accessibilityText": "GhostBoard screenshot 9"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/10.png",
+              "accessibilityText": "GhostBoard screenshot 10"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/11.png",
+              "accessibilityText": "GhostBoard screenshot 11"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/12.png",
+              "accessibilityText": "GhostBoard screenshot 12"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/13.png",
+              "accessibilityText": "GhostBoard screenshot 13"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/14.png",
+              "accessibilityText": "GhostBoard screenshot 14"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/15.png",
+              "accessibilityText": "GhostBoard screenshot 15"
+            }
+          ],
+          "itemCornerRadius": 14,
+          "itemSize": "{180,390}"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "MODULES // TÍNH NĂNG"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "> **GHOSTBOARD // ALL‑IN‑ONE SYSTEM CUSTOMIZATION**  \n> Tùy biến sâu iOS theo phong cách gọn, nhanh và hiện đại — không cần cài nhiều tweak rời.\n\n### ⚡ Trải nghiệm hệ thống\n- Dock trong suốt, 5 biểu tượng hoặc Dock 2 hàng\n- Ẩn Search Pill, Page Dots, tên ứng dụng và tên thư mục\n- Ẩn Thư viện ứng dụng, Today View và Home Indicator\n- Tự động mở khóa vào thẳng Màn hình chính bằng Face ID / Touch ID\n- Xoay ngang biểu tượng, hoạt ảnh mở ứng dụng và hoạt ảnh sạc MagSafe\n- Nhấn 2 lần để khóa màn hình; tắt hoàn toàn Wi‑Fi và Bluetooth\n- Hiển thị phần trăm độ sáng và âm lượng trong Trung tâm điều khiển\n\n### 🧩 Màn hình khóa\n- Nhấn 2 lần nút giảm âm lượng để bật đèn pin\n- Nhấn 2 lần trên Màn hình khóa để tắt màn hình\n- Ước tính thời gian sạc\n- Ẩn Today View, phím tắt Đèn pin / Camera và dòng “Không có thông báo cũ hơn”\n\n### 🛰 Thanh trạng thái\n- Đổi tên nhà mạng và biểu tượng 3G / 4G / 5G\n- Hiển thị tốc độ mạng\n- Hiển thị nhiệt độ pin, dòng điện (mA) và công suất sạc ước tính (W)\n- Hiển thị Lịch âm trên thanh trạng thái\n\n### 📱 Ứng dụng & bảo mật\n- Khóa ứng dụng bằng Face ID / Touch ID\n- Ẩn ứng dụng khỏi Màn hình chính\n- Xóa ảnh hoàn toàn và phóng to ảnh không giới hạn\n- Tắt âm thanh chụp ảnh\n- Tắt lời nhắc dán trên iOS 16\n\n### 📡 Wi‑Fi & dữ liệu\n- Hiển thị mật khẩu Wi‑Fi đã kết nối và chia sẻ bằng mã QR\n- Bỏ giới hạn RSSI để hiển thị cả mạng yếu\n- Hiển thị địa chỉ MAC / BSSID\n- Bật giao diện giới hạn Wi‑Fi và Dữ liệu di động theo từng ứng dụng\n\n### 🧠 Thiết bị & Cài đặt\n- Ẩn cảnh báo linh kiện không xác định\n- Hiển thị phần trăm pin khi dùng pin không chính hãng\n- Giả mạo thông tin thiết bị và tình trạng pin\n- Bo tròn biểu tượng trong Cài đặt\n\n### ☎️ Điện thoại\n- Rung khi người nhận bắt máy hoặc kết thúc cuộc gọi\n\n### 🪟 Đa nhiệm & iPad Dock\n- Đa nhiệm kiểu iPad, Dock nổi và ứng dụng gần đây\n- Đóng toàn bộ ứng dụng tại Màn hình chính\n- Vuốt xuống một ứng dụng trong đa nhiệm để mở tùy chọn đóng\n\n### ⌁ Cử chỉ iPhone X\n- Giả lập Home Indicator, vuốt lên về Màn hình chính và mở Control Center trên thiết bị chưa hỗ trợ cử chỉ iPhone X\n\n> Một số tính năng cần **Respring** để áp dụng hoàn toàn.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "☕ Ủng hộ nhà phát triển",
+          "action": "https://bvnrepo.xyz/donate/",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "SYSTEM INFO // THÔNG TIN"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "👨‍💻 Nhà phát triển",
+          "text": "BVN"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "🧩 Phân loại",
+          "text": "All‑in‑One Tweak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "💾 Dung lượng",
+          "text": "3.5 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "🗓 Cập nhật",
+          "text": "06/07/2026"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "📲 Tương thích",
+          "text": "iOS 15.0 – 17.0"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "GHOSTBOARD • ENGINEERED BY BVN999 • 2026",
+          "textColor": "#7A7A7A",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Nhật ký",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "CHANGELOG // RELEASE NOTES"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "> **RELEASE CHANNEL // STABLE**  \n> Theo dõi các thay đổi, bản sửa lỗi và tính năng mới của GhostBoard.\n\n### Phiên bản 6.6\n\n- Thêm biểu tượng tắt tiếng ở Trung tâm điều khiển & thanh trạng thái\n\n### Phiên bản 6.5\n\n- Sửa lỗi đa nhiệm kiểu ipad, không hiển thị nút x đóng tất cả ứng dụng đa nhiệm các dòng máy 8plus trở xuống\n\n### Phiên bản 6.4\n\n- Sửa lỗi🫠\n\n### Phiên bản 6.3\n\n- Thêm tuỳ chỉnh cho Thư mục\n\n### Phiên bản 6.2\n\n- Tối ưu hoá 1 số tính năng\n\n- Nếu gặp bất kỳ lỗi nào hãy nhắn tin cho tôi\n\n### Phiên bản 6.1\n\n- Loại bỏ phụ thuộc Legacy arm64e support\n\n- Thêm hình nền và video ở trung tâm điều khiển\n\n### Phiên bản 6.0\n\n- Sửa lỗi đơ cài đặt\n\n- Thêm tuỳ chọn Sim trước khi gọi dành cho máy 2 sim\n\n### Phiên bản 5.9\n\n- Sửa lỗi\n\n### Phiên bản 5.7\n\n- Sửa lỗi đơ cài đặt,nóng máy\n\n### Phiên bản 5.6\n\n- Thêm tuỳ chọn hiển thị lịch Âm,Dương ở màn hình khoá\n\n- Sửa lỗi Tốc độ mạng,nhiệt độ không hoạt động trên 1 số thiết bị\n\n### Tiktok\n\n- Thêm tải video ,Ảnh ,Âm thanh không có logo\n\n- Chặn quảng cáo\n\n- Ẩn video phát trực tiếp\n\n### Phiên bản 5.5\n\n- Sửa lỗi Dock kiểu ipad\n\n- Thêm hình nền,Video nền cho ứng dụng cài đặt\n\n### Phiên bản 5.4\n\n- Thêm sắp xếp các mục trong cài đặt\n\n- Thêm hình ảnh vào phía trên mục icloud\n\n- Thêm tự động chuyển tiếp video Reels Facebook\n\n### Phiên bản 5.3\n\n- Sửa lỗi\n\n- Thêm chặn quảng cáo Facebook\n\n- Thêm không làm tắt nhạc đang phát khi lướt bảng tin\n\n### Phiên bản 5.2\n\n- Sửa lỗi\n\n### Phiên bản 5.1\n\n- Thêm đổ bóng icon Dock\n\n- Thêm hiển thị Ram,Cpu ở thanh trạng thái\n\n- Thêm tuỳ chỉnh chi các tính năng hiển thị Tốc độ mạng,nhiệt độ,w v.v\n\n- Cải thiện & sửa lỗi\n\n### Phiên bản 5.0\n\n- Thêm tuỳ chỉnh màu sắc cuộc gọi gần đây\n\n- Thêm trong suốt trình phát nhạc ở Màn hình khoá\n\n- Thêm hình tròn xoay album và ảnh động ở Trung tâm điều khiển khi phát nhạc\n\n- Sửa lỗi văng cài đặt khi bật tắt Wifi\n\n### Phiên bản 4.9\n\n- Thêm hiển thị nút từ chối cuộc gọi ở màn hình khoá\n\n- Thêm xáo trộn mật mã\n\n### Điện thoại\n\n- Thêm xác nhận trước khi gọi ở mục yêu thích\n\n- Thêm xác nhận trước khi gọi ở mục gần đây\n\n- Ẩn cuộc gọi thường\n\n- Ẩn cuộc gọi bên ứng dụng thứ 3\n\n- Ẩn cuộc gọi Facetime\n\n- Ẩn tab yêu thích\n\n- Ẩn tab gần đây\n\n- Ẩn tab Danh bạ\n\n- Ẩn tab bàn phím\n\n- Ẩn tab thư thoại\n\n### Tiktok\n\n- Tiktok Rewards ,xoá hộp quà (Nhấp ngay có thưởng)\n\n- Tự động chuyển tiếp video\n\n### Phiên bản 4.8\n\n- Tuỳ chỉnh kích thước biểu tượng màn hình chính\n\n- Thêm sắp xếp biểu tượng theo bảng chữ cái v.v\n\n### Phiên bản 4.7\n\n- Thêm tuỳ chỉnh âm thanh\n\n- Âm thanh khi cắm sạc\n\n- Âm thanh khi khoá màn hình\n\n- Âm thanh nhập mật mã\n\n- Âm thanh Respring\n\n- Âm thanh mở khoá\n\n- Âm thanh nhấn nút tăng giảm âm lượng\n\n### Phiên bản 4.6\n\n- Thêm ẩn dấu chấm xanh ở cạnh biểu tượng ứng dụng sau khi cập nhật\n\n- Thêm tự động tự động bật chế độ nguồn điện thấp khi không sạc và tắt khi đang sạc\n\n- Thêm ghi nhớ lần mở khoá ở mục Bảo vệ ứng dụng tuỳ chỉnh theo số Phút\n\n- Thêm hiển thị thanh trạng thái trong đa nhiệm\n\n### Phiên bản 4.5\n\n- Sửa lỗi\n\n- Thêm nút X để đóng ứng dụng đa nhiệm\n\n### Phiên bản 4.4\n\n- Sửa lỗi lag khi vuốt Trung tâm điều khiển\n\n- Sửa lỗi nhấn 2 lần để tắt màn hình ở màn hình khoá\n\n- Thêm hiển thị tốc độ mạng ở thanh trạng thái\n\n- Thêm Hiển thị nhiệt độ pin, dòng điện (mA) và công suất bộ sạc ước tính (W) ở thanh trạng thái\n\n### Phiên bản 4.2\n\n- Thêm hiển thị lịch Dương\n\n- Thêm thêm trong suốt thư mục\n\n- Thêm ẩn thanh tìm kiếm trong cài đặt\n\n- Thêm bo tròn thành tìm kiếm\n\n### Phiên bản 4.1\n\n- Thêm ẩn chỉ báo dùng micro & camera\n\n- Thêm ẩn xoá chấm vàng nhỏ trước ứng dụng được tải xuống trong  TestFlight v.v\n\n- Thêm hiển thị % pin giống iOS16 cho các thiết bị iOS15 trở xuống\n\n- Thêm ẩn ứng dụng ở màn hình chính\n\n### Phiên bản 4.0\n\n- Sửa lỗi,cải thiện hiệu năng\n\n### Phiên bản 3.9\n\n- Thêm Lưu vị trí biểu tượng ở Màn hình chính\n\n- Thêm hiển thị thanh tải xuống khi tải ứng dụng\n\n### Phiên bản 3.8\n\n- Thêm hiển thị mật khẩu Wifi đã kết nối\n\n- Thêm chia sẻ Wi-Fi bằng mã QR\n\n### Phiên bản 3.6\n\n- Thêm Giả mạo tình trạng Pin\n\n- Thêm Trở về đảo linh động,tính năng này dành cho những máy có dynamicIsland hoặc Fake khi vuốt thoát ứng dụng sẽ bay lên Dynamicisland\n\n### Phiên bản 3.5\n\n- Tắt âm thông báo khi đang phát nhạc\n\n- Hiển thị giây trên đồng hồ ở thanh trạng thái\n\n- Ẩn thanh CC Grabber trên thanh trạng thái màn hình khoá\n\n### Phiên bản 3.4\n\n- Thêm giả mạo thông tin thiết bị ở mục giới thiệu máy\n\n- Thêm Vuốt 2 ngón tay trên thanh trạng thái để chụp ảnh màn hình\n\n### Phiên bản 3.3\n\n- Sửa lỗi văng ứng dụng ảnh khi bật pip video\n\n- Tối ưu hoá giao diện cài đặt\n\n- Thêm lật úp để tắt điện thoại\n\n- Yêu cầu thêm tính năng mới ở mục giới thiệu tweak\n\n### Phiên bản 3.2\n\n- Thêm Tuỳ chỉnh trong suốt trung tâm điều khiển\n\n- Thêm tự động bật tiếng Video trong ứng dụng ảnh\n\n- Thêm chế độ Pip Video trong ứng dụng ảnh\n\n### Phiên bản 3.1\n\n- Thêm bo tròn các mục trong cài đặt.Tuỳ chỉnh trong mục Ứng dụng > Cài đặt\n\n- Thêm hiển thị chi tiết pin\n\n### Phiên bản 3.0\n\n- Thêm Ẩn nút quay lại ứng dụng\n\n- Thêm tắt âm thanh chụp ảnh màn hình\n\n- Thêm tắt bản xem trước ảnh chụp màn hình\n\n- Thêm hiển thị tên ứng dụng trên Dock\n\n- Thêm tuỳ chỉnh độ trong suốt thông báo\n\n- Màu thông báo theo màu biểu tượng\n\n- Thêm thay đổi tên nhà mạng\n\n### Phiên bản 2.9\n\n- Thêm đóng tất cả ứng dụng ở đa nhiệm\n\n- Thêm Rung khi người nhận bắt máy và ngắt máy\n\n- Thêm Lịch Âm & Dương ở thanh trạng thái\n\n### Phiên bản 2.8\n\n- Thêm giả mạo cử chỉ iPhone X\n\n- Thêm thay đổi 3,4,5G\n\n- Thêm thay tuỳ chỉnh kích thước lịch âm\n\n### Phiên bản 2.7\n\n- Sửa lỗi lịch âm\n\n### Phiên bản 2.6\n\n- Thêm hiển thị Lịch âm trên thanh trạng thái\n\n- Thêm hoạt ảnh mở ứng dụng\n\n### Phiên bản 2.5\n\n- Thêm đa nhiệm kiểu iPAD\n\n- Tắt cử chỉ vuốt sang trái để mở Camera (màn hình khoá)\n\n### Phiên bản 2.4\n\n- Thêm ẩn chế độ xem hôm nay(màn hình khoá)\n\n- Ẩn không có thông báo cũ hơn\n\n- Ẩn phím tắt (Đèn pin & Camera)\n\n- Bo tròn biểu tượng trong cài đặt\n\n- Tuỳ chọn bật tắt Wifi & 4G cho các ứng dụng trong mục di động\n\n### Phiên bản 2.3\n\n- Thêm Bỏ giới hạn RSSI sẽ hiện cả mạng yếu\n\n- Hiện địa chỉ MAC (BSSID)\n\n### Phiên bản 2.2\n\n- Thêm Dock kiểu iPad\n\n### Phiên bản 2.1\n\n- Sửa lỗi Bảo mật ứng dụng\n\n### Phiên bản 2.0\n\n- Thêm Hoạt ảnh sạc MagSafe\n\n- Bảo mật ứng dụng bằng FaceID & TouchID\n\n- Sửa lỗi ẩn dấu chấm trang trên các dòng iPhone 8plus trở xuống\n\n### Phiên bản 1.9\n\n- Thêm Tắt hẳn Wifi & Bluetooth\n\n- Thêm ẩn thanh Home\n\n### Phiên bản 1.8\n\n- Thêm nhấn 2 lần ở màn hình khoá để tắt\n\n- Thêm ẩn chế độ xem hôm nay(Today view)\n\n### Phiên bản 1.7\n\n- Sửa lỗi hiển thị 0% trên Trung tâm điều khiển\n\n### Phiên bản 1.6\n\n- Thêm nhấn 2 lần để khoá màn hình\n\n- Thêm nhấn 2 lần nút giảm âm lượng để bật đèn Pin (Màn hình khoá)\n\n### Phiên bản 1.5\n\n- Thêm tính năng xoá thông báo linh kiện không xác định & hiển thị % pin khi thay pin không chính hãng.\n\n### Phiên bản 1.4\n\n- Thêm hiển thị % Độ sáng & Âm lượng\n\n- Thêm 2 hàng Dock\n\n- Thêm tính năng điều chỉnh chiều Cao/Thấp ước tính sạc",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "GhostBoard Release Archive",
+          "textColor": "#7A7A7A",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "SUPPORT LINK // KẾT NỐI"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "> Cần hỗ trợ, báo lỗi hoặc đề xuất tính năng? Kết nối với BVN qua các kênh bên dưới.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "💳 PayPal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "☕ Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🛠 Telegram Admin",
+          "action": "https://t.me/bvnsupport"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "⚡ Nhóm Telegram",
+          "action": "https://t.me/repobvn"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🌐 Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "BVN REPO // BUILD • CUSTOMIZE • OPTIMIZE",
+          "textColor": "#7A7A7A",
+          "fontSize": "10.0",
+          "alignment": 1
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 BVN999",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
 }
