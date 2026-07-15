@@ -1,213 +1,131 @@
 {
   "minVersion": "0.4",
   "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
-  "tintColor": "#5B6CFF",
+  "tintColor": "#0A84FF",
   "tabs": [
     {
-      "tabname": "Giới thiệu",
+      "tabname": "Tổng quan",
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "GHOSTBOARD"
+          "title": "GhostBoard"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "> **Một bộ tinh chỉnh — trọn vẹn trải nghiệm**  \n> Tùy biến iOS sâu hơn, đẹp hơn và tiện lợi hơn mà không cần cài nhiều gói rời.",
+          "markdown": "## Bộ tinh chỉnh cao cấp dành cho iOS\n\nTùy biến giao diện, tăng tiện ích, bảo vệ ứng dụng và mở rộng khả năng quản lý hệ thống trong cùng một gói.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "> **Phiên bản 6.6**  \n> Hỗ trợ iOS 15.0 đến iOS 17.0",
           "useSpacing": "true"
         },
         {
           "class": "DepictionButtonView",
-          "text": "⚡ Tham gia cộng đồng BVN Repo",
+          "text": "Tham gia cộng đồng BVN Repo",
           "action": "https://t.me/bvnrepo",
           "openExternal": 1
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Cập nhật nhanh • Hỗ trợ trực tiếp • Chia sẻ kinh nghiệm",
+          "textColor": "#8E8E93",
+          "fontSize": "11.0",
+          "alignment": 1
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Ảnh chụp màn hình"
         },
         {
           "class": "DepictionScreenshotsView",
           "screenshots": [
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/1.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 1"
+              "accessibilityText": "Ảnh chụp màn hình 1"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/2.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 2"
+              "accessibilityText": "Ảnh chụp màn hình 2"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/3.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 3"
+              "accessibilityText": "Ảnh chụp màn hình 3"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/4.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 4"
+              "accessibilityText": "Ảnh chụp màn hình 4"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/5.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 5"
+              "accessibilityText": "Ảnh chụp màn hình 5"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/6.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 6"
+              "accessibilityText": "Ảnh chụp màn hình 6"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/7.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 7"
+              "accessibilityText": "Ảnh chụp màn hình 7"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/8.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 8"
+              "accessibilityText": "Ảnh chụp màn hình 8"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/9.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 9"
+              "accessibilityText": "Ảnh chụp màn hình 9"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/10.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 10"
+              "accessibilityText": "Ảnh chụp màn hình 10"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/11.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 11"
+              "accessibilityText": "Ảnh chụp màn hình 11"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/12.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 12"
+              "accessibilityText": "Ảnh chụp màn hình 12"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/13.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 13"
+              "accessibilityText": "Ảnh chụp màn hình 13"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/14.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 14"
+              "accessibilityText": "Ảnh chụp màn hình 14"
             },
             {
               "url": "https://bvnrepo999.github.io/infodeb/GhostBoard/Screenshots/15.png",
-              "accessibilityText": "Ảnh chụp GhostBoard số 15"
+              "accessibilityText": "Ảnh chụp màn hình 15"
             }
           ],
-          "itemCornerRadius": 18,
-          "itemSize": "{182,394}"
+          "itemCornerRadius": 26,
+          "itemSize": "{160,346}"
         },
         {
           "class": "DepictionHeaderView",
-          "title": "ĐIỂM NỔI BẬT"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "🎨 Giao diện",
-          "text": "Tùy biến Màn hình chính, Màn hình khóa, thanh trạng thái và Trung tâm điều khiển"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "⚡ Tiện ích",
-          "text": "Gộp nhiều tính năng hữu ích vào một bộ tinh chỉnh duy nhất"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "🔒 Bảo mật",
-          "text": "Khóa ứng dụng, ẩn ứng dụng và tăng quyền kiểm soát thiết bị"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "📡 Kết nối",
-          "text": "Mở rộng khả năng quản lý Wi-Fi, dữ liệu di động và thông tin mạng"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "GIAO DIỆN VÀ MÀN HÌNH CHÍNH"
+          "title": "Điểm nổi bật"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Làm trong suốt thanh ứng dụng, hiển thị 5 biểu tượng hoặc bố trí thanh ứng dụng thành 2 hàng\n- Ẩn nút tìm kiếm, dấu chấm trang, tên ứng dụng và tên thư mục\n- Ẩn Thư viện ứng dụng, chế độ xem Hôm nay và thanh cử chỉ\n- Tự động mở khóa và đi thẳng vào Màn hình chính bằng Face ID hoặc Touch ID\n- Xoay ngang biểu tượng, thay đổi hoạt ảnh mở ứng dụng và hiển thị hoạt ảnh sạc MagSafe\n- Nhấn hai lần để khóa màn hình\n- Hiển thị phần trăm độ sáng và âm lượng trong Trung tâm điều khiển",
+          "markdown": "### Giao diện tinh tế\n- Làm trong suốt thanh ứng dụng\n- Tùy chỉnh biểu tượng và thư mục\n- Ẩn các thành phần không cần thiết\n\n### Tiện ích mạnh mẽ\n- Hiển thị tốc độ mạng và thông tin pin\n- Quản lý Wi-Fi và dữ liệu di động\n- Đa nhiệm kiểu iPad\n\n### Bảo mật riêng tư\n- Khóa ứng dụng bằng Face ID hoặc Touch ID\n- Ẩn ứng dụng khỏi Màn hình chính\n- Bảo vệ trải nghiệm sử dụng",
           "useSpacing": "true"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "MÀN HÌNH KHÓA VÀ CỬ CHỈ"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Nhấn hai lần nút giảm âm lượng để bật đèn pin\n- Nhấn hai lần trên Màn hình khóa để tắt màn hình\n- Ước tính thời gian sạc còn lại\n- Ẩn chế độ xem Hôm nay, phím tắt Đèn pin, Máy ảnh và dòng thông báo cũ\n- Giả lập cử chỉ iPhone X trên các thiết bị chưa được hỗ trợ",
-          "useSpacing": "true"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "THANH TRẠNG THÁI VÀ HỆ THỐNG"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Thay đổi tên nhà mạng và biểu tượng 3G, 4G, 5G\n- Hiển thị tốc độ mạng, lịch âm, nhiệt độ pin, dòng điện và công suất sạc ước tính\n- Tắt hoàn toàn Wi-Fi và Bluetooth\n- Ẩn cảnh báo linh kiện không xác định\n- Hiển thị phần trăm pin khi sử dụng pin không chính hãng\n- Giả lập thông tin thiết bị và tình trạng pin trong Cài đặt",
-          "useSpacing": "true"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "ỨNG DỤNG VÀ BẢO MẬT"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Bảo vệ ứng dụng bằng Face ID hoặc Touch ID\n- Ẩn ứng dụng khỏi Màn hình chính\n- Xóa ảnh hoàn toàn và phóng to ảnh không giới hạn\n- Tắt âm thanh chụp ảnh\n- Tắt lời nhắc dán trên iOS 16\n- Rung khi người nhận bắt máy hoặc kết thúc cuộc gọi",
-          "useSpacing": "true"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "WI-FI VÀ DỮ LIỆU DI ĐỘNG"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Hiển thị mật khẩu Wi-Fi đã kết nối và chia sẻ bằng mã QR\n- Bỏ giới hạn cường độ tín hiệu để hiển thị cả mạng yếu\n- Hiển thị địa chỉ MAC và BSSID\n- Quản lý quyền sử dụng Wi-Fi và dữ liệu di động theo từng ứng dụng",
-          "useSpacing": "true"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "ĐA NHIỆM VÀ THANH ỨNG DỤNG NỔI"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Sử dụng giao diện đa nhiệm kiểu iPad\n- Bật thanh ứng dụng nổi, ứng dụng gần đây và Thư viện ứng dụng\n- Đóng toàn bộ ứng dụng đang chạy\n- Vuốt xuống một ứng dụng trong giao diện đa nhiệm để mở tùy chọn đóng\n\n> Một số thay đổi cần **khởi động lại giao diện** để áp dụng hoàn toàn.",
-          "useSpacing": "true"
-        },
-        {
-          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionButtonView",
-          "text": "☕ Ủng hộ nhà phát triển",
+          "text": "Ủng hộ nhà phát triển",
           "action": "https://bvnrepo.xyz/donate/",
           "openExternal": 1
         },
         {
-          "class": "DepictionHeaderView",
-          "title": "THÔNG TIN GÓI"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "👨‍💻 Nhà phát triển",
-          "text": "BVN"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "🧩 Phân loại",
-          "text": "Bộ tinh chỉnh tất cả trong một"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "💾 Dung lượng",
-          "text": "3,5 MB"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "🗓 Ngày cập nhật",
-          "text": "06/07/2026"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "📱 Khả năng tương thích",
-          "text": "iOS 15.0 đến iOS 17.0"
-        },
-        {
           "class": "DepictionLabelView",
           "text": "GhostBoard • Phát triển bởi BVN999 • 2026",
-          "textColor": "#8A8A8E",
+          "textColor": "#8E8E93",
           "fontSize": "10.0",
           "alignment": 1
         }
@@ -215,11 +133,62 @@
       "class": "DepictionStackView"
     },
     {
-      "tabname": "Nhật ký",
+      "tabname": "Tính năng",
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "NHẬT KÝ PHIÊN BẢN"
+          "title": "Giao diện và Màn hình chính"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Làm trong suốt thanh ứng dụng\n- Hiển thị 5 biểu tượng hoặc 2 hàng\n- Ẩn nút tìm kiếm và dấu chấm trang\n- Ẩn tên ứng dụng và tên thư mục\n- Ẩn Thư viện ứng dụng\n- Tự động vào Màn hình chính sau khi mở khóa\n- Xoay ngang biểu tượng\n- Thêm hoạt ảnh mở ứng dụng",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Màn hình khóa và cử chỉ"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Nhấn hai lần để tắt màn hình\n- Nhấn hai lần nút giảm âm lượng để bật đèn pin\n- Hiển thị thời gian sạc ước tính\n- Ẩn phím tắt Đèn pin và Máy ảnh\n- Ẩn chế độ xem Hôm nay\n- Giả lập cử chỉ iPhone X",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Hệ thống và thanh trạng thái"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Đổi tên nhà mạng\n- Đổi biểu tượng 3G, 4G và 5G\n- Hiển thị tốc độ mạng\n- Hiển thị lịch âm\n- Hiển thị nhiệt độ pin và dòng điện\n- Hiển thị công suất sạc ước tính\n- Tắt hoàn toàn Wi-Fi và Bluetooth\n- Ẩn cảnh báo linh kiện không xác định",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Ứng dụng và bảo mật"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Khóa ứng dụng bằng Face ID hoặc Touch ID\n- Ẩn ứng dụng khỏi Màn hình chính\n- Xóa ảnh hoàn toàn\n- Phóng to ảnh không giới hạn\n- Tắt âm thanh chụp ảnh\n- Tắt lời nhắc dán\n- Rung khi bắt máy hoặc kết thúc cuộc gọi",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Wi-Fi và đa nhiệm"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Hiển thị mật khẩu Wi-Fi đã kết nối\n- Chia sẻ Wi-Fi bằng mã QR\n- Hiển thị địa chỉ MAC và BSSID\n- Hiển thị cả mạng Wi-Fi yếu\n- Quản lý mạng theo từng ứng dụng\n- Đa nhiệm kiểu iPad\n- Thanh ứng dụng nổi\n- Đóng tất cả ứng dụng đang chạy",
+          "useSpacing": "true"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Cập nhật",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Nhật ký phiên bản"
         },
         {
           "class": "DepictionMarkdownView",
@@ -229,7 +198,7 @@
         {
           "class": "DepictionLabelView",
           "text": "Lịch sử phát hành GhostBoard",
-          "textColor": "#8A8A8E",
+          "textColor": "#8E8E93",
           "fontSize": "10.0",
           "alignment": 1
         }
@@ -241,61 +210,85 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "LIÊN HỆ VÀ HỖ TRỢ"
+          "title": "Thông tin gói"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Nhà phát triển",
+          "text": "BVN"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "6.6"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Dung lượng",
+          "text": "3,5 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Ngày cập nhật",
+          "text": "06/07/2026"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tương thích",
+          "text": "iOS 15 – 17"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Loại gói",
+          "text": "Bộ tinh chỉnh"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Liên hệ"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "> Cần báo lỗi, yêu cầu tính năng hoặc trao đổi trực tiếp? Hãy chọn một kênh liên hệ bên dưới.",
+          "markdown": "Báo lỗi, gửi góp ý hoặc yêu cầu tính năng mới qua các kênh bên dưới.",
           "useSpacing": "true"
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "🛠 Telegram của quản trị viên",
+          "title": "Telegram quản trị viên",
           "action": "https://t.me/bvnsupport"
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "👥 Nhóm Telegram",
+          "title": "Nhóm Telegram",
           "action": "https://t.me/repobvn"
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "🌐 Trang Facebook",
+          "title": "Fanpage Facebook",
           "action": "https://facebook.com/repocydiaBVN"
         },
         {
           "class": "DepictionHeaderView",
-          "title": "ỦNG HỘ NHÀ PHÁT TRIỂN"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "> Sự ủng hộ của bạn giúp dự án tiếp tục được duy trì, sửa lỗi và bổ sung tính năng mới.",
-          "useSpacing": "true"
+          "title": "Ủng hộ"
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "💳 Ủng hộ qua PayPal",
+          "title": "Ủng hộ trực tiếp",
+          "action": "https://bvnrepo.xyz/donate/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ qua PayPal",
           "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "☕ Mời tôi một ly cà phê",
+          "title": "Mời một ly cà phê",
           "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
         },
         {
-          "class": "DepictionSpacerView"
-        },
-        {
           "class": "DepictionLabelView",
-          "text": "BVN Repo • Tùy biến • Tối ưu • Trải nghiệm",
-          "textColor": "#8A8A8E",
-          "fontSize": "10.0",
-          "alignment": 1
-        },
-        {
-          "class": "DepictionLabelView",
-          "text": "Bản quyền © 2026 BVN999",
-          "textColor": "#A0A0A5",
+          "text": "Cảm ơn bạn đã đồng hành cùng BVN Repo",
+          "textColor": "#8E8E93",
           "fontSize": "10.0",
           "alignment": 1
         }
