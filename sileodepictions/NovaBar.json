@@ -1,0 +1,290 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5E5CE6",
+  "tabs": [
+    {
+      "tabname": "Tổng quan",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "NovaBar"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Thanh Home Bar, tái định nghĩa\n\nNovaBar biến thanh Home Bar thành khu vực thao tác nhanh mạnh mẽ, cho phép tùy chỉnh giao diện và gán hành động hệ thống cho từng cử chỉ.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "PHIÊN BẢN 1.0.0   •   iOS 15.0 TRỞ LÊN   •   ROOTLESS",
+          "textColor": "#8E8E93",
+          "fontSize": "11.0",
+          "alignment": 1
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Tham gia cộng đồng BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Kênh cập nhật và hỗ trợ chính thức",
+          "textColor": "#8E8E93",
+          "fontSize": "10.0",
+          "alignment": 1
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Hình ảnh NovaBar"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/NovaBar/Screenshots/1.png",
+              "accessibilityText": "Ảnh chụp NovaBar 1"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/NovaBar/Screenshots/2.png",
+              "accessibilityText": "Ảnh chụp NovaBar 2"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/NovaBar/Screenshots/3.png",
+              "accessibilityText": "Ảnh chụp NovaBar 3"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/NovaBar/Screenshots/4.png",
+              "accessibilityText": "Ảnh chụp NovaBar 4"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/NovaBar/Screenshots/5.png",
+              "accessibilityText": "Ảnh chụp NovaBar 5"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/NovaBar/Screenshots/6.png",
+              "accessibilityText": "Ảnh chụp NovaBar 6"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/NovaBar/Screenshots/7.png",
+              "accessibilityText": "Ảnh chụp NovaBar 7"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/NovaBar/Screenshots/8.png",
+              "accessibilityText": "Ảnh chụp NovaBar 8"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/NovaBar/Screenshots/9.png",
+              "accessibilityText": "Ảnh chụp NovaBar 9"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/NovaBar/Screenshots/10.png",
+              "accessibilityText": "Ảnh chụp NovaBar 10"
+            }
+          ],
+          "itemCornerRadius": 28,
+          "itemSize": "{158,342}"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Trải nghiệm nổi bật"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "> **Tùy biến trực quan**  \n> Điều chỉnh màu sắc, chiều rộng, chiều cao, độ bo góc và hiệu ứng của Home Bar.\n\n> **Thao tác nhanh**  \n> Gán hành động cho Chạm đôi, Nhấn giữ, Vuốt trái, Vuốt phải và Vuốt xuống.\n\n> **Thuần hệ thống**  \n> Tích hợp trực tiếp trong Cài đặt, nhẹ và phù hợp với trải nghiệm iOS.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin phát hành"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Nhà phát triển",
+          "text": "BVN Mobile Services"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Trạng thái",
+          "text": "Ổn định"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tương thích",
+          "text": "iOS 15 trở lên"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak",
+          "text": "Rootless"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Kiến trúc",
+          "text": "arm64, arm64e"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Ủng hộ NovaBar",
+          "action": "https://bvnrepo.xyz/donate/",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "NovaBar • BVN Mobile Services • 2026",
+          "textColor": "#8E8E93",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Tính năng",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Tùy chỉnh Home Bar"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Thay đổi màu sắc Home Bar bằng bảng chọn màu\n- Điều chỉnh chiều rộng, chiều cao và độ bo góc\n- Hiệu ứng Chroma và Shimmer\n- Ẩn Home Bar khi cần\n- Tự động ẩn Home Bar trong ảnh chụp màn hình\n- Xem trước thay đổi trực tiếp trong Cài đặt",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Cử chỉ hỗ trợ"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Chạm đôi\n- Nhấn giữ\n- Vuốt sang trái\n- Vuốt sang phải\n- Vuốt xuống\n\nCác cử chỉ chỉ nhận tại khu vực Home Bar và không ảnh hưởng phần còn lại của màn hình.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Hành động khả dụng"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Mặc định hệ thống\n- Không làm gì\n- Spotlight\n- Trung tâm thông báo\n- Trung tâm điều khiển\n- Chế độ nguồn điện thấp\n- Chế độ tối\n- Chế độ máy bay\n- Đèn pin\n- Bluetooth\n- Wi-Fi\n- Khóa màn hình\n- Khóa xoay màn hình\n- Phát hoặc tạm dừng nội dung\n- Chụp ảnh màn hình\n- Ghi màn hình\n- Quay lại màn hình trước trong ứng dụng",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Phản hồi cử chỉ"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Phản hồi rung khi nhận thao tác\n- Hiệu ứng hình ảnh khi cử chỉ được kích hoạt\n- Tự động chặn chuyển ứng dụng của iOS khi Vuốt trái hoặc Vuốt phải đã được gán hành động tùy chỉnh",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Lưu ý về Quay lại"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Tính năng **Quay lại** cần inject vào ứng dụng. Sau khi gán hành động này, hãy đóng hoàn toàn ứng dụng cần sử dụng rồi mở lại.",
+          "useSpacing": "true"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Cập nhật",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Bản phát hành hiện tại"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "> **Kênh ổn định**  \n> Phiên bản hiện tại đã được tối ưu cho trải nghiệm sử dụng hằng ngày.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 1.0.0\n- Phát hành NovaBar\n- Tùy chỉnh màu sắc, chiều rộng, chiều cao và độ bo góc Home Bar\n- Thêm hiệu ứng Chroma và Shimmer\n- Hỗ trợ Chạm đôi, Nhấn giữ, Vuốt trái, Vuốt phải và Vuốt xuống\n- Thêm các hành động hệ thống và thao tác nhanh\n- Hỗ trợ Quay lại trong ứng dụng\n- Thêm phản hồi rung và hiệu ứng hình ảnh\n- Hỗ trợ đầy đủ tiếng Việt và tiếng Anh\n- Hỗ trợ iOS 15 trở lên và jailbreak Rootless",
+          "useSpacing": "true"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "BVN Mobile Services"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Nhận thông báo cập nhật, gửi báo lỗi và trao đổi trực tiếp qua các kênh chính thức bên dưới.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "BVN Repo",
+          "action": "https://www.bvnrepo.xyz"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Kênh Telegram",
+          "action": "https://t.me/bvnrepo"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Kênh TikTok",
+          "action": "https://www.tiktok.com/@bvnmobileservices"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Facebook",
+          "action": "https://facebook.com/bvnmobileservices999"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Đồng hành cùng NovaBar"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Sự ủng hộ của bạn giúp NovaBar tiếp tục được duy trì, tối ưu và bổ sung các tính năng mới.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Ủng hộ BVN",
+          "action": "https://bvnrepo.xyz/donate/",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Cảm ơn bạn đã đồng hành cùng BVN Repo",
+          "textColor": "#8E8E93",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
