@@ -111,7 +111,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.9\n\n- Hỗ trợ tải xuống Video,âm thanh Youtube phiên bản mới nhất\n\ ### Phiên bản 1.0.6\n\n- Sửa lỗi bị văng khi bật tải video trên Youtube\n\n ### Phiên bản 1.0.5\n\n- Tối ưu hoá 1 số tính năng\n\n- Thêm tính năng xem lại tin nhắn đã thu hồi ở Messenger\n\n ### Phiên bản 1.0.4\n\n- Thêm tải xuống Video,chặn quảng cáo ứng dụng X\n\n- Thêm bật 120HZ cho các ứng dụng ,chỉ các dòng có 120HZ\n\n- Sửa lỗi đơ ở tiktok\n\n ### Phiên bản 1.0.1\n\n- Sửa lỗi chặn quảng cáo Youtube\n\n- Thêm hiển thị con mắt trong Stori\n\n- Thêm Không làm gián đoạn nhạc đang phát khi lướt bảng tin Facebook\n\n ### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 1.0.9\n\n- Hỗ trợ tải xuống Video,âm thanh Youtube phiên bản mới nhất\n\n ### Phiên bản 1.0.6\n\n- Sửa lỗi bị văng khi bật tải video trên Youtube\n\n ### Phiên bản 1.0.5\n\n- Tối ưu hoá 1 số tính năng\n\n- Thêm tính năng xem lại tin nhắn đã thu hồi ở Messenger\n\n ### Phiên bản 1.0.4\n\n- Thêm tải xuống Video,chặn quảng cáo ứng dụng X\n\n- Thêm bật 120HZ cho các ứng dụng ,chỉ các dòng có 120HZ\n\n- Sửa lỗi đơ ở tiktok\n\n ### Phiên bản 1.0.1\n\n- Sửa lỗi chặn quảng cáo Youtube\n\n- Thêm hiển thị con mắt trong Stori\n\n- Thêm Không làm gián đoạn nhạc đang phát khi lướt bảng tin Facebook\n\n ### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
