@@ -1,0 +1,258 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5E5CE6",
+  "tabs": [
+    {
+      "tabname": "Tổng quan",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Edge 3"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Viền chuyển màu động quanh màn hình\n\nEdge 3 tạo đường viền chuyển sắc sống động bao quanh màn hình, hiển thị chính xác theo từng kiểu thiết bị từ tai thỏ đến Dynamic Island.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "PHIÊN BẢN 1.0.1   •   iOS 15.0 TRỞ LÊN   •   ROOTLESS",
+          "textColor": "#8E8E93",
+          "fontSize": "11.0",
+          "alignment": 1
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Tham gia cộng đồng BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Kênh cập nhật và hỗ trợ chính thức",
+          "textColor": "#8E8E93",
+          "fontSize": "10.0",
+          "alignment": 1
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Hình ảnh Edge 3"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/Edge3/Screenshots/1.png",
+              "accessibilityText": "Ảnh chụp Edge 3 1"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/Edge3/Screenshots/2.png",
+              "accessibilityText": "Ảnh chụp Edge 3 2"
+            }
+          ],
+          "itemCornerRadius": 28,
+          "itemSize": "{158,342}"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Trải nghiệm nổi bật"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "> **Viền chuẩn theo thiết bị**  \n> Tự động sử dụng hình dạng phù hợp cho iPhone tai thỏ, màn hình hiện đại và Dynamic Island.\n\n> **Chuyển màu sinh động**  \n> Tùy chỉnh tối đa 5 màu chuyển sắc cùng nhiều chế độ hoạt ảnh.\n\n> **Hiển thị linh hoạt**  \n> Chọn chỉ Màn hình khóa, chỉ Màn hình chính hoặc hiển thị Toàn hệ thống.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin phát hành"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Nhà phát triển",
+          "text": "BVN Mobile Services"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "1.0.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Trạng thái",
+          "text": "Ổn định"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tương thích",
+          "text": "iOS 15 trở lên"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak",
+          "text": "Rootless"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Kiến trúc",
+          "text": "arm64, arm64e"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Ủng hộ Edge 3",
+          "action": "https://bvnrepo.xyz/donate/",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Edge 3 • BVN Mobile Services • 2026",
+          "textColor": "#8E8E93",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Tính năng",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Tùy chỉnh đường viền"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Điều chỉnh chiều rộng đường viền\n- Tùy chỉnh chuyển sắc với tối đa 5 màu\n- Mở bảng màu và tinh chỉnh RGB\n- Cập nhật thay đổi trực tiếp sau khi lưu cài đặt",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Chế độ hiển thị"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Chỉ Màn hình khóa\n- Chỉ Màn hình chính\n- Toàn hệ thống\n- Tự động thích ứng khi xoay ngang màn hình",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Hoạt ảnh chuyển màu"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Bật hoặc tắt chuyển màu sinh động\n- Chế độ Cuộn trang\n- Chế độ Lắc thiết bị\n- Chế độ Hẹn giờ\n- Điều chỉnh độ trễ hoạt ảnh",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Hỗ trợ thiết bị"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Viền tai thỏ chuẩn cho iPhone X, XS, XS Max, XR, 11 Series, 12 Series và 13 Series\n- Hình học riêng cho màn hình tai thỏ hiện đại\n- Viền riêng quanh Dynamic Island trên iPhone 14 Pro và 14 Pro Max\n- Tự động nhận dạng kiểu màn hình của thiết bị",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Lọc ứng dụng"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Ẩn viền trong các ứng dụng đã chọn\n- Danh sách chọn ứng dụng trực tiếp trong Cài đặt\n- Không ảnh hưởng đến các ứng dụng còn lại",
+          "useSpacing": "true"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Cập nhật",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Bản phát hành hiện tại"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "> **Kênh ổn định**  \n> Phiên bản hiện tại đã được tối ưu cho màn hình khóa, màn hình chính và trải nghiệm sử dụng hằng ngày.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 1.0.1\n- Fix viền không hiển thị trên Màn hình khóa iOS",
+          "useSpacing": "true"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "BVN Mobile Services"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Nhận thông báo cập nhật, gửi báo lỗi và trao đổi trực tiếp qua các kênh chính thức bên dưới.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "BVN Repo",
+          "action": "https://www.bvnrepo.xyz"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Kênh Telegram",
+          "action": "https://t.me/bvnrepo"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Kênh TikTok",
+          "action": "https://www.tiktok.com/@bvnmobileservices"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Facebook",
+          "action": "https://facebook.com/bvnmobileservices999"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Đồng hành cùng Edge 3"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Sự ủng hộ của bạn giúp Edge 3 tiếp tục được duy trì, tối ưu và bổ sung hỗ trợ cho nhiều thiết bị hơn.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Ủng hộ BVN",
+          "action": "https://bvnrepo.xyz/donate/",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Cảm ơn bạn đã đồng hành cùng BVN Repo",
+          "textColor": "#8E8E93",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
