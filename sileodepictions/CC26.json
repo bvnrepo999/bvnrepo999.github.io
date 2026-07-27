@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"CC26\n\n- Trung tâm điều khiển kiểu iOS26 cho iOS cũ\n\n- Các thiết bị Xs trở lên nếu gặp lỗi vào chế độ an toàn hãy cài thêm Tweaks Legacy Arm64e Support\n\n- Xem hình ảnh phía dưới để biết rõ hơn \n\nㅤ\n\n",
+"markdown":"CC26\n\n- Trung tâm điều khiển kiểu iOS26 cho iOS cũ\n\n- Thêm tuỳ chỉnh trong cài đặt\n\n- Xem hình ảnh phía dưới để biết rõ hơn \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -61,7 +61,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"6/7/2025"
+"text":"27/7/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -75,7 +75,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -88,7 +88,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 0.4.9.10\n\n- Sửa lỗi"
+"markdown":"### Phiên bản 1.0.6\n\n- Thêm nhiều tuỳ chỉnh trong cài đặt\n\n ### Phiên bản 0.4.9.10\n\n- Sửa lỗi"
 }
 ],
 "class":"DepictionStackView"
