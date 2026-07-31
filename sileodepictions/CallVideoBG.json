@@ -28,7 +28,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"CallVideoBG\n\n- Sử dụng Video để làm nền cuộc gọi đến\n\n- Yêu cầu cài Tweak Legacy arm64e Support\n\n- Vào cài đặt của Tweak nhấn chọn Video từ Album ảnh \n\n",
+"markdown":"CallVideoBG\n\n- Sử dụng Video để làm nền cuộc gọi đi & đến\n\n- Yêu cầu cài Tweak Legacy arm64e Support\n\n- Vào cài đặt của Tweak nhấn chọn Video từ Album ảnh \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -64,12 +64,12 @@
 {
 "class":"DepictionTableTextView",
 "title":"Dung lượng",
-"text":"20 KB "
+"text":"567 KB "
 },
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"9/12/2025"
+"text":"31/7/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -78,7 +78,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -126,7 +126,7 @@
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
