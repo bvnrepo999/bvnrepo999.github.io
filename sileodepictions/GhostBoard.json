@@ -12,12 +12,12 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## Bộ tinh chỉnh cao cấp dành cho iOS\n\nTùy biến giao diện, tăng tiện ích, bảo vệ ứng dụng và mở rộng khả năng quản lý hệ thống trong cùng một gói.",
+          "markdown": "## GhostBoard — Bộ tinh chỉnh tất cả trong một cho iOS\n\nGhostBoard tập hợp hàng trăm tùy chọn để cá nhân hóa giao diện, mở rộng tiện ích hệ thống, quản lý ứng dụng và tăng cường quyền riêng tư trong một bảng cài đặt thống nhất. Mỗi nhóm tính năng được sắp xếp riêng, dễ bật/tắt và hạn chế xung đột giữa các thành phần.",
           "useSpacing": "true"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "> **Phiên bản 7.1**  \n> Hỗ trợ iOS 15.0 đến iOS 17.0",
+          "markdown": "> **Phiên bản 7.2.1**  \n> Hỗ trợ iOS 15.0 – iOS 17.x • Rootless  \n> Một số thay đổi hệ thống cần Respring để áp dụng hoàn toàn.",
           "useSpacing": "true"
         },
         {
@@ -113,7 +113,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Giao diện tinh tế\n- Làm trong suốt thanh ứng dụng\n- Tùy chỉnh biểu tượng và thư mục\n- Ẩn các thành phần không cần thiết\n\n### Tiện ích mạnh mẽ\n- Hiển thị tốc độ mạng và thông tin pin\n- Quản lý Wi-Fi và dữ liệu di động\n- Đa nhiệm kiểu iPad\n\n### Bảo mật riêng tư\n- Khóa ứng dụng bằng Face ID hoặc Touch ID\n- Ẩn ứng dụng khỏi Màn hình chính\n- Bảo vệ trải nghiệm sử dụng",
+          "markdown": "### Cá nhân hóa toàn diện\n- Tùy chỉnh Màn hình chính, Màn hình khóa, Dock, thư mục, biểu tượng và hoạt ảnh\n- Giả lập cử chỉ iPhone X, nâng bàn phím, thêm phím tắt và hiệu ứng Face ID\n- Tùy biến Trung tâm điều khiển, thanh trạng thái, thông báo và âm thanh hệ thống\n\n### Tiện ích hệ thống mạnh mẽ\n- Hiển thị tốc độ mạng, CPU, RAM, nhiệt độ pin, dòng điện và công suất sạc\n- Quản lý Wi‑Fi, chia sẻ mã QR, xem mật khẩu đã lưu và giới hạn mạng theo ứng dụng\n- Đa nhiệm kiểu iPad, Dock nổi, đóng nhanh ứng dụng và giữ ứng dụng đang phát\n\n### Ứng dụng và quyền riêng tư\n- Bảo vệ ứng dụng bằng Face ID hoặc Touch ID và ẩn ứng dụng khỏi Màn hình chính\n- Mở rộng Ảnh, Camera, Điện thoại, TikTok và Facebook\n- Tùy chỉnh thông tin thiết bị, tình trạng pin và giao diện ứng dụng Cài đặt",
           "useSpacing": "true"
         },
         {
@@ -124,7 +124,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "GhostBoard • Phát triển bởi BVN999 • 2026",
+          "text": "GhostBoard 7.2.1 • Phát triển bởi BVN Repo • 2026",
           "textColor": "#8E8E93",
           "fontSize": "10.0",
           "alignment": 1
@@ -137,47 +137,101 @@
       "views": [
         {
           "class": "DepictionHeaderView",
-          "title": "Giao diện và Màn hình chính"
+          "title": "Màn hình chính và SpringBoard"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Làm trong suốt thanh ứng dụng\n- Hiển thị 5 biểu tượng hoặc 2 hàng\n- Ẩn nút tìm kiếm và dấu chấm trang\n- Ẩn tên ứng dụng và tên thư mục\n- Ẩn Thư viện ứng dụng\n- Tự động vào Màn hình chính sau khi mở khóa\n- Xoay ngang biểu tượng\n- Thêm hoạt ảnh mở ứng dụng",
+          "markdown": "- Tự động mở khóa sau khi Face ID hoặc Touch ID xác thực thành công\n- Ẩn nền Dock, hiển thị tên ứng dụng trên Dock, Dock 5 biểu tượng hoặc 2 hàng\n- Tùy chỉnh kích thước biểu tượng, sắp xếp biểu tượng và lưu bố cục Màn hình chính\n- Đổ bóng biểu tượng Dock và điều chỉnh độ trong suốt, độ cao\n- Ẩn nút Tìm kiếm, dấu chấm trang, tên ứng dụng/thư mục và Thư viện ứng dụng\n- Tắt Spotlight, chế độ xem Hôm nay, lời nhắc dán và nút quay lại ứng dụng\n- Xoay ngang biểu tượng, xoay ngược màn hình và thêm hoạt ảnh mở/đóng ứng dụng\n- Nhấn hai lần vùng trống để khóa máy, lật úp thiết bị để tắt màn hình\n- Tự động quản lý Chế độ nguồn điện thấp, ẩn cảnh báo pin yếu và tắt âm thông báo khi đang phát nhạc\n- Vuốt hai ngón trên thanh trạng thái để chụp màn hình; tắt âm thanh và bản xem trước ảnh chụp\n- Ẩn Home Bar, chỉ báo micrô/máy ảnh, chấm TestFlight và chấm xanh sau cập nhật\n- Hiển thị phần trăm pin kiểu iOS 16 và thanh tiến trình khi tải ứng dụng",
           "useSpacing": "true"
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Màn hình khóa và cử chỉ"
+          "title": "Giả lập iPhone X, Dock nổi và bảo vệ ứng dụng"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Nhấn hai lần để tắt màn hình\n- Nhấn hai lần nút giảm âm lượng để bật đèn pin\n- Hiển thị thời gian sạc ước tính\n- Ẩn phím tắt Đèn pin và Máy ảnh\n- Ẩn chế độ xem Hôm nay\n- Giả lập cử chỉ iPhone X",
+          "markdown": "- Giả lập cử chỉ iPhone X trên thiết bị dùng Touch ID\n- Thêm phím tắt Đèn pin và Camera trên Màn hình khóa\n- Nâng bàn phím, tùy chỉnh khoảng trống phía dưới và nâng đáy ứng dụng\n- Hiển thị Home Indicator trên Màn hình khóa\n- Hiển thị hiệu ứng Face ID gốc và điều chỉnh vị trí theo chiều dọc\n- Bật Dock nổi kiểu iPad, ẩn nền/đường phân cách và tùy chỉnh nội dung Dock\n- Điều chỉnh số biểu tượng ghim, ứng dụng gần đây và vị trí xuất hiện của Dock nổi\n- Bảo vệ từng ứng dụng bằng Face ID hoặc Touch ID từ menu nhấn giữ\n- Tùy chỉnh thời gian ghi nhớ trạng thái đã mở khóa cho từng ứng dụng",
           "useSpacing": "true"
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Hệ thống và thanh trạng thái"
+          "title": "Màn hình khóa"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Đổi tên nhà mạng\n- Đổi biểu tượng 3G, 4G và 5G\n- Hiển thị tốc độ mạng\n- Hiển thị lịch âm\n- Hiển thị nhiệt độ pin và dòng điện\n- Hiển thị công suất sạc ước tính\n- Tắt hoàn toàn Wi-Fi và Bluetooth\n- Ẩn cảnh báo linh kiện không xác định",
+          "markdown": "- Ẩn chế độ xem Hôm nay, phím tắt Đèn pin/Camera và thanh kéo Trung tâm điều khiển\n- Hiển thị giờ trên thanh trạng thái của Màn hình khóa\n- Xáo trộn bàn phím mật mã để tăng riêng tư\n- Ẩn popup sạc và dòng “Không có thông báo cũ hơn”\n- Hiển thị nút Từ chối khi có cuộc gọi đến\n- Tắt thao tác vuốt sang trái để mở Camera\n- Nhấn hai lần để tắt màn hình hoặc nhấn hai lần nút giảm âm lượng để bật/tắt Đèn pin\n- Bật hoạt ảnh sạc MagSafe, làm trong suốt trình phát nhạc\n- Hiển thị thời gian sạc ước tính và tùy chỉnh vị trí hiển thị",
           "useSpacing": "true"
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Ứng dụng và bảo mật"
+          "title": "Thư mục và biểu tượng thư mục"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Khóa ứng dụng bằng Face ID hoặc Touch ID\n- Ẩn ứng dụng khỏi Màn hình chính\n- Xóa ảnh hoàn toàn\n- Phóng to ảnh không giới hạn\n- Tắt âm thanh chụp ảnh\n- Tắt lời nhắc dán\n- Rung khi bắt máy hoặc kết thúc cuộc gọi",
+          "markdown": "- Làm trong suốt thư mục hoặc hiển thị thư mục bằng biểu tượng ứng dụng đầu tiên\n- Tùy chỉnh tiêu đề, cỡ chữ, bố cục thư mục lớn, chiều cao và độ bo góc\n- Đổi màu tên thư mục, nhãn ứng dụng, biểu tượng và nền thư mục\n- Ẩn hoạt ảnh, nền, tiêu đề, nhãn ứng dụng và dấu chấm trang\n- Tự động đóng thư mục sau khi mở ứng dụng hoặc chạm bên ngoài để đóng\n- Cho phép kéo nhiều thư mục và widget\n- Vuốt lên trong thư mục để mở trình khởi chạy, sắp xếp ứng dụng theo bảng chữ cái và ẩn nhãn",
           "useSpacing": "true"
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Wi-Fi và đa nhiệm"
+          "title": "Đa nhiệm"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Hiển thị mật khẩu Wi-Fi đã kết nối\n- Chia sẻ Wi-Fi bằng mã QR\n- Hiển thị địa chỉ MAC và BSSID\n- Hiển thị cả mạng Wi-Fi yếu\n- Quản lý mạng theo từng ứng dụng\n- Đa nhiệm kiểu iPad\n- Thanh ứng dụng nổi\n- Đóng tất cả ứng dụng đang chạy",
+          "markdown": "- Vuốt xuống trong giao diện đa nhiệm để đóng tất cả ứng dụng\n- Giữ lại ứng dụng đang phát nhạc khi đóng toàn bộ\n- Hiển thị nút X và chọn vị trí nút đóng nhanh\n- Hiển thị thanh trạng thái trong giao diện đa nhiệm\n- Bật bố cục đa nhiệm dạng lưới kiểu iPad",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Trung tâm điều khiển"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Tùy chỉnh độ trong suốt của toàn bộ Trung tâm điều khiển\n- Tắt hoàn toàn Wi‑Fi và Bluetooth trực tiếp từ Trung tâm điều khiển\n- Thêm mô-đun Chế độ im lặng\n- Thêm mô-đun Dòng điện & Nhiệt độ với thông tin pin chi tiết\n- CCmusic: hiển thị đĩa album tròn, hiệu ứng xoay và ảnh động tùy chỉnh\n- CCBorder: thêm đường viền, bo góc mô-đun/thanh trượt và đổi màu biểu tượng\n- Hiển thị phần trăm độ sáng và âm lượng với kích thước chữ tùy chỉnh\n- Dùng ảnh hoặc video làm nền, hỗ trợ lặp video, làm mờ và mở thư mục media bằng Filza",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thanh trạng thái và thông tin hệ thống"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Hiển thị biểu tượng Chế độ im lặng\n- Thay văn bản 3G, 4G, 5G hoặc LTE bằng nội dung tùy chỉnh\n- Đổi tên nhà mạng riêng cho SIM 1 và SIM 2\n- Hiển thị tốc độ mạng theo thời gian thực\n- Hiển thị nhiệt độ pin, dòng điện và công suất sạc\n- Hiển thị mức sử dụng CPU và dung lượng RAM trống\n- Tùy chỉnh vị trí, kích thước, độ trong suốt, nền và bo góc cho từng bảng thông tin\n- Hiển thị giây, lịch dương, lịch âm hoặc lịch âm–dương; tùy chỉnh vị trí và cỡ chữ",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông báo và âm thanh"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Tùy chỉnh độ trong suốt của thông báo\n- Loại bỏ lớp làm mờ phía sau thông báo\n- Đổi màu nền thông báo theo màu biểu tượng ứng dụng\n- Thay âm thanh sạc, khóa máy, nhập mật mã, Respring, mở khóa và nút âm lượng\n- Chọn âm thanh riêng và điều chỉnh âm lượng độc lập cho từng sự kiện",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Ảnh, Camera và Điện thoại"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Ảnh: phóng to không giới hạn, xóa hoàn toàn ảnh/video, bật PiP và tự bật tiếng video\n- Camera: tắt âm thanh chụp ảnh\n- Điện thoại: rung khi người nhận bắt máy hoặc khi cuộc gọi kết thúc\n- Xác nhận trước khi gọi từ Yêu thích hoặc Gần đây\n- Hiển thị bảng chọn SIM trước khi gọi và dùng ảnh riêng cho từng SIM\n- Ẩn cuộc gọi thường, cuộc gọi ứng dụng bên thứ ba hoặc FaceTime khỏi danh sách Gần đây\n- Đổi màu cuộc gọi đến, gọi đi và gọi nhỡ\n- Ẩn riêng các tab Yêu thích, Gần đây, Danh bạ, Bàn phím và Thư thoại",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Ứng dụng Cài đặt và Wi‑Fi"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Chia trang Cài đặt thành các nhóm Tweak, ứng dụng App Store và ứng dụng hệ thống; đổi tên từng nhóm\n- Thêm ảnh hoặc video phía trên mục iCloud và tùy chỉnh chiều cao\n- Dùng ảnh/video riêng cho Chế độ sáng và Chế độ tối làm nền Cài đặt\n- Tùy chỉnh làm mờ, âm lượng video và độ trong suốt của các ô danh sách\n- Ẩn cảnh báo linh kiện không xác định và khôi phục hiển thị tình trạng pin\n- Bo tròn biểu tượng, bo tròn ô danh sách, căn giữa tiêu đề và ẩn/bo tròn thanh tìm kiếm\n- Hiển thị giao diện giới hạn Wi‑Fi và Dữ liệu di động theo từng ứng dụng\n- Hiển thị cả mạng Wi‑Fi yếu, địa chỉ MAC/BSSID, mã QR chia sẻ và mật khẩu Wi‑Fi đã lưu\n- Giả mạo thông tin trong Cài đặt → Cài đặt chung → Giới thiệu\n- Tùy chỉnh phần trăm Dung lượng tối đa trong Tình trạng pin",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "TikTok và Facebook"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- TikTok: ẩn hộp quà phần thưởng, tự chuyển video, tải video/ảnh/âm thanh không logo, chặn quảng cáo và ẩn LIVE\n- Facebook: chặn quảng cáo, giữ nhạc đang phát khi lướt bảng tin và tự chuyển tiếp Reels",
           "useSpacing": "true"
         }
       ],
@@ -192,7 +246,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "> **Kênh phát hành ổn định**  \n> Tổng hợp tính năng mới, cải tiến và các lỗi đã được khắc phục.\n\n### Phiên bản 7.2\n- Sửa lỗi bị treo trên ios 17.3.1\n- Thêm thay đổi giọng nói\n- Sửa lỗi chọn sim để gọi\n\n### Phiên bản 7.1\n- Thêm ghi âm tất cả cuộc gọi\n\n### Phiên bản 7.0\n- Thêm căn giữa các tiêu đề trong cài đặt\n- Sửa lỗi ở tính năng chọn Sim trước khi gọi\n\n### Phiên bản 6.9\n- Thêm tweak CCBorder cho trung tâm điều khiển hỗ trợ ios 15&16\n\n### Phiên bản 6.8\n- Thêm phím tắt đèn pin & camera ở Giả mạo iphone X\n- Thêm Hiệu ứng FaceID\n- Nâng đáy\n- Nâng cao bàn phím\n- Hiển thị thanh Home ở màn hình khoá\n\n### Phiên bản 6.7\n- Thêm hiển thị thông tin pin và và thời gian hoạt động ở trung tâm điều khiển\n\n### Phiên bản 6.6\n- Thêm biểu tượng tắt tiếng trong Trung tâm điều khiển và trên thanh trạng thái\n\n### Phiên bản 6.5\n- Sửa lỗi nút đóng tất cả ứng dụng không xuất hiện khi dùng đa nhiệm kiểu iPad trên iPhone 8 Plus trở xuống\n\n### Phiên bản 6.4\n- Khắc phục một số lỗi còn tồn tại\n\n### Phiên bản 6.3\n- Thêm tùy chỉnh dành cho thư mục\n\n### Phiên bản 6.2\n- Tối ưu hóa một số tính năng\n- Bổ sung kênh liên hệ để người dùng báo lỗi\n\n### Phiên bản 6.1\n- Loại bỏ thư viện hỗ trợ arm64e cũ\n- Thêm hình nền và video nền cho Trung tâm điều khiển\n\n### Phiên bản 6.0\n- Sửa lỗi ứng dụng Cài đặt bị đơ\n- Thêm tùy chọn chọn SIM trước khi gọi trên thiết bị hai SIM\n\n### Phiên bản 5.9\n- Khắc phục một số lỗi\n\n### Phiên bản 5.7\n- Sửa lỗi ứng dụng Cài đặt bị đơ và thiết bị nóng bất thường\n\n### Phiên bản 5.6\n- Thêm tùy chọn hiển thị lịch âm và lịch dương trên Màn hình khóa\n- Sửa lỗi tốc độ mạng và nhiệt độ không hoạt động trên một số thiết bị\n\n### TikTok\n- Tải video, ảnh và âm thanh không có biểu trưng\n- Chặn quảng cáo\n- Ẩn video phát trực tiếp\n\n### Phiên bản 5.5\n- Sửa lỗi thanh ứng dụng kiểu iPad\n- Thêm hình nền và video nền cho ứng dụng Cài đặt\n\n### Phiên bản 5.4\n- Thêm tùy chọn sắp xếp các mục trong Cài đặt\n- Thêm hình ảnh phía trên mục iCloud\n- Thêm tự động chuyển tiếp video Reels trên Facebook\n\n### Phiên bản 5.3\n- Khắc phục một số lỗi\n- Thêm chặn quảng cáo Facebook\n- Không làm dừng nhạc đang phát khi lướt bảng tin\n\n### Phiên bản 5.2\n- Khắc phục một số lỗi\n\n### Phiên bản 5.1\n- Thêm hiệu ứng đổ bóng cho biểu tượng trên thanh ứng dụng\n- Hiển thị RAM và CPU trên thanh trạng thái\n- Thêm tùy chỉnh riêng cho tốc độ mạng, nhiệt độ, công suất sạc và các thông số khác\n- Cải thiện độ ổn định\n\n### Phiên bản 5.0\n- Tùy chỉnh màu sắc danh sách cuộc gọi gần đây\n- Làm trong suốt trình phát nhạc trên Màn hình khóa\n- Thêm ảnh bìa xoay tròn và ảnh động trong Trung tâm điều khiển khi phát nhạc\n- Sửa lỗi ứng dụng Cài đặt bị thoát khi bật hoặc tắt Wi-Fi\n\n### Phiên bản 4.9\n- Hiển thị nút từ chối cuộc gọi trên Màn hình khóa\n- Thêm tính năng xáo trộn bàn phím mật mã\n\n### Điện thoại\n- Xác nhận trước khi gọi từ mục Yêu thích và Gần đây\n- Ẩn cuộc gọi thông thường, cuộc gọi từ ứng dụng bên thứ ba hoặc FaceTime\n- Ẩn các mục Yêu thích, Gần đây, Danh bạ, Bàn phím và Thư thoại\n\n### TikTok\n- Ẩn hộp quà phần thưởng TikTok\n- Tự động chuyển tiếp video\n\n### Phiên bản 4.8\n- Tùy chỉnh kích thước biểu tượng trên Màn hình chính\n- Sắp xếp biểu tượng theo bảng chữ cái và nhiều kiểu khác\n\n### Phiên bản 4.7\n- Thêm tùy chỉnh âm thanh khi cắm sạc, khóa màn hình, nhập mật mã, khởi động lại giao diện, mở khóa và nhấn nút âm lượng\n\n### Phiên bản 4.6\n- Ẩn dấu chấm xanh cạnh biểu tượng ứng dụng sau khi cập nhật\n- Tự động bật chế độ nguồn điện thấp khi không sạc và tắt khi đang sạc\n- Ghi nhớ lần mở khóa ứng dụng theo số phút đã chọn\n- Hiển thị thanh trạng thái trong giao diện đa nhiệm\n\n### Phiên bản 4.5\n- Khắc phục một số lỗi\n- Thêm nút X để đóng ứng dụng trong giao diện đa nhiệm\n\n### Phiên bản 4.4\n- Sửa hiện tượng giật khi mở Trung tâm điều khiển\n- Sửa lỗi nhấn hai lần để tắt màn hình trên Màn hình khóa\n- Hiển thị tốc độ mạng trên thanh trạng thái\n- Hiển thị nhiệt độ pin, dòng điện và công suất sạc ước tính trên thanh trạng thái\n\n### Phiên bản 4.2\n- Hiển thị lịch dương\n- Làm trong suốt thư mục\n- Ẩn thanh tìm kiếm trong Cài đặt\n- Bo tròn thanh tìm kiếm\n\n### Phiên bản 4.1\n- Ẩn chỉ báo đang sử dụng micrô và máy ảnh\n- Ẩn chấm vàng cạnh ứng dụng được tải bằng TestFlight\n- Hiển thị phần trăm pin theo kiểu iOS 16 trên thiết bị dùng phiên bản iOS cũ hơn\n- Ẩn ứng dụng khỏi Màn hình chính\n\n### Phiên bản 4.0\n- Sửa lỗi và cải thiện hiệu năng\n\n### Phiên bản 3.9\n- Lưu vị trí biểu tượng trên Màn hình chính\n- Hiển thị thanh tiến trình khi tải ứng dụng\n\n### Phiên bản 3.8\n- Hiển thị mật khẩu Wi-Fi đã kết nối\n- Chia sẻ Wi-Fi bằng mã QR\n\n### Phiên bản 3.6\n- Giả lập tình trạng pin\n- Thêm hiệu ứng đưa ứng dụng trở về Đảo động khi vuốt thoát trên thiết bị có hoặc đang giả lập Đảo động\n\n### Phiên bản 3.5\n- Tắt âm thông báo khi đang phát nhạc\n- Hiển thị giây trên đồng hồ của thanh trạng thái\n- Ẩn thanh kéo Trung tâm điều khiển trên Màn hình khóa\n\n### Phiên bản 3.4\n- Giả lập thông tin thiết bị trong mục Giới thiệu\n- Vuốt hai ngón tay trên thanh trạng thái để chụp màn hình\n\n### Phiên bản 3.3\n- Sửa lỗi ứng dụng Ảnh bị thoát khi bật chế độ hình trong hình\n- Tối ưu hóa giao diện Cài đặt\n- Lật úp thiết bị để tắt màn hình\n- Thêm mục yêu cầu tính năng mới trong phần giới thiệu bộ tinh chỉnh\n\n### Phiên bản 3.2\n- Tùy chỉnh độ trong suốt của Trung tâm điều khiển\n- Tự động bật âm thanh video trong ứng dụng Ảnh\n- Thêm chế độ hình trong hình cho video trong ứng dụng Ảnh\n\n### Phiên bản 3.1\n- Bo tròn các mục trong Cài đặt và cho phép tùy chỉnh tại Ứng dụng › Cài đặt\n- Hiển thị thông tin pin chi tiết\n\n### Phiên bản 3.0\n- Ẩn nút quay lại ứng dụng\n- Tắt âm thanh và bản xem trước khi chụp màn hình\n- Hiển thị tên ứng dụng trên thanh ứng dụng\n- Tùy chỉnh độ trong suốt của thông báo\n- Đổi màu thông báo theo màu biểu tượng ứng dụng\n- Thay đổi tên nhà mạng\n\n### Phiên bản 2.9\n- Đóng tất cả ứng dụng trong giao diện đa nhiệm\n- Rung khi người nhận bắt máy hoặc kết thúc cuộc gọi\n- Hiển thị lịch âm và lịch dương trên thanh trạng thái\n\n### Phiên bản 2.8\n- Giả lập cử chỉ iPhone X\n- Thay đổi biểu tượng 3G, 4G và 5G\n- Tùy chỉnh kích thước lịch âm\n\n### Phiên bản 2.7\n- Sửa lỗi lịch âm\n\n### Phiên bản 2.6\n- Hiển thị lịch âm trên thanh trạng thái\n- Thêm hoạt ảnh mở ứng dụng\n\n### Phiên bản 2.5\n- Thêm giao diện đa nhiệm kiểu iPad\n- Tắt cử chỉ vuốt sang trái để mở Máy ảnh trên Màn hình khóa\n\n### Phiên bản 2.4\n- Ẩn chế độ xem Hôm nay trên Màn hình khóa\n- Ẩn dòng “Không có thông báo cũ hơn”\n- Ẩn phím tắt Đèn pin và Máy ảnh\n- Bo tròn biểu tượng trong Cài đặt\n- Quản lý quyền sử dụng Wi-Fi và dữ liệu di động theo từng ứng dụng\n\n### Phiên bản 2.3\n- Bỏ giới hạn cường độ tín hiệu để hiển thị cả mạng Wi-Fi yếu\n- Hiển thị địa chỉ MAC và BSSID\n\n### Phiên bản 2.2\n- Thêm thanh ứng dụng kiểu iPad\n\n### Phiên bản 2.1\n- Sửa lỗi bảo vệ ứng dụng\n\n### Phiên bản 2.0\n- Thêm hoạt ảnh sạc MagSafe\n- Bảo vệ ứng dụng bằng Face ID và Touch ID\n- Sửa lỗi ẩn dấu chấm trang trên iPhone 8 Plus trở xuống\n\n### Phiên bản 1.9\n- Tắt hoàn toàn Wi-Fi và Bluetooth\n- Ẩn thanh cử chỉ\n\n### Phiên bản 1.8\n- Nhấn hai lần trên Màn hình khóa để tắt màn hình\n- Ẩn chế độ xem Hôm nay\n\n### Phiên bản 1.7\n- Sửa lỗi hiển thị 0% trong Trung tâm điều khiển\n\n### Phiên bản 1.6\n- Nhấn hai lần để khóa màn hình\n- Nhấn hai lần nút giảm âm lượng để bật đèn pin trên Màn hình khóa\n\n### Phiên bản 1.5\n- Ẩn thông báo linh kiện không xác định\n- Hiển thị phần trăm pin khi sử dụng pin không chính hãng\n\n### Phiên bản 1.4\n- Hiển thị phần trăm độ sáng và âm lượng\n- Thêm thanh ứng dụng hai hàng\n- Thêm tùy chọn điều chỉnh mức ước tính thời gian sạc",
+          "markdown": "> **Kênh phát hành ổn định**  \n> Nội dung bên dưới được đồng bộ theo mã nguồn GhostBoard 7.0.\n\n### Phiên bản 7.2.1\n- Sửa lỗi\n\n### Phiên bản 7.0\n- Thêm căn giữa các tiêu đề trong cài đặt\n- Sửa lỗi ở tính năng chọn SIM trước khi gọi\n\n### Phiên bản 6.9\n- Thêm tweak CCBorder cho Trung tâm điều khiển hỗ trợ iOS 15 và iOS 16\n\n### Phiên bản 6.8\n- Thêm phím tắt đèn pin & camera ở Giả mạo iPhone X\n- Thêm hiệu ứng Face ID\n- Nâng đáy\n- Nâng cao bàn phím\n- Hiển thị thanh Home ở Màn hình khóa\n\n### Phiên bản 6.7\n- Thêm hiển thị thông tin pin và thời gian hoạt động ở Trung tâm điều khiển\n\n### Phiên bản 6.6\n- Thêm biểu tượng tắt tiếng trong Trung tâm điều khiển và trên thanh trạng thái\n\n### Phiên bản 6.5\n- Sửa lỗi nút đóng tất cả ứng dụng không xuất hiện khi dùng đa nhiệm kiểu iPad trên iPhone 8 Plus trở xuống\n\n### Phiên bản 6.4\n- Khắc phục một số lỗi còn tồn tại\n\n### Phiên bản 6.3\n- Thêm tùy chỉnh dành cho thư mục\n\n### Phiên bản 6.2\n- Tối ưu hóa một số tính năng\n- Bổ sung kênh liên hệ để người dùng báo lỗi\n\n### Phiên bản 6.1\n- Loại bỏ thư viện hỗ trợ arm64e cũ\n- Thêm hình nền và video nền cho Trung tâm điều khiển\n\n### Phiên bản 6.0\n- Sửa lỗi ứng dụng Cài đặt bị đơ\n- Thêm tùy chọn chọn SIM trước khi gọi trên thiết bị hai SIM\n\n### Phiên bản 5.9\n- Khắc phục một số lỗi\n\n### Phiên bản 5.7\n- Sửa lỗi ứng dụng Cài đặt bị đơ và thiết bị nóng bất thường\n\n### Phiên bản 5.6\n- Thêm tùy chọn hiển thị lịch âm và lịch dương trên Màn hình khóa\n- Sửa lỗi tốc độ mạng và nhiệt độ không hoạt động trên một số thiết bị\n\n### TikTok\n- Tải video, ảnh và âm thanh không có biểu trưng\n- Chặn quảng cáo\n- Ẩn video phát trực tiếp\n\n### Phiên bản 5.5\n- Sửa lỗi thanh ứng dụng kiểu iPad\n- Thêm hình nền và video nền cho ứng dụng Cài đặt\n\n### Phiên bản 5.4\n- Thêm tùy chọn sắp xếp các mục trong Cài đặt\n- Thêm hình ảnh phía trên mục iCloud\n- Thêm tự động chuyển tiếp video Reels trên Facebook\n\n### Phiên bản 5.3\n- Khắc phục một số lỗi\n- Thêm chặn quảng cáo Facebook\n- Không làm dừng nhạc đang phát khi lướt bảng tin\n\n### Phiên bản 5.2\n- Khắc phục một số lỗi\n\n### Phiên bản 5.1\n- Thêm hiệu ứng đổ bóng cho biểu tượng trên thanh ứng dụng\n- Hiển thị RAM và CPU trên thanh trạng thái\n- Thêm tùy chỉnh riêng cho tốc độ mạng, nhiệt độ, công suất sạc và các thông số khác\n- Cải thiện độ ổn định\n\n### Phiên bản 5.0\n- Tùy chỉnh màu sắc danh sách cuộc gọi gần đây\n- Làm trong suốt trình phát nhạc trên Màn hình khóa\n- Thêm ảnh bìa xoay tròn và ảnh động trong Trung tâm điều khiển khi phát nhạc\n- Sửa lỗi ứng dụng Cài đặt bị thoát khi bật hoặc tắt Wi-Fi\n\n### Phiên bản 4.9\n- Hiển thị nút từ chối cuộc gọi trên Màn hình khóa\n- Thêm tính năng xáo trộn bàn phím mật mã\n\n### Điện thoại\n- Xác nhận trước khi gọi từ mục Yêu thích và Gần đây\n- Ẩn cuộc gọi thông thường, cuộc gọi từ ứng dụng bên thứ ba hoặc FaceTime\n- Ẩn các mục Yêu thích, Gần đây, Danh bạ, Bàn phím và Thư thoại\n\n### TikTok\n- Ẩn hộp quà phần thưởng TikTok\n- Tự động chuyển tiếp video\n\n### Phiên bản 4.8\n- Tùy chỉnh kích thước biểu tượng trên Màn hình chính\n- Sắp xếp biểu tượng theo bảng chữ cái và nhiều kiểu khác\n\n### Phiên bản 4.7\n- Thêm tùy chỉnh âm thanh khi cắm sạc, khóa màn hình, nhập mật mã, khởi động lại giao diện, mở khóa và nhấn nút âm lượng\n\n### Phiên bản 4.6\n- Ẩn dấu chấm xanh cạnh biểu tượng ứng dụng sau khi cập nhật\n- Tự động bật chế độ nguồn điện thấp khi không sạc và tắt khi đang sạc\n- Ghi nhớ lần mở khóa ứng dụng theo số phút đã chọn\n- Hiển thị thanh trạng thái trong giao diện đa nhiệm\n\n### Phiên bản 4.5\n- Khắc phục một số lỗi\n- Thêm nút X để đóng ứng dụng trong giao diện đa nhiệm\n\n### Phiên bản 4.4\n- Sửa hiện tượng giật khi mở Trung tâm điều khiển\n- Sửa lỗi nhấn hai lần để tắt màn hình trên Màn hình khóa\n- Hiển thị tốc độ mạng trên thanh trạng thái\n- Hiển thị nhiệt độ pin, dòng điện và công suất sạc ước tính trên thanh trạng thái\n\n### Phiên bản 4.2\n- Hiển thị lịch dương\n- Làm trong suốt thư mục\n- Ẩn thanh tìm kiếm trong Cài đặt\n- Bo tròn thanh tìm kiếm\n\n### Phiên bản 4.1\n- Ẩn chỉ báo đang sử dụng micrô và máy ảnh\n- Ẩn chấm vàng cạnh ứng dụng được tải bằng TestFlight\n- Hiển thị phần trăm pin theo kiểu iOS 16 trên thiết bị dùng phiên bản iOS cũ hơn\n- Ẩn ứng dụng khỏi Màn hình chính\n\n### Phiên bản 4.0\n- Sửa lỗi và cải thiện hiệu năng\n\n### Phiên bản 3.9\n- Lưu vị trí biểu tượng trên Màn hình chính\n- Hiển thị thanh tiến trình khi tải ứng dụng\n\n### Phiên bản 3.8\n- Hiển thị mật khẩu Wi-Fi đã kết nối\n- Chia sẻ Wi-Fi bằng mã QR\n\n### Phiên bản 3.6\n- Giả lập tình trạng pin\n- Thêm hiệu ứng đưa ứng dụng trở về Đảo động khi vuốt thoát trên thiết bị có hoặc đang giả lập Đảo động\n\n### Phiên bản 3.5\n- Tắt âm thông báo khi đang phát nhạc\n- Hiển thị giây trên đồng hồ của thanh trạng thái\n- Ẩn thanh kéo Trung tâm điều khiển trên Màn hình khóa\n\n### Phiên bản 3.4\n- Giả lập thông tin thiết bị trong mục Giới thiệu\n- Vuốt hai ngón tay trên thanh trạng thái để chụp màn hình\n\n### Phiên bản 3.3\n- Sửa lỗi ứng dụng Ảnh bị thoát khi bật chế độ hình trong hình\n- Tối ưu hóa giao diện Cài đặt\n- Lật úp thiết bị để tắt màn hình\n- Thêm mục yêu cầu tính năng mới trong phần giới thiệu bộ tinh chỉnh\n\n### Phiên bản 3.2\n- Tùy chỉnh độ trong suốt của Trung tâm điều khiển\n- Tự động bật âm thanh video trong ứng dụng Ảnh\n- Thêm chế độ hình trong hình cho video trong ứng dụng Ảnh\n\n### Phiên bản 3.1\n- Bo tròn các mục trong Cài đặt và cho phép tùy chỉnh tại Ứng dụng › Cài đặt\n- Hiển thị thông tin pin chi tiết\n\n### Phiên bản 3.0\n- Ẩn nút quay lại ứng dụng\n- Tắt âm thanh và bản xem trước khi chụp màn hình\n- Hiển thị tên ứng dụng trên thanh ứng dụng\n- Tùy chỉnh độ trong suốt của thông báo\n- Đổi màu thông báo theo màu biểu tượng ứng dụng\n- Thay đổi tên nhà mạng\n\n### Phiên bản 2.9\n- Đóng tất cả ứng dụng trong giao diện đa nhiệm\n- Rung khi người nhận bắt máy hoặc kết thúc cuộc gọi\n- Hiển thị lịch âm và lịch dương trên thanh trạng thái\n\n### Phiên bản 2.8\n- Giả lập cử chỉ iPhone X\n- Thay đổi biểu tượng 3G, 4G và 5G\n- Tùy chỉnh kích thước lịch âm\n\n### Phiên bản 2.7\n- Sửa lỗi lịch âm\n\n### Phiên bản 2.6\n- Hiển thị lịch âm trên thanh trạng thái\n- Thêm hoạt ảnh mở ứng dụng\n\n### Phiên bản 2.5\n- Thêm giao diện đa nhiệm kiểu iPad\n- Tắt cử chỉ vuốt sang trái để mở Máy ảnh trên Màn hình khóa\n\n### Phiên bản 2.4\n- Ẩn chế độ xem Hôm nay trên Màn hình khóa\n- Ẩn dòng “Không có thông báo cũ hơn”\n- Ẩn phím tắt Đèn pin và Máy ảnh\n- Bo tròn biểu tượng trong Cài đặt\n- Quản lý quyền sử dụng Wi-Fi và dữ liệu di động theo từng ứng dụng\n\n### Phiên bản 2.3\n- Bỏ giới hạn cường độ tín hiệu để hiển thị cả mạng Wi-Fi yếu\n- Hiển thị địa chỉ MAC và BSSID\n\n### Phiên bản 2.2\n- Thêm thanh ứng dụng kiểu iPad\n\n### Phiên bản 2.1\n- Sửa lỗi bảo vệ ứng dụng\n\n### Phiên bản 2.0\n- Thêm hoạt ảnh sạc MagSafe\n- Bảo vệ ứng dụng bằng Face ID và Touch ID\n- Sửa lỗi ẩn dấu chấm trang trên iPhone 8 Plus trở xuống\n\n### Phiên bản 1.9\n- Tắt hoàn toàn Wi-Fi và Bluetooth\n- Ẩn thanh cử chỉ\n\n### Phiên bản 1.8\n- Nhấn hai lần trên Màn hình khóa để tắt màn hình\n- Ẩn chế độ xem Hôm nay\n\n### Phiên bản 1.7\n- Sửa lỗi hiển thị 0% trong Trung tâm điều khiển\n\n### Phiên bản 1.6\n- Nhấn hai lần để khóa màn hình\n- Nhấn hai lần nút giảm âm lượng để bật đèn pin trên Màn hình khóa\n\n### Phiên bản 1.5\n- Ẩn thông báo linh kiện không xác định\n- Hiển thị phần trăm pin khi sử dụng pin không chính hãng\n\n### Phiên bản 1.4\n- Hiển thị phần trăm độ sáng và âm lượng\n- Thêm thanh ứng dụng hai hàng\n- Thêm tùy chọn điều chỉnh mức ước tính thời gian sạc",
           "useSpacing": "true"
         },
         {
@@ -220,7 +274,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Phiên bản",
-          "text": "6.6"
+          "text": "7.0"
         },
         {
           "class": "DepictionTableTextView",
@@ -230,17 +284,17 @@
         {
           "class": "DepictionTableTextView",
           "title": "Ngày cập nhật",
-          "text": "06/07/2026"
+          "text": "05/08/2026"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Tương thích",
-          "text": "iOS 15 – 17"
+          "text": "iOS 15.0 – iOS 17.x"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Loại gói",
-          "text": "Bộ tinh chỉnh"
+          "text": "Bộ tinh chỉnh Rootless"
         },
         {
           "class": "DepictionHeaderView",
