@@ -12,12 +12,12 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## Viền chuyển màu động quanh màn hình\n\nEdge 3 tạo đường viền chuyển sắc sống động bao quanh màn hình, hiển thị chính xác theo từng kiểu thiết bị từ tai thỏ đến Dynamic Island.",
+          "markdown": "## Viền chuyển màu động quanh màn hình\n\nEdge 3 tạo đường viền chuyển sắc sống động bao quanh màn hình, hiển thị chính xác theo từng kiểu thiết bị từ tai thỏ đến Dynamic Island.\n\nHiển thị hoạt ảnh theo màu ứng dụng,sử dụng tinh năng Aurora vui lòng tắt Tinh chỉnh Edge3",
           "useSpacing": "true"
         },
         {
           "class": "DepictionLabelView",
-          "text": "PHIÊN BẢN 1.0.1   •   iOS 15.0 TRỞ LÊN   •   ROOTLESS",
+          "text": "PHIÊN BẢN 1.0.2   •   iOS 15.0 TRỞ LÊN   •   ROOTLESS",
           "textColor": "#8E8E93",
           "fontSize": "11.0",
           "alignment": 1
@@ -81,7 +81,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Phiên bản",
-          "text": "1.0.1"
+          "text": "1.0.2"
         },
         {
           "class": "DepictionTableTextView",
@@ -187,7 +187,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.0.1\n- Fix viền không hiển thị trên Màn hình khóa iOS",
+          "markdown": "### Phiên bản 1.0.2\n- Thêm hoạt ảnh chạy xung quanh màn hình khi có thoing báo tới giống Tweak Bloom\n\n ### Phiên bản 1.0.1\n- Fix viền không hiển thị trên Màn hình khóa iOS",
           "useSpacing": "true"
         }
       ],
