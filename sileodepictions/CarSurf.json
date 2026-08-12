@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"CarSurf \n\n- CarSurf là một tweak giúp mang các ứng dụng iOS đến màn hình ô tô của CarPlay, cho phép người dùng chạy các ứng dụng yêu thích của mình trên hệ thống giải trí của ô tô.Một số tính năng chính của CarBridge bao gồm:\n\n- 1.Chạy ứng dụng iOS trên CarPlay*: CarBridge cho phép người dùng chạy các ứng dụng iOS trên màn hình ô tô của CarPlay, giúp tận dụng không gian và giao diện của màn hình ô tô \n\nㅤ\n\n",
+"markdown":"CarSurf \n\n- CarSurf là một tweak giúp mang các ứng dụng iOS đến màn hình ô tô của CarPlay, cho phép người dùng chạy các ứng dụng yêu thích của mình trên hệ thống giải trí của ô tô.Một số tính năng chính của CarSurf bao gồm:\n\n- Chạy ứng dụng iOS trên CarPlay*: CarSurf cho phép người dùng chạy các ứng dụng iOS trên màn hình ô tô của CarPlay, giúp tận dụng không gian và giao diện của màn hình ô tô\n\n- Cho phép tuỳ chọn Giao diện kiểu iPAd  \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
