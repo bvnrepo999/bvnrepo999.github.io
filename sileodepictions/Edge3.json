@@ -81,7 +81,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Phiên bản",
-          "text": "1.0.2"
+          "text": "1.0.3"
         },
         {
           "class": "DepictionTableTextView",
@@ -187,7 +187,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.0.2\n- Thêm hoạt ảnh chạy xung quanh màn hình khi có thoing báo tới giống Tweak Bloom\n\n ### Phiên bản 1.0.1\n- Fix viền không hiển thị trên Màn hình khóa iOS",
+          "markdown": "### Phiên bản 1.0.3\n- Hỗ trợ iOS 18\n- Thử nghiệm trên iPhone 11Promax iOS 18.6.1\n\n ### Phiên bản 1.0.2\n- Thêm hoạt ảnh chạy xung quanh màn hình khi có thoing báo tới giống Tweak Bloom\n\n ### Phiên bản 1.0.1\n- Fix viền không hiển thị trên Màn hình khóa iOS",
           "useSpacing": "true"
         }
       ],
