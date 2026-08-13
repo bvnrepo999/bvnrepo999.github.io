@@ -1,0 +1,227 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#7C4DFF",
+  "tabs": [
+    {
+      "tabname": "Tổng quan",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "AstraBoard"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## AstraBoard — Bộ tinh chỉnh SpringBoard tất cả trong một\n\nAstraBoard tập trung các tuỳ chỉnh cho Màn hình chính, Màn hình khoá, Dock, thư mục, đa nhiệm, Trung tâm điều khiển, thanh trạng thái, âm thanh hệ thống và ứng dụng Cài đặt trong một giao diện thống nhất. Tweak được thiết kế cho iOS 16+ với hỗ trợ Rootless/Roothide.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "> **Phiên bản 1.0.34**  \n> Hỗ trợ iOS 17+ • arm64/arm64e • Rootless / Roothide  \n> Một số thay đổi hệ thống có thể cần Respring để áp dụng hoàn toàn.",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "BVN Repo",
+          "action": "https://bvnrepo.xyz/",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Nhóm Telegram BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Ảnh chụp màn hình"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/astra/Screenshots/1.png",
+              "accessibilityText": "AstraBoard - Ảnh chụp màn hình 1"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/astra/Screenshots/2.png",
+              "accessibilityText": "AstraBoard - Ảnh chụp màn hình 2"
+            }
+          ],
+          "itemCornerRadius": 26,
+          "itemSize": "{160,346}"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Điểm nổi bật"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Cá nhân hoá sâu nhưng gọn gàng\n- Tùy chỉnh Dock, biểu tượng, thư mục, Màn hình khoá và đa nhiệm\n- Hiển thị thông tin pin chi tiết, lịch âm & dương và các bảng thông tin hệ thống\n- Tốc độ mạng, nhiệt độ, công suất, dòng điện, CPU và RAM có thể chỉnh vị trí & giao diện\n- Thêm mô-đun hữu ích cho Trung tâm điều khiển\n- Tuỳ chỉnh nhiều âm thanh hệ thống và âm lượng riêng\n- Giả mạo thông tin trong Cài đặt → Cài đặt chung → Giới thiệu",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Ủng hộ nhà phát triển",
+          "action": "https://bvnrepo.xyz/donate/",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "🇻🇳 BVN TEAM 🇻🇳 • AstraBoard 1.0.0",
+          "textColor": "#8E8E93",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Tính năng",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Màn hình chính & Dock"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Tự động mở khoá sau khi xác thực\n- Ẩn nền Dock\n- Hiển thị tên ứng dụng trên Dock\n- Dock 5 biểu tượng\n- Tuỳ chỉnh kích thước biểu tượng\n- Đổ bóng Dock, chỉnh độ đậm và độ lệch bóng\n- Ẩn viên thuốc Tìm kiếm và dấu chấm trang\n- Ẩn tên ứng dụng & thư mục\n- Ẩn Thư viện ứng dụng\n- Tắt cử chỉ Spotlight\n- Lưu và khôi phục bố cục ứng dụng\n- Cho phép xoay ngược màn hình\n- Nhấn hai lần để tắt màn hình\n- Hiệu ứng trở về Đảo động\n- Lật úp điện thoại để tắt màn hình\n- Hiển thị bảng Chi tiết pin & thiết bị\n- Ẩn thanh Home\n- Ẩn dấu chấm vàng và dấu chấm xanh trên ứng dụng\n- Tự động quản lý Chế độ nguồn điện thấp\n- Tắt âm thanh chụp ảnh màn hình\n- Hiển thị lịch âm & dương với tuỳ chỉnh vị trí, kích thước và Màn hình khoá",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Màn hình khoá"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Ẩn chế độ xem Hôm nay\n- Xáo trộn bàn phím mật mã\n- Tắt vuốt sang trái để mở Camera\n- Nhấn hai lần để tắt màn hình\n- Nhấn hai lần nút giảm âm lượng để bật/tắt đèn pin\n- Ẩn dòng “Không có thông báo cũ hơn”\n- Bật hoạt ảnh sạc MagSafe\n- Hiển thị thời gian ước tính sạc và điều chỉnh vị trí\n- Làm trong suốt trình phát nhạc",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thư mục"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Hiển thị thư mục như biểu tượng\n- Làm trong suốt thư mục\n- Ẩn hoạt ảnh thư mục\n- Ẩn dấu chấm trang\n- Ẩn tên thư mục trên Màn hình chính\n- Tự đóng thư mục sau khi mở ứng dụng\n- Chạm để đóng thư mục\n- Ẩn tiêu đề bên trong thư mục\n- Ẩn nền thư mục",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Đa nhiệm"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Hiển thị nút X để đóng nhanh ứng dụng và chọn vị trí nút\n- Hiển thị thanh trạng thái trong giao diện đa nhiệm\n- Bật bố cục đa nhiệm dạng lưới kiểu iPad",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Trung tâm điều khiển"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Tắt hoàn toàn Wi‑Fi từ Trung tâm điều khiển\n- Tắt hoàn toàn Bluetooth từ Trung tâm điều khiển\n- Thêm mô-đun Chế độ im lặng\n- Thêm mô-đun Dòng điện & Nhiệt độ để xem nhanh thông tin pin",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thanh trạng thái"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Hiển thị biểu tượng Chế độ im lặng\n- Đổi nội dung biểu tượng mạng 2G/4G\n- Đổi tên nhà mạng\n- Hiển thị tốc độ mạng theo thời gian thực\n- Hiển thị nhiệt độ • công suất (W) • dòng điện (mA)\n- Hiển thị CPU & RAM\n- Tuỳ chọn ẩn từng bảng ở Màn hình khoá\n- Tuỳ chỉnh vị trí X/Y, chiều rộng, chiều cao, kích thước chữ, độ trong suốt nền/chữ và bo góc\n- Màu chữ của các bảng thông tin tự bám theo màu thanh trạng thái",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Tuỳ chỉnh âm thanh"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Công tắc tổng cho hệ thống âm thanh tuỳ chỉnh\n- Thay âm thanh khi cắm sạc\n- Thay âm thanh khoá màn hình\n- Thay âm thanh khi nhập mật mã\n- Thay âm thanh Respring\n- Thay âm thanh mở khoá\n- Thay âm thanh khi nhấn nút âm lượng\n- Chọn file âm thanh riêng và điều chỉnh âm lượng độc lập cho từng sự kiện",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Ứng dụng Cài đặt"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Giả mạo thông tin thiết bị\nTuỳ chỉnh nội dung hiển thị trong **Cài đặt → Cài đặt chung → Giới thiệu**, gồm:\n- Phiên bản iOS\n- Tên kiểu máy\n- Số máy\n- Dung lượng và dung lượng còn trống\n- Số sê-ri\n- IMEI 1 / IMEI 2\n- Số lượng ứng dụng, ảnh, video và bài hát",
+          "useSpacing": "true"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin gói"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Nhà phát triển",
+          "text": "BVN Team"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "1.0.34"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tương thích",
+          "text": "iOS 16+"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Kiến trúc",
+          "text": "arm64 / arm64e"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Loại gói",
+          "text": "Rootless / Roothide"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Liên hệ"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "BVN Repo",
+          "action": "https://bvnrepo.xyz/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Nhóm Telegram",
+          "action": "https://t.me/bvnrepo"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Ủng hộ"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ phát triển",
+          "action": "https://bvnrepo.xyz/donate/"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Cảm ơn bạn đã sử dụng AstraBoard • 🇻🇳 BVN TEAM 🇻🇳",
+          "textColor": "#8E8E93",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
