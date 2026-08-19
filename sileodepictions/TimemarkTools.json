@@ -91,7 +91,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.1\n\n- Sửa lỗi thay đổi Thứ😕"
+"markdown":"### Phiên bản 1.0.3\n\n- Thêm ẩn mã ảnh, Timemark Verified\n\n ### Phiên bản 1.0.1\n\n- Sửa lỗi thay đổi Thứ😕"
 }
 ],
 "class":"DepictionStackView"
