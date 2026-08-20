@@ -1,4 +1,4 @@
-
+{
 "minVersion":"0.4",
 "headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
 "tintColor":"#5777B8",
@@ -16,11 +16,11 @@
 "class":"DepictionScreenshotsView",
 "screenshots":[
 {
-"url":"https://bvnrepo999.github.io/infodeb/AirawSplit/Screenshots/1.png",
+"url":"https://bvnrepo999.github.io/infodeb/CarCast/Screenshots/1.png",
 "accessibilityText":"Screenshot"
 },
 {
-"url":"https://bvnrepo999.github.io/infodeb/AirawSplit/Screenshots/2.png",
+"url":"https://bvnrepo999.github.io/infodeb/CarCast/Screenshots/2.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -28,7 +28,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"CarCast VH\n\n- CarCast cho phép bạn ghim các ứng dụng không được CarPlay chính thức hỗ trợ lên bảng điều khiển CarPlay trên iOS 17 và iOS 26.Có thể hỗ trợ ios 16\n\n- Chọn Safari, YouTube, Cài đặt và nhiều ứng dụng khác từ Cài đặt → CarCast, kết nối CarPlay và khởi chạy chúng từ màn hình chính - giống như các ứng dụng CarPlay gốc.\n\n- Đã được kiểm thử trên iOS 17 và iOS 26. Yêu cầu tối thiểu là iOS 17.0. iOS 16 trở xuống không được hỗ trợ. iOS 18 chưa được kiểm thử (cách triển khai tương tự như iOS 17, nhưng không đảm bảo)\n\n- Tweak này yêu cầu Airaw. Các tùy chọn khởi chạy cho từng ứng dụng (Airaw host, Hosted Scene, menu 3D Touch, mục yêu thích) được cấu hình trong Airaw.\n\n- Không cài đặt cùng lúc với CarBridge. CarCast xung đột với com.leftyfl1p.carbridge13. Chỉ sử dụng CarCast hoặc CarBridge, không sử dụng cả hai  \n\n",
+"markdown":"CarCast\n\n- CarCast cho phép bạn ghim các ứng dụng không được CarPlay chính thức hỗ trợ lên bảng điều khiển CarPlay trên iOS 17 và iOS 26.Có thể hỗ trợ ios\n\n- Chọn Safari, YouTube, Cài đặt và nhiều ứng dụng khác từ Cài đặt→CarCast,kết nối CarPlay và khởi chạy chúng từ màn hình chính,giống như các ứng dụng CarPlay gốc.\n\n- Đã được kiểm thử trên iOS 17 và iOS 26.Yêu cầu tối thiểu là iOS 17.0.iOS 16 trở xuống không được hỗ trợ. iOS 18 chưa được kiểm thử cách triển khai tương tự như iOS 17, nhưng không đảm bảo\n\n- Tweak này yêu cầu Airaw. Các tùy chọn khởi chạy cho từng ứng dụng Airaw host, Hosted Scene, menu 3D Touch, mục yêu thích được cấu hình trong Airaw.\n\n- Không cài đặt cùng lúc với CarBridge.CarCast xung đột với carbridge13. Chỉ sử dụng CarCast hoặc CarBridge,không sử dụng cả hai  \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
