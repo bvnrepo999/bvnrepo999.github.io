@@ -1,0 +1,139 @@
+
+"minVersion":"0.4",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"text": "Nhóm trò chuyện Tele BVN Repo",
+"action": "https://t.me/bvnrepo",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnrepo999.github.io/infodeb/AirawSplit/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/AirawSplit/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"CarCast VH\n\n- CarCast cho phép bạn ghim các ứng dụng không được CarPlay chính thức hỗ trợ lên bảng điều khiển CarPlay trên iOS 17 và iOS 26.Có thể hỗ trợ ios 16\n\n- Chọn Safari, YouTube, Cài đặt và nhiều ứng dụng khác từ Cài đặt → CarCast, kết nối CarPlay và khởi chạy chúng từ màn hình chính - giống như các ứng dụng CarPlay gốc.\n\n- Đã được kiểm thử trên iOS 17 và iOS 26. Yêu cầu tối thiểu là iOS 17.0. iOS 16 trở xuống không được hỗ trợ. iOS 18 chưa được kiểm thử (cách triển khai tương tự như iOS 17, nhưng không đảm bảo)\n\n- Tweak này yêu cầu Airaw. Các tùy chọn khởi chạy cho từng ứng dụng (Airaw host, Hosted Scene, menu 3D Touch, mục yêu thích) được cấu hình trong Airaw.\n\n- Không cài đặt cùng lúc với CarBridge. CarCast xung đột với com.leftyfl1p.carbridge13. Chỉ sử dụng CarCast hoặc CarBridge, không sử dụng cả hai  \n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"Dcsyhi"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweak"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"234 K  "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"20/8/2026"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 16.0 đến 17.3.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2026 by BVN999",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.0\n\n- Lần đầu phát hành"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by BVN999",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
