@@ -81,7 +81,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"22/11/2025"
+"text":"20/8/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -91,11 +91,11 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 14.0 đến 16.7"
+"text":"iOS 14.0 đến 26.0.1"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN 999",
+"text":"Copyright © 2026 by BVN 999",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -108,7 +108,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.6.7\n\n- Hỗ trợ tiện ích HTML IOS16.\n\n- Xóa đường viền góc màu đen của CarPlay.\n\n- Bật cài đặt 3D Touch cho từng ứng dụng.\n\n- Hiển thị thời gian bao gồm cả giây.\n\n- Tùy chỉnh màu huy hiệu biểu tượng.\n\n- Đã bật chế độ hiển thị ứng dụng toàn màn hình ở chế độ khởi chạy CarBridge.\n\n- Thay đổi kích thước phông chữ của nhãn biểu tượng.\n\n- Cho phép thay đổi nút trang chủ của CarPlay bằng cách chọn biểu tượng từ thư mục ảnh.\n\n- Có thể gọi các phương pháp cập nhật tiện ích được cải tiến bằng cách sử dụng Airaw API.\n\n- Thêm mô-đun trung tâm điều khiển."
+"markdown":"### Phiên bản 1.7.0\n\n- Đã thêm hỗ trợ CarPlay cho iOS 26\n\n- Đã thêm các tiện ích bổ sung Split View Native và Split View Standard (iOS 16 trở lên, bán riêng)\n\n- Đã thêm hỗ trợ CarCast như một lựa chọn thay thế cho CarBridge (không cần cài đặt cả hai).\n\n- Các cài đặt Chế độ xem chia màn hình và Chế độ xem ẩn đã được thiết lập trên iOS 15 trở xuống.\n\n- Đã thêm thiết lập lần chạy đầu tiên (phía người lái, vị trí thanh trạng thái, Bật Airaw)\n\n- Bản xem trước vị trí widget giờ đây phù hợp với tỷ lệ khung hình màn hình CarPlay.\n\n- Thiết kế lại tùy chọn với biểu tượng SF và nhãn rõ ràng hơn.\n\n- Các widget dạng module (.bundle) hoạt động trên iOS 14 trở lên.\n\n- Công cụ chọn widget kiểu thẻ mới (chạm để đặt, + để thêm)\n\n- Nhật ký thay đổi kiểu dòng thời gian mới\n\n- Các widget HTML chỉ hoạt động trên iOS 14-15 (trên iOS 16 trở lên, chúng có thể được thêm vào nhưng không hoạt động đúng cách).\n\n- Các bản sửa lỗi CarPlay và Tùy chọn khác nhau\n\n ### Phiên bản 1.6.7\n\n- Hỗ trợ tiện ích HTML IOS16.\n\n- Xóa đường viền góc màu đen của CarPlay.\n\n- Bật cài đặt 3D Touch cho từng ứng dụng.\n\n- Hiển thị thời gian bao gồm cả giây.\n\n- Tùy chỉnh màu huy hiệu biểu tượng.\n\n- Đã bật chế độ hiển thị ứng dụng toàn màn hình ở chế độ khởi chạy CarBridge.\n\n- Thay đổi kích thước phông chữ của nhãn biểu tượng.\n\n- Cho phép thay đổi nút trang chủ của CarPlay bằng cách chọn biểu tượng từ thư mục ảnh.\n\n- Có thể gọi các phương pháp cập nhật tiện ích được cải tiến bằng cách sử dụng Airaw API.\n\n- Thêm mô-đun trung tâm điều khiển."
 },
 {
 "class":"DepictionLabelView",
