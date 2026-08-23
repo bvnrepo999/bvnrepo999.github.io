@@ -12,7 +12,7 @@
 "title":"Mô tả & Giới thiệu"
 },
 {
-"markdown":"WeatherLS Rootless\n\n- Thêm thời tiết & Âm lịch vào màn hình khoá của bạn \n\nㅤ\n\n",
+"markdown":"WeatherLS\n\n- Thêm thời tiết & Âm lịch vào màn hình khoá của bạn \n\nㅤ\n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -22,6 +22,14 @@
 "screenshots":[
 {
 "url":"https://bvnrepo999.github.io/infodeb/WeatherLS/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/WeatherLS/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/WeatherLS/Screenshots/3.png",
 "accessibilityText":"Screenshot"
 }
 ],
@@ -50,9 +58,9 @@
 {
 "class":"DepictionTableTextView",
 "title":"Nhà phát triển",
-"text":"NQT1195"
+"text":"BVN"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.0.3" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"1.1" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -61,16 +69,16 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"8/6/2024"
+"text":"23/8/2026"
 },
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 15.9"
+"text":"iOS 15.0 đến 16"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -83,11 +91,11 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0\n\n- Hỗ trợ Rootless Jb"
+"markdown":"### Phiên bản 1.1\n\n- Sửa lỗi\n\n ### Phiên bản 1.0\n\n- Hỗ trợ Rootless Jb"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2024 by Biện Văn Nhật",
+"text":"Copyright © 2026 by Biện Văn Nhật",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
