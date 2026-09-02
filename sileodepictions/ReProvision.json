@@ -1,0 +1,135 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"text": "Nhóm trò chuyện Tele BVN Repo",
+"action": "https://t.me/bvnrepo",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnrepo999.github.io/infodeb/ReProvisionX/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"ReProvision Again\n\n- ReProvision Reborn... Again ký và ký lại ứng dụng trực tiếp trên thiết bị đã jailbreak của bạn. Phiên bản tương thích không cần root này khôi phục tính năng đăng nhập tài khoản Apple, xác thực hai yếu tố thiết bị đáng tin cậy, ký thủ công và ký tự động trong nền trên các phiên bản iOS hiện đại\n\n- Bản dựng này chỉ dành cho việc jailbreak không cần root. Nó có mục tiêu triển khai tối thiểu là iOS 15.0 và đã được kiểm tra đầy đủ trên thiết bị iOS 17 vật lý. iOS 15 và iOS 16 tương thích với bản dựng nhưng chưa được kiểm tra đầy đủ trên thiết bị vật lý.\n\n- Các tài khoản Apple miễn phí vẫn phải tuân theo các giới hạn về chứng chỉ và cấp phép của Apple. Nếu Apple thông báo rằng đã có hai chứng chỉ nhà phát triển đang hoạt động, hãy thu hồi một chứng chỉ hoặc ngừng sử dụng công cụ ký sở hữu chứng chỉ đó trước khi tiếp tục \n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"Soh Satoh"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweak"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"14.5 MB "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"3/9/2026"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 17.x"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2026 by BVN999",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 0.8.4\n\n- Đã cải thiện khả năng hỗ trợ mã xác thực qua SMS và giọng nói\n\n- Khắc phục sự cố mã xác minh hợp lệ đôi khi vẫn hiển thị trạng thái không hợp lệ sau khi Apple chấp nhận"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2026 by BVN999",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
