@@ -32,7 +32,7 @@
 "itemSize":"{185,400}"
 },
 {
-"markdown":"VideoIsland\n\n- Sử dụng video làm nền cho Dynamicisland\n\n ###    Chú ý:\n\n- Vui lòng cài tweak Legacy Arm64e Support đối với các thiết bị Xs trở lên\n\n ### Các tính năng chính:\n\n- Chọn video từ album ảnh để thêm vào DynamicIsland\n\n- Video được thêm vào sẽ lưu lại và có tuỳ chọn video đã lưu và xoá\n\n- Chế độ Bật đảo nhỏ\n\n- Các video sau khi được thêm vào sẽ hoạt động ngay lập tức mà không cần phải Respring\n\n ### Hỗ trợ: \n\n- Dopamine,Roothide,Palera1n,Bootstrap \n\n",
+"markdown":"VideoIsland\n\n- Sử dụng video làm nền cho Dynamicisland\n\n ### Các tính năng chính:\n\n- Chọn video từ album ảnh để thêm vào DynamicIsland\n\n- Video được thêm vào sẽ lưu lại và có tuỳ chọn video đã lưu và xoá\n\n- Chế độ Bật đảo nhỏ\n\n- Các video sau khi được thêm vào sẽ hoạt động ngay lập tức mà không cần phải Respring\n\n ### Hỗ trợ: \n\n- Dopamine,Roothide,Palera1n,Bootstrap \n\n",
 "useSpacing":"true",
 "class":"DepictionMarkdownView"
 },
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"1/4/2026"
+"text":"9/9/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -95,7 +95,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.4\n\n- Sửa lỗi tắt tiếng trên Youtube và 1 số ứng dụng khác.\n\n- Cải thiện độ nét của video"
+"markdown":"### Phiên bản 1.0.5\n\n- Loại bỏ Legacy arm63e support\n\n ### Phiên bản 1.0.4\n\n- Sửa lỗi tắt tiếng trên Youtube và 1 số ứng dụng khác.\n\n- Cải thiện độ nét của video"
 }
 ],
 "class":"DepictionStackView"

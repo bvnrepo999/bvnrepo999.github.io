@@ -87,7 +87,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 0.8.4\n\n- Đã cải thiện khả năng hỗ trợ mã xác thực qua SMS và giọng nói\n\n- Khắc phục sự cố mã xác minh hợp lệ đôi khi vẫn hiển thị trạng thái không hợp lệ sau khi Apple chấp nhận"
+"markdown":"### Phiên bản 0.8.4.27\n\n- Đã khắc phục lỗi đăng nhập Apple ID không thành công với mã HTTP 503 sau khi xác thực.\n\n- Cải thiện khả năng phục hồi sau các lỗi tạm thời của dịch vụ xác thực Apple.\n\n- Đã sửa lỗi có thể làm gián đoạn quá trình ký khi thiết bị bị khóa.\n\n- Độ tin cậy của việc ký nền được cải thiện khi ReProvision kết nối lại với tiến trình nền của nó.\n\n ### Phiên bản 0.8.4\n\n- Đã cải thiện khả năng hỗ trợ mã xác thực qua SMS và giọng nói\n\n- Khắc phục sự cố mã xác minh hợp lệ đôi khi vẫn hiển thị trạng thái không hợp lệ sau khi Apple chấp nhận"
 }
 ],
 "class":"DepictionStackView"
