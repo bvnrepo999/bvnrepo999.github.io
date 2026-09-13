@@ -87,7 +87,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"#### 1.0.0\n\n- Lần đầu phát hành"
+"markdown":"#### 1.0.1\n\n- Thêm hỗ trợ iOS 15&17\n\n- Nếu gặp bất cứ lỗi nào hãy nhắn tin cho tôi qua Telegram\n\n #### 1.0.0\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
