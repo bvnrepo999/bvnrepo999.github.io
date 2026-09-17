@@ -1,0 +1,155 @@
+{
+"minVersion":"0.4",
+"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
+"tintColor":"#5777B8",
+"tabs":[
+{
+"tabname":"Chi tiết",
+"views":[
+{
+"text": "Nhóm trò chuyện Tele BVN Repo",
+"action": "https://t.me/bvnrepo",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"class":"DepictionScreenshotsView",
+"screenshots":[
+{
+"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/1.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/2.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/3.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/4.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/5.png",
+"accessibilityText":"Screenshot"
+},
+{
+"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/6.png",
+"accessibilityText":"Screenshot"
+}
+],
+"itemCornerRadius":0,
+"itemSize":"{185,400}"
+},
+{
+"markdown":"CopyVault\n\n ##% CopyVault là một phần mềm hiện đại, mạnh mẽ và dễ sử dụng.\n\n- Bootstrap/Serotonin KHÔNG được hỗ trợ.\n\n- Giao diện trực quan\n\n- Có thể lưu văn bản / định dạng văn bản phong phú / liên kết / hình ảnh, v.v.\n\n- Bạn có thể nhóm các mặt hàng yêu thích của mình theo danh mục.\n\n- Hỗ trợ tập lệnh JavaScript\n\n- Thêm ghi chú cho các mục yêu thích (hình ảnh, văn bản dài, v.v., bạn có thể tìm kiếm theo ghi chú sau này).\n\n- Tìm kiếm theo nội dung văn bản\n\n- Tìm kiếm theo loại (từ khóa là txt / url / img, v.v.)\n\n- Tìm kiếm theo ứng dụng nguồn\n\n- Tìm kiếm theo thời gian ghi nhận (Định dạng đầy đủ là 2024-05-20 00:00, bạn có thể tìm kiếm theo một phần của thời gian này)\n\n\- Tìm kiếm không phân biệt chữ hoa chữ thường\n\n- Giao diện tùy chỉnh\n\n- Xem trước (hoặc thêm vào danh mục) bằng cách nhấn giữ lâu vào một bản ghi\n\n- Vuốt sang trái/phải hoặc nhấn giữ vào bản ghi để xem thêm thao tác.\n\n- Nhiều phương thức kích hoạt khác nhau, chẳng hạn như đọc chính tả, vuốt lên trên bàn phím, DockX và SquidGesture Pro.\n\n- Hỗ trợ phương thức kích hoạt bằng bàn phím ngoài: V mở trang cuối, C mở clipboard, B mở mục yêu thích\n\n- Tương tác với các tinh chỉnh khác, chẳng hạn như SquidGesturePro, DockX, Hammer It, Snapper, v.v.\n\n- Hỗ trợ iOS và iPadOS \n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Liên hệ tôi "
+},
+{
+"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
+"useSpacing":"true",
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSpacerView"
+},
+{
+"class":"DepictionHeaderView",
+"title":"Thông tin"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Tác giả",
+"text":"BVN"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Thể loại",
+"text":"Tweak"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Dung lượng",
+"text":"2.2 MB "
+},
+{
+"class":"DepictionTableTextView",
+"title":"Ngày tải lên",
+"text":"18/9/2026"
+},
+{
+"class":"DepictionTableTextView",
+"title":"Khả năng tương thích",
+"text":"iOS 15.0 đến 17.3.1"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2026 by BVN999",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Nhật ký thay đổi",
+"views":[
+{
+"class":"DepictionMarkdownView",
+"markdown":"### Phiên bản 1.1.9\n\n- Hỗ trợ Youtube V21.36.6\n\n ### Facebook:\n\n- Thêm chế độ tối\n\n- Thêm chế xác nhận trước khi thích, bình luận,chia sẻ,kết bạn,ẩn gợi ý nhóm,ẩn quảng quáp Threads\n\n ### Phiên bản 1.1.8\n\n- Sửa lỗi cho trình chặn Safari\n\n ### Phiên bản 1.1.7\n\n- Loại bỏ phụ thuộc Oldabi Legacy arm64e support\n\n ### Phiên bản 1.1.6\n\n- Sửa lỗi trình chặn Safari\n\n- Thêm tính năng tự động thả tim trên Live Tiktok\n\n ### Phiên bản 1.1.5\n\n- Thêm tải xuống Video trên Safari\n\n- Thêm trình chặn Safari\n\n- Cập nhật 1 số tính năng mới cho Youtube\n\n ### Phiên bản 1.1.4\n\n- Hỗ trợ iOS 18\n\n- Thử nghiệm iOS 18.6.1 iPhone 11Promax\n\n ### Phiên bản 1.1.3\n\n- Hỗ trợ Youtube phiên bản 21.32.4\n\n- Cải thiện sự ổn định\n\n ### Phiên bản 1.1.2\n\n- Thêm bộ lọc kênh AI cho Youtube\n\n- Thêm tải video chất lượng cao cho Tiktok\n\n- Xem tin đã thu hồi\n\n- Video thành tin nhắn thoại\n\n- Xác nhận xoá tin nhắn\n\n ### Phiên bản 1.1.1\n\n- Thêm giả mạo vị trí cho các ứng dụng được hỗ trợ trong Tưeak\n\n ### Phiên bản 1.1.0\n\n- Cài đặt YTSocial đã được chuyển vào bên trong YouTube. Mở YouTube, vào Cài đặt rồi chọn YTSocial để tùy chỉnh toàn bộ tính năng\n\n- Thêm SponsorBlock\n\n- Và nhiều tính năng khác ,các bạn có thể khám phá trong cài đặt\n\n- Thêm hỗ trợ ứng dụng TeleGram\n\n ### Phiên bản 1.0.9\n\n- Hỗ trợ tải xuống Video,âm thanh Youtube phiên bản mới nhất\n\n ### Phiên bản 1.0.6\n\n- Sửa lỗi bị văng khi bật tải video trên Youtube\n\n ### Phiên bản 1.0.5\n\n- Tối ưu hoá 1 số tính năng\n\n- Thêm tính năng xem lại tin nhắn đã thu hồi ở Messenger\n\n ### Phiên bản 1.0.4\n\n- Thêm tải xuống Video,chặn quảng cáo ứng dụng X\n\n- Thêm bật 120HZ cho các ứng dụng ,chỉ các dòng có 120HZ\n\n- Sửa lỗi đơ ở tiktok\n\n ### Phiên bản 1.0.1\n\n- Sửa lỗi chặn quảng cáo Youtube\n\n- Thêm hiển thị con mắt trong Stori\n\n- Thêm Không làm gián đoạn nhạc đang phát khi lướt bảng tin Facebook\n\n ### Phiên bản 1.0.0\n\n- Lần đầu phát hành"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"L.Hệ & Hỗ trợ",
+"views":[
+{
+"class":"DepictionTableButtonView",
+"title": "Paypal",
+"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Mua cho tôi một ly cà phê",
+"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Telegram Admin",
+"action": "https://t.me/bvnsupport"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Nhóm Telegram",
+"action": "https://t.me/repobvn"
+},
+{
+"class":"DepictionTableButtonView",
+"title": "Fanpage Facebook",
+"action": "https://facebook.com/repocydiaBVN"
+},
+{
+"class":"DepictionLabelView",
+"text":"Copyright © 2025 by BVN999",
+"textColor":"#999999",
+"fontSize":"10.0",
+"alignment":1
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
