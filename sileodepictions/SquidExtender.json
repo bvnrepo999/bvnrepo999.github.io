@@ -1,0 +1,159 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": true,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/SquidExtender/Screenshots/1.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/SquidExtender/Screenshots/2.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/SquidExtender/Screenshots/3.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/SquidExtender/Screenshots/4.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/SquidExtender/Screenshots/5.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/SquidExtender/Screenshots/6.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/SquidExtender/Screenshots/7.png",
+              "accessibilityText": "Screenshot"
+            }
+          ],
+          "itemCornerRadius": 0,
+          "itemSize": "{185,400}"
+        },
+        {
+          "markdown": "SquidExtender\n\n### Giao diện và chức năng sống động, có thể tùy chỉnh cao với khả năng điều chỉnh bàn phím mở rộng. Nó sẽ mang thanh công cụ đến bàn phím của bạn.\n\n- Chức năng.\n\n- Trò chuyệnGPT\n\n- Sao chép thông minh\n\n- Dán\n\n- Chọn tất cả và dán\n\n- Cắt thông minh\n\n- Xóa tất cả\n\n- Khôi phục đầu vào\n\n- Trống Con trỏ đến đầu văn bản\n\n- Trống Con trỏ đến cuối văn bản\n\n- Hoàn tác\n\n- Làm lại\n\n- Con trỏ thông minh về vị trí bắt đầu\n\n- Con trỏ thông minh đến vị trí cuối\n\n- Loại bỏ bàn phím\n\n- Dòng mới\n\n- Gửi\n\n- Tùy chỉnh kiểu nhập văn bản\n\n- Con trỏ thông minh bên trái\n\n- Con trỏ thông minh phải\n\n- Con trỏ lên\n\n- Con trỏ xuống\n\n- Chọn văn bản\n\n- Chọn dòng\n\n- Chọn tất cả\n\n- Chọn con trỏ đến đầu văn bản\n\n- Chọn con trỏ đến cuối văn bản\n\n- Khối cầu\n\n- chính tả\n\n- Điều chỉnh phạm vi lựa chọn\n\n- Tập lệnh JavaScript\n\n- Máy tính\n\n- Chuyển đổi giữa tiếng Trung giản thể và tiếng Trung phồn thể\n\n- Kích hoạt CopyVault\n\n- Kích hoạt Nhật ký sao chép\n\n- Dịch,dịch tức thời và dịch thông thường\n\n- chức năng tùy biến cao\n\n- Mỗi nút hỗ trợ các thao tác chạm,vuốt,nhấn giữ và menu bật lên, được tùy chỉnh để gán chức năng theo thói quen sử dụng của bạn.\n\n- Giao diện tùy biến cao.Tùy chỉnh gần như mọi chi tiết.Lưu ý:Khi bạn sử dụng\n\n- Bàn phím của bên thứ ba được đặt phía trên bàn phím chính,như trong ảnh chụp màn hình cuối cùng.Khi sử dụng bàn phím hệ thống, vị trí của nó giống như trong các ảnh chụp màn hình trước đó.\n\n- Cài đặt bàn phím\n\n- Hạ thấp độ cao của đáy bàn phím\n\n- Quả địa cầu hiển thị bên trong và chức năng đọc chính tả.\n\n- Khắc phục lỗi gây sập ứng dụng SwipeExtenderX\n\n- Tương thích với tweak Laetus\n\n### Nhập văn bản cài sẵn\n\n- Chức năng nhập liệu tiện lợi không chỉ cho phép bạn nhập văn bản đã được thiết lập sẵn mà còn cho phép bạn thao tác với văn bản được chọn, văn bản trong clipboard và vị trí con trỏ thông qua một số biến tích hợp sẵn.\n\n### Hỗ trợ JavaScript\n\n- Với ngôn ngữ JavaScript mạnh mẽ,văn bản trong ô nhập liệu có thể được xử lý tự do và tự động chèn vào ô nhập liệu. Không gì là không thể, chỉ có điều là không thể tưởng tượng nổi.\n\n- Hỗ trợ không chỉ các thao tác xử lý cơ bản mà còn cả một số thao tác nâng cao hơn, ví dụ:mở liên kết bao gồm cả lược đồ URL,mở ứng dụng, yêu cầu mạng, đọc và ghi vào clipboard, mã hóa và giải mã base64, mã hóa md5 và xem nhật ký hoạt động của script.\n\n### Trò chuyện Hỗ trợ GPT\n\n- Hỗ trợ OpenAI, Gemini, Github,DeepSeek và cũng có thể sử dụng máy chủ tùy chỉnh.\n\n- Hỗ trợ phát trực tiếp, lịch sử trò chuyện,cài đặt nhiệt độ sáng tạo.\n\n- Hỗ trợ phát trực tiếp, lịch sử trò chuyện,cài đặt nhiệt độ sáng tạo.\n\n- Có thể chèn vào ô nhập liệu hoặc hiển thị đoạn hội thoại trong cửa sổ.\n\n- Hãy làm cho các tương tác trở nên đơn giản và hiệu quả nhất có thể.\n\n### Giới thiệu ChatGPT\n\n- 5 thao tác liên quan đến ChatGPT.Khi sử dụng 5 thao tác này làm thao tác chính và không thêm thao tác phụ nào, sẽ có một menu nhấn giữ mặc định để chuyển đổi từ nhắc hoặc chuyển đổi mô hình.\n\n- Khi không có tùy chọn nào được chọn trong trình chỉnh sửa hành động cho các thao tác này, tùy chọn được chọn trong menu nhấn giữ lâu hoặc tùy chọn đầu tiên sẽ được sử dụng.\n\n- Trong khi chờ phản hồi mạng, bạn có thể nhấn và giữ ở chế độ toàn màn hình để buộc hủy.\n\n- Khi cửa sổ thoại hiện ra, hãy nhấp vào bong bóng bên phải để chèn hộp nhập liệu nhưng không đóng cửa sổ thoại; nhấp vào bong bóng bên trái để chèn và đóng cửa sổ thoại.\n\n- Nhấn giữ vào một bong bóng để Tạo lại Sao chép,Chia sẻ.Kéo thanh ở cuối cửa sổ để đóng, bạn cũng có thể sử dụng các thao tác để đóng hoặc cửa sổ sẽ tự động đóng sau khi chèn kết quả.\n\n- Chia sẻ. Kéo thanh ở cuối cửa sổ để đóng,bạn cũng có thể sử dụng các thao tác để đóng hoặc cửa sổ sẽ tự động đóng sau khi nhập kết quả.\n\n- Khi không có văn bản nào trong ô nhập liệu,văn bản trong bộ nhớ tạm sẽ được sử dụng làm dữ liệu đầu vào.\n\n- Các thông số AI có thể tùy chỉnh:liệu có phát trực tuyến kết quả đầu ra, bộ nhớ hội thoại, nhiệt độ sáng tạo, chọn máy chủ API,v.v.\n\n- Có một số hướng dẫn, vui lòng xem phần chú thích ở cuối trang trong phần cài đặt.\n\n### Thông tin tương thích\n\n- Đã được kiểm thử đầy đủ trên iOS14,iOS16.5\n\n- Đã thử nghiệm trên iPadOS\n\n- Đang nghiên cứu về Serotonin và NathanLR,nhưng CHƯA được kiểm tra đầy đủ.",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Liên hệ tôi "
+        },
+        {
+          "markdown": "[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tác giả",
+          "text": "SquidForce"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Thể loại",
+          "text": "Tweak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Dung lượng",
+          "text": "2.2 MB "
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Ngày tải lên",
+          "text": "18/9/2026"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Khả năng tương thích",
+          "text": "iOS 15.0 đến 17.3.1"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Nhật ký thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 3.7.4\n\n- Thêm chức năng mới cho các tập lệnh, $util.jbpath(path), để lấy đường dẫn jailbreak đầy đủ thực sự "
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "L.Hệ & Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram Admin",
+          "action": "https://t.me/bvnsupport"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Nhóm Telegram",
+          "action": "https://t.me/repobvn"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2025 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
