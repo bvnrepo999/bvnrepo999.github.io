@@ -1,155 +1,160 @@
 {
-"minVersion":"0.4",
-"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
-"tintColor":"#5777B8",
-"tabs":[
-{
-"tabname":"Chi tiết",
-"views":[
-{
-"text": "Nhóm trò chuyện Tele BVN Repo",
-"action": "https://t.me/bvnrepo",
-"openExternal": 1,
-"class": "DepictionButtonView"
-},
-{
-"class":"DepictionScreenshotsView",
-"screenshots":[
-{
-"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/3.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/4.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/5.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/6.png",
-"accessibilityText":"Screenshot"
-}
-],
-"itemCornerRadius":0,
-"itemSize":"{185,400}"
-},
-{
-"markdown":"CopyVault\n\n ### CopyVault là một phần mềm hiện đại, mạnh mẽ và dễ sử dụng.\n\n- Bootstrap/Serotonin KHÔNG được hỗ trợ.\n\n- Giao diện trực quan\n\n- Có thể lưu văn bản / định dạng văn bản phong phú / liên kết / hình ảnh, v.v.\n\n- Bạn có thể nhóm các mặt hàng yêu thích của mình theo danh mục.\n\n- Hỗ trợ tập lệnh JavaScript\n\n- Thêm ghi chú cho các mục yêu thích (hình ảnh, văn bản dài, v.v., bạn có thể tìm kiếm theo ghi chú sau này).\n\n- Tìm kiếm theo nội dung văn bản\n\n- Tìm kiếm theo loại (từ khóa là txt / url / img, v.v.)\n\n- Tìm kiếm theo ứng dụng nguồn\n\n- Tìm kiếm theo thời gian ghi nhận (Định dạng đầy đủ là 2024-05-20 00:00, bạn có thể tìm kiếm theo một phần của thời gian này)\n\n\- Tìm kiếm không phân biệt chữ hoa chữ thường\n\n- Giao diện tùy chỉnh\n\n- Xem trước (hoặc thêm vào danh mục) bằng cách nhấn giữ lâu vào một bản ghi\n\n- Vuốt sang trái/phải hoặc nhấn giữ vào bản ghi để xem thêm thao tác.\n\n- Nhiều phương thức kích hoạt khác nhau, chẳng hạn như đọc chính tả, vuốt lên trên bàn phím, DockX và SquidGesture Pro.\n\n- Hỗ trợ phương thức kích hoạt bằng bàn phím ngoài: V mở trang cuối, C mở clipboard, B mở mục yêu thích\n\n- Tương tác với các tinh chỉnh khác, chẳng hạn như SquidGesturePro, DockX, Hammer It, Snapper, v.v.\n\n- Hỗ trợ iOS và iPadOS \n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Liên hệ tôi "
-},
-{
-"markdown":"[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè\n\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Thông tin"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Tác giả",
-"text":"SquidForce"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Thể loại",
-"text":"Tweak"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Dung lượng",
-"text":"1.2 mb "
-},
-{
-"class":"DepictionTableTextView",
-"title":"Ngày tải lên",
-"text":"18/9/2026"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 17.3.1"
-},
-{
-"class":"DepictionLabelView",
-"text":"Copyright © 2026 by BVN999",
-"textColor":"#999999",
-"fontSize":"10.0",
-"alignment":1
-}
-],
-"class":"DepictionStackView"
-},
-{
-"tabname":"Nhật ký thay đổi",
-"views":[
-{
-"class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.9.0\n\n- Sửa lỗi"
-}
-],
-"class":"DepictionStackView"
-},
-{
-"tabname":"L.Hệ & Hỗ trợ",
-"views":[
-{
-"class":"DepictionTableButtonView",
-"title": "Paypal",
-"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Mua cho tôi một ly cà phê",
-"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Telegram Admin",
-"action": "https://t.me/bvnsupport"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Nhóm Telegram",
-"action": "https://t.me/repobvn"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Fanpage Facebook",
-"action": "https://facebook.com/repocydiaBVN"
-},
-{
-"class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN999",
-"textColor":"#999999",
-"fontSize":"10.0",
-"alignment":1
-}
-],
-"class":"DepictionStackView"
-}
-],
-"class":"DepictionTabView"
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": true,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/1.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/2.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/3.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/4.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/5.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/CopyVault/Screenshots/6.png",
+              "accessibilityText": "Screenshot"
+            }
+          ],
+          "itemCornerRadius": 0,
+          "itemSize": "{185,400}"
+        },
+        {
+          "markdown": "CopyVault\n\n### CopyVault là một phần mềm hiện đại, mạnh mẽ và dễ sử dụng.\n\n- Bootstrap/Serotonin KHÔNG được hỗ trợ.\n\n- Giao diện trực quan\n\n- Có thể lưu văn bản / định dạng văn bản phong phú / liên kết / hình ảnh, v.v.\n\n- Bạn có thể nhóm các mặt hàng yêu thích của mình theo danh mục.\n\n- Hỗ trợ tập lệnh JavaScript\n\n- Thêm ghi chú cho các mục yêu thích (hình ảnh, văn bản dài, v.v., bạn có thể tìm kiếm theo ghi chú sau này).\n\n- Tìm kiếm theo nội dung văn bản\n\n- Tìm kiếm theo loại (từ khóa là txt / url / img, v.v.)\n\n- Tìm kiếm theo ứng dụng nguồn\n\n- Tìm kiếm theo thời gian ghi nhận (Định dạng đầy đủ là 2024-05-20 00:00, bạn có thể tìm kiếm theo một phần của thời gian này)\n\n- Tìm kiếm không phân biệt chữ hoa chữ thường\n\n- Giao diện tùy chỉnh\n\n- Xem trước (hoặc thêm vào danh mục) bằng cách nhấn giữ lâu vào một bản ghi\n\n- Vuốt sang trái/phải hoặc nhấn giữ vào bản ghi để xem thêm thao tác.\n\n- Nhiều phương thức kích hoạt khác nhau, chẳng hạn như đọc chính tả, vuốt lên trên bàn phím, DockX và SquidGesture Pro.\n\n- Hỗ trợ phương thức kích hoạt bằng bàn phím ngoài: V mở trang cuối, C mở clipboard, B mở mục yêu thích\n\n- Tương tác với các tinh chỉnh khác, chẳng hạn như SquidGesturePro, DockX, Hammer It, Snapper, v.v.\n\n- Hỗ trợ iOS và iPadOS",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Liên hệ tôi"
+        },
+        {
+          "markdown": "[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tác giả",
+          "text": "SquidForce"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Thể loại",
+          "text": "Tweak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Dung lượng",
+          "text": "1.2 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Ngày tải lên",
+          "text": "18/9/2026"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Khả năng tương thích",
+          "text": "iOS 15.0 đến 17.3.1"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Nhật ký thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 1.9.0\n\n- Sửa lỗi"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "L.Hệ & Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Telegram Admin",
+          "action": "https://t.me/bvnsupport",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Nhóm Telegram",
+          "action": "https://t.me/repobvn",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
 }
