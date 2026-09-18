@@ -1,0 +1,158 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": true,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/SquidGesturePro/Screenshots/1.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/SquidGesturePro/Screenshots/2.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/SquidGesturePro/Screenshots/3.png",
+              "accessibilityText": "Screenshot"
+            }
+          ],
+          "itemCornerRadius": 0,
+          "itemSize": "{185,400}"
+        },
+        {
+          "markdown": "SquidGesture Pro\n\n### Cử chỉ chuyên nghiệp với bảng hành động\n\nSquidGesture Pro là phiên bản nâng cao của SquidGesture, cho phép gom nhiều hành động vào cùng một cử chỉ và hiển thị chúng dưới dạng bảng để lựa chọn nhanh.\n\n### Phương thức kích hoạt\n\n- Cử chỉ từ cạnh dưới màn hình, tương tự thao tác mở trình chuyển đổi ứng dụng. Có thể kích hoạt hành động khác nhau tùy theo khoảng cách vuốt.\n\n- Cử chỉ trên thanh trạng thái: chạm một lần, chạm hai lần, nhấn giữ, vuốt sang trái và vuốt sang phải.\n\n- Cử chỉ trên Dock: vuốt lên, vuốt sang trái và vuốt sang phải.\n\n- Hỗ trợ nút phần cứng và nhiều phương thức kích hoạt khác.\n\n### Các hành động hỗ trợ\n\n- Chụp ảnh màn hình.\n\n- Mở Trung tâm điều khiển.\n\n- Mở Trung tâm thông báo.\n\n- Mở Spotlight.\n\n- Ghi màn hình.\n\n- Khóa màn hình.\n\n- Bật hoặc tắt VPN.\n\n- Phát / Tạm dừng nhạc.\n\n- Bài trước / Bài tiếp theo.\n\n- Reachability.\n\n- Bật hoặc tắt khóa xoay màn hình.\n\n- Mở ứng dụng được chỉ định.\n\n- Bật hoặc tắt đèn pin.\n\n- Điều khiển nhạc.\n\n- Respring hoặc Reboot Userspace.\n\n- Chạy Shortcuts.\n\n- Mở URL.\n\n- Quét WeChat.\n\n- Quét Alipay.\n\n### Tích hợp với các tweak khác\n\n- Hammer It.\n\n- Snapper 2 / Snapper 3.\n\n- PullOver Pro.\n\n- Zetsu.\n\n- Cardculator.\n\n- CopyVault.\n\n- Kayoko.\n\n- CopyLog.\n\n### Bảng nhiều hành động\n\n- Điểm nổi bật của bản Pro là khả năng đặt nhiều hành động vào cùng một cử chỉ.\n\n- Khi kích hoạt, một bảng hành động sẽ xuất hiện để bạn chọn nhanh chức năng cần sử dụng thay vì giới hạn một cử chỉ chỉ thực hiện một hành động.\n\n- Phù hợp cho người dùng muốn gom các thao tác hệ thống, ứng dụng và tweak khác vào một vị trí truy cập nhanh.\n\n### Thông tin tương thích\n\n- Jailbreak Required.\n\n- Hỗ trợ Rootless.\n\n- Phiên bản chính thức trên Havoc hỗ trợ iOS 14.0 đến 16.6.1.\n\n- Tác giả: SquidForce.",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Liên hệ tôi"
+        },
+        {
+          "markdown": "[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tác giả",
+          "text": "SquidForce"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Thể loại",
+          "text": "Tweak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "2.7.6"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Dung lượng",
+          "text": "1.7 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Ngày tải lên",
+          "text": "18/9/2026"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Khả năng tương thích",
+          "text": "iOS 14.0 đến 16.6.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Rootless",
+          "text": "Có"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Nhật ký thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 2.7.6\n\n- Phiên bản hiện tại được phát hành trên Havoc.\n\n- Cập nhật ngày 15/3/2025."
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "L.Hệ & Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Telegram Admin",
+          "action": "https://t.me/bvnsupport",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Nhóm Telegram",
+          "action": "https://t.me/repobvn",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
