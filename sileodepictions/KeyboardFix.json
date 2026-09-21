@@ -107,7 +107,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.0.0\n\n- Phát hành chính thức KeyboardFix.\n\n- Khắc phục lỗi nhập từ tiếng Việt đầu tiên trên iOS 16.0 đến 16.0.3.\n\n- Hỗ trợ các ô nhập sử dụng UITextField và UITextView.\n\n- Bổ sung cơ chế bắt sự kiện thay đổi văn bản cho các ứng dụng sử dụng trường nhập tùy chỉnh.\n\n- Đã kiểm tra hoạt động trên Facebook, Safari và Spotlight.\n\n- Chỉ kích hoạt khi sử dụng bàn phím tiếng Việt.\n\n- Chỉ hoạt động trên iOS 16.0 đến 16.0.3.\n\n- Hỗ trợ Rootless và RootHide.\n\n- Hỗ trợ arm64 và arm64e.\n\n- Không có Preference Bundle.\n\n- Không có giao diện chẩn đoán hoặc debug.\n\n- Phát hành ngày 21/09/2026."
+          "markdown": "### Phiên bản 1.0.0\n\n- Phát hành chính thức KeyboardFix.\n\n- Khắc phục lỗi nhập từ tiếng Việt đầu tiên trên iOS 16.0 đến 16.0.3.\n\n- Hỗ trợ các ô nhập sử dụng UITextField và UITextView.\n\n- Bổ sung cơ chế bắt sự kiện thay đổi văn bản cho các ứng dụng sử dụng trường nhập tùy chỉnh.\n\n- Đã kiểm tra hoạt động trên Facebook, Safari và Spotlight.\n\n- Chỉ kích hoạt khi sử dụng bàn phím tiếng Việt.\n\n- Chỉ hoạt động trên iOS 16.0 đến 16.0.3.\n\n- Hỗ trợ Rootless và RootHide.\n\n- Hỗ trợ arm64 và arm64e\n\n- Phát hành ngày 21/09/2026."
         }
       ],
       "class": "DepictionStackView"
