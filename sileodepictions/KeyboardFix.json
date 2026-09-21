@@ -1,0 +1,160 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": true,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/KeyboardFix/Screenshots/1.png",
+              "accessibilityText": "KeyboardFix Screenshot"
+            }
+          ],
+          "itemCornerRadius": 0,
+          "itemSize": "{185,400}"
+        },
+        {
+          "markdown": "KeyboardFix\n\n### Sửa lỗi bàn phím tiếng Việt trên iOS 16\n\nKeyboardFix là tweak nhỏ gọn được tạo ra nhằm khắc phục lỗi nhập tiếng Việt trên một số phiên bản iOS 16 đầu tiên.\n\nTrên iOS 16.0 đến 16.0.3, bàn phím tiếng Việt của Apple có thể gặp lỗi khi bắt đầu nhập từ đầu tiên trong một ô văn bản mới. Các ký tự Telex có thể không được xử lý chính xác, trong khi từ thứ hai trở đi lại hoạt động bình thường.\n\nKeyboardFix can thiệp vào quá trình nhập văn bản của UIKit và tự động sửa lỗi này mà không thay thế bàn phím hệ thống.\n\n### Lỗi được khắc phục\n\n- Khắc phục lỗi từ tiếng Việt đầu tiên bị nhập sai sau khi vừa chọn ô văn bản.\n\n- Sửa các trường hợp Telex như `caauf` thành `cầu`.\n\n- Sửa các trường hợp như `tieengs` thành `tiếng`.\n\n- Sửa các trường hợp như `bieejn` thành `biện`.\n\n- Sửa các trường hợp như `nguowif` thành `người`.\n\n- Sửa các trường hợp như `duwowcj` thành `được`.\n\n### Cách hoạt động\n\n- Theo dõi quá trình thay đổi nội dung của UITextField và UITextView.\n\n- Hỗ trợ các ứng dụng sử dụng trường nhập văn bản tùy chỉnh.\n\n- Có cơ chế fallback thông qua sự kiện thay đổi văn bản đối với các ứng dụng không sử dụng trực tiếp `insertText:`.\n\n- Chỉ can thiệp khi sử dụng bàn phím tiếng Việt.\n\n- Chỉ kích hoạt trên các phiên bản iOS gặp lỗi.\n\n- Không thay thế bộ gõ tiếng Việt của Apple.\n\n- Không cần cấu hình sau khi cài đặt.\n\n### Ứng dụng đã kiểm tra\n\n- Facebook.\n\n- Safari.\n\n- Spotlight.\n\n- Các ứng dụng sử dụng UITextField và UITextView tiêu chuẩn của iOS.\n\n### Phiên bản iOS hỗ trợ\n\n- iOS 16.0.\n\n- iOS 16.0.1.\n\n- iOS 16.0.2.\n\n- iOS 16.0.3.\n\nKeyboardFix sẽ không can thiệp vào các phiên bản iOS nằm ngoài phạm vi trên.\n\n### Jailbreak hỗ trợ\n\n- Rootless.\n\n- RootHide.\n\n- arm64.\n\n- arm64e.\n\n### Không có cài đặt\n\nKeyboardFix hoạt động hoàn toàn tự động sau khi cài đặt. Không có Preference Bundle, không có nút bật/tắt và không có cửa sổ chẩn đoán chạy nền.\n\n### Lưu ý\n\nTweak này được thiết kế để sửa riêng lỗi nhập tiếng Việt xuất hiện trên các phiên bản iOS 16 đầu tiên. Nếu thiết bị của bạn không gặp lỗi này hoặc đang sử dụng phiên bản iOS mới hơn, KeyboardFix không cần thiết.",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Liên hệ tôi"
+        },
+        {
+          "markdown": "[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tên tweak",
+          "text": "KeyboardFix"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Thể loại",
+          "text": "Tweak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Ngày phát hành",
+          "text": "21/09/2026"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Khả năng tương thích",
+          "text": "iOS 16.0 đến 16.0.3"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Rootless",
+          "text": "Có"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "RootHide",
+          "text": "Có"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Kiến trúc",
+          "text": "arm64, arm64e"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Cấu hình",
+          "text": "Không cần"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Nhật ký thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 1.0.0\n\n- Phát hành chính thức KeyboardFix.\n\n- Khắc phục lỗi nhập từ tiếng Việt đầu tiên trên iOS 16.0 đến 16.0.3.\n\n- Hỗ trợ các ô nhập sử dụng UITextField và UITextView.\n\n- Bổ sung cơ chế bắt sự kiện thay đổi văn bản cho các ứng dụng sử dụng trường nhập tùy chỉnh.\n\n- Đã kiểm tra hoạt động trên Facebook, Safari và Spotlight.\n\n- Chỉ kích hoạt khi sử dụng bàn phím tiếng Việt.\n\n- Chỉ hoạt động trên iOS 16.0 đến 16.0.3.\n\n- Hỗ trợ Rootless và RootHide.\n\n- Hỗ trợ arm64 và arm64e.\n\n- Không có Preference Bundle.\n\n- Không có giao diện chẩn đoán hoặc debug.\n\n- Phát hành ngày 21/09/2026."
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "L.Hệ & Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Telegram Admin",
+          "action": "https://t.me/bvnsupport",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Nhóm Telegram",
+          "action": "https://t.me/repobvn",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
