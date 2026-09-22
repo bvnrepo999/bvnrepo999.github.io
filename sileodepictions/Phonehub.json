@@ -48,9 +48,76 @@
           "itemSize": "{185,400}"
         },
         {
-          "markdown": "# PhoneHub\n\n### Nâng cấp toàn diện ứng dụng Điện thoại trên iOS\n\nPhoneHub mở rộng ứng dụng **Phone** mặc định với nhiều công cụ tiện lợi cho nhật ký cuộc gọi, nhận diện người gọi, gọi lại tự động, nhắn tin nhanh và quản lý SIM.\n\n### Caller ID – Nhận diện người gọi\n\n- Tìm kiếm và hiển thị danh tính người gọi trực tiếp trong ứng dụng Điện thoại.\n- Hỗ trợ **4 công cụ tra cứu**:\n  - Truecaller\n  - GetContact\n  - NumberBook\n  - Kuwait\n- Có thể chọn công cụ tra cứu chính.\n- Khi một công cụ không trả về kết quả, PhoneHub có thể tiếp tục sử dụng công cụ đã bật tiếp theo.\n- Nhiều kiểu hiển thị kết quả:\n  - Alert\n  - In Cell\n  - AnuAlert\n- Hỗ trợ hiển thị nguồn tra cứu và các tag/thông tin liên quan của số điện thoại.\n\n### Chat nhanh từ lịch sử cuộc gọi\n\n- Truy cập nhanh **Messages** ngay từ nhật ký cuộc gọi.\n- Mở **WhatsApp** để nhắn cho số điện thoại trong danh sách cuộc gọi.\n- Giảm thao tác khi cần liên hệ lại mà không muốn thực hiện cuộc gọi.\n\n### Auto Redial – Tự động gọi lại\n\n- Tự động gọi lại khi máy bên kia **đang bận**.\n- Tự động gọi lại khi cuộc gọi **không được trả lời hoặc không liên lạc được**.\n- Có thể điều chỉnh thời gian chờ trước khi gọi lại.\n- Tự động chuyển sang **loa ngoài** khi cuộc gọi gọi lại được kết nối.\n- Có tùy chọn phản hồi rung/haptic khi quá trình gọi lại hoạt động.\n\n### SIM Picker\n\n- Hiển thị bảng chọn SIM trước khi gọi.\n- Phù hợp cho thiết bị sử dụng **Dual SIM**.\n- Giúp chọn nhanh SIM cần dùng cho từng cuộc gọi.\n\n### Công cụ cho danh sách cuộc gọi gần đây\n\n- Thêm **thanh tìm kiếm** vào danh sách Recent Calls.\n- Có thể ẩn cuộc gọi từ ứng dụng VoIP bên thứ ba.\n- Có thể ẩn cuộc gọi FaceTime khỏi danh sách gần đây.\n- Hiển thị **thời gian chính xác** của cuộc gọi thay vì chỉ hiển thị kiểu “vài phút trước”.\n- Tùy chọn **xác nhận trước khi gọi** để hạn chế bấm nhầm.\n- Cho phép ẩn/hiện các tab trong ứng dụng Điện thoại.\n\n### Màu sắc nhật ký cuộc gọi\n\n- Tô màu các cuộc gọi trong danh sách Recent Calls theo từng loại.\n- Có thể tùy chỉnh màu cho:\n  - Cuộc gọi nhỡ\n  - Cuộc gọi đến\n  - Cuộc gọi đi\n- Hỗ trợ nhập mã màu HEX.\n\n### Nút thao tác nhanh\n\nPhoneHub bổ sung các nút thao tác trực tiếp trên từng dòng lịch sử cuộc gọi, giúp truy cập nhanh các chức năng như:\n\n- Messages\n- WhatsApp\n- Gọi điện\n- Tra cứu Caller ID\n- Xóa mục khỏi lịch sử cuộc gọi\n\n### Tương thích\n\n- iOS **15.0 – 17.0**\n- Yêu cầu jailbreak\n- Hỗ trợ **Rootless**\n\n### Lưu ý\n\nMột số dịch vụ Caller ID có thể yêu cầu cấu hình hoặc token của dịch vụ tương ứng. Khả năng trả về thông tin phụ thuộc vào dữ liệu của từng công cụ tra cứu.",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionHeaderView",
+          "title": "PhoneHub"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Nâng cấp toàn diện ứng dụng Điện thoại trên iOS với Caller ID sử dụng 4 công cụ tra cứu, Chat nhanh, Auto Redial, SIM Picker và nhiều tùy chọn cho lịch sử cuộc gọi.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Caller ID"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Tra cứu và hiển thị danh tính người gọi.\n- Hỗ trợ Truecaller, GetContact, NumberBook và Kuwait.\n- Chọn công cụ tra cứu chính.\n- Hỗ trợ kiểu hiển thị Alert, In Cell và AnuAlert.\n- Có thể chuyển sang công cụ đã bật tiếp theo khi cần.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Chat nhanh"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Truy cập nhanh WhatsApp và Messages từ lịch sử cuộc gọi.\n- Giúp liên hệ lại số điện thoại mà không cần gọi.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Auto Redial"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Tự động gọi lại khi máy bận.\n- Tự động gọi lại khi không trả lời hoặc không liên lạc được.\n- Điều chỉnh thời gian chờ trước khi gọi lại.\n- Tự bật loa ngoài khi cuộc gọi lại được kết nối.\n- Hỗ trợ phản hồi rung.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "SIM Picker"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Hiển thị bảng chọn SIM trước khi thực hiện cuộc gọi.\n- Tiện lợi cho thiết bị sử dụng Dual SIM.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thêm tính năng cho Recent Calls"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Thêm thanh tìm kiếm lịch sử cuộc gọi.\n- Ẩn cuộc gọi từ ứng dụng bên thứ ba.\n- Ẩn cuộc gọi FaceTime.\n- Hiển thị thời gian gọi chính xác.\n- Xác nhận trước khi gọi.\n- Tô màu cuộc gọi nhỡ, cuộc gọi đến và cuộc gọi đi.\n- Tùy chọn ẩn hoặc hiện các tab của ứng dụng Điện thoại.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Nút thao tác nhanh"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "PhoneHub bổ sung các nút thao tác trực tiếp trong danh sách cuộc gọi để truy cập nhanh Messages, WhatsApp, gọi điện, Caller ID và xóa mục khỏi lịch sử.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Tương thích"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- iOS 15.0 - 17.0\n- Jailbreak required\n- Rootless",
+          "useSpacing": true
         },
         {
           "class": "DepictionSpacerView"
@@ -88,11 +155,6 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Ngày phát hành",
-          "text": "21/09/2026"
-        },
-        {
-          "class": "DepictionTableTextView",
           "title": "Khả năng tương thích",
           "text": "iOS 15.0 đến 17.0"
         },
@@ -100,11 +162,6 @@
           "class": "DepictionTableTextView",
           "title": "Rootless",
           "text": "Có"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Cấu hình",
-          "text": "Có – trong Cài đặt"
         },
         {
           "class": "DepictionLabelView",
@@ -121,7 +178,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.1.4\n\n- Phiên bản PhoneHub hiện tại trên Havoc.\n- Phát hành ngày **21/09/2026**.\n- Tương thích iOS **15.0 – 17.0**.\n- Hỗ trợ jailbreak **Rootless**.\n- Bộ tính năng chính gồm Caller ID nhiều nguồn, Chat nhanh, Auto Redial, SIM Picker, thao tác nhanh trong Recent Calls và các tùy chọn mở rộng ứng dụng Điện thoại."
+          "markdown": "### Phiên bản 1.1.4\n\n- Cập nhật PhoneHub.\n- Hỗ trợ iOS 15.0 - 17.0.\n- Hỗ trợ Rootless.\n- Caller ID với 4 công cụ tra cứu.\n- Chat nhanh, Auto Redial, SIM Picker và các tùy chọn mở rộng Recent Calls."
         }
       ],
       "class": "DepictionStackView"
