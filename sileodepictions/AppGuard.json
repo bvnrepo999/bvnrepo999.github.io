@@ -17,24 +17,187 @@
           "screenshots": [
             {
               "url": "https://bvnrepo999.github.io/infodeb/AppGuard/Screenshots/1.png",
-             },
+              "accessibilityText": "AppGuard Screenshot 1"
+            },
             {
               "url": "https://bvnrepo999.github.io/infodeb/AppGuard/Screenshots/2.png",
-              "accessibilityText": "AppGuard Screenshot"
+              "accessibilityText": "AppGuard Screenshot 2"
             }
           ],
-          "itemCornerRadius": 12,
+          "itemCornerRadius": 0,
           "itemSize": "{185,400}"
         },
         {
-          "markdown": "## AppGuard\n\n### Khóa ứng dụng bằng Face ID / Touch ID\n\nAppGuard mang tính năng bảo vệ ứng dụng tương tự cơ chế **Require Face ID** trên iOS 18 đến các thiết bị jailbreak iOS 15 trở lên.\n\n### Tính năng\n\n- Khóa từng ứng dụng bằng **Face ID hoặc Touch ID**.\n- Bật / tắt khóa trực tiếp bằng cách **nhấn giữ biểu tượng ứng dụng** trên màn hình chính.\n- Hỗ trợ **mật mã 4 số riêng** cho AppGuard.\n- Cho phép **đổi mật mã**, yêu cầu xác thực sinh trắc học trước khi thay đổi.\n- Làm mờ nội dung ứng dụng đã khóa trong **App Switcher**.\n- Xác thực lại khi truy cập ứng dụng từ đa nhiệm.\n- Hạn chế các phương thức mở ứng dụng có thể bỏ qua khóa thông thường.\n- Lưu mật mã an toàn bằng **Keychain**.\n- Hỗ trợ **Rootless và Roothide**.\n- Hỗ trợ thiết bị **arm64 / arm64e**.\n\n### Ngôn ngữ hỗ trợ\n\n- Tiếng Việt\n- English\n- العربية\n- 한국어\n- ไทย\n- ລາວ\n- 简体中文\n- 繁體中文\n\n### Cách sử dụng\n\nNhấn giữ biểu tượng ứng dụng cần bảo vệ và chọn tùy chọn khóa bằng Face ID / Touch ID. Sau khi bật, AppGuard sẽ yêu cầu xác thực mỗi khi truy cập ứng dụng.\n\nNếu sử dụng mật mã AppGuard, bạn có thể bật hoặc đổi mật mã ngay từ menu thao tác nhanh của ứng dụng.\n\n### Thông tin\n\n**Tên tweak:** AppGuard  \n**Phiên bản:** 1.0.0  \n**Package:** com.bvn.appguard  \n**Hỗ trợ:** iOS 15+\n\n> Tweak dành cho thiết bị jailbreak."
+          "class": "DepictionHeaderView",
+          "title": "AppGuard"
         },
         {
-          "title": "AppGuard",
-          "text": "Khóa ứng dụng an toàn với Face ID, Touch ID và mật mã.",
-          "class": "DepictionHeaderView"
+          "class": "DepictionMarkdownView",
+          "markdown": "AppGuard là tweak khóa ứng dụng mạnh mẽ, mang trải nghiệm bảo vệ ứng dụng tương tự kiểu **Require Face ID** trên iOS 18. Tweak cho phép khóa từng app bằng **Face ID, Touch ID hoặc mật mã 4 số**, đồng thời làm mờ nội dung ứng dụng trong App Switcher để tăng riêng tư.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Tính năng chính"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Khóa từng ứng dụng riêng biệt.\n- Hỗ trợ Face ID, Touch ID và mật mã 4 số.\n- Bật / tắt khóa trực tiếp từ menu nhấn giữ icon ứng dụng.\n- Có thể đổi mật mã và yêu cầu xác thực sinh trắc học trước khi đổi.\n- Tự động làm mờ ứng dụng đã khóa trong App Switcher.\n- Chặn mở ứng dụng từ nhiều luồng khác nhau để hạn chế bypass.\n- Lưu mật mã an toàn bằng Keychain.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Quick Actions"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Thêm tùy chọn nhanh ngay trên màn hình chính.\n- Bật **Yêu cầu Face ID**.\n- Bật **Yêu cầu Touch ID**.\n- Bật **Yêu cầu Mật mã**.\n- Đổi mật mã nhanh khi cần.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Bảo vệ riêng tư"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Làm mờ nội dung app trong đa nhiệm.\n- Hiển thị trạng thái ứng dụng đã khóa.\n- Yêu cầu xác thực trước khi truy cập lại ứng dụng.\n- Giúp hạn chế người khác xem nội dung ứng dụng khi mượn máy.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Ngôn ngữ hỗ trợ"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Tiếng Việt\n- English\n- العربية\n- 한국어\n- ไทย\n- ລາວ\n- 简体中文\n- 繁體中文",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Tương thích"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- iOS 15.0 trở lên\n- Jailbreak required\n- Rootless\n- Roothide\n- arm64 / arm64e",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Liên hệ tôi"
+        },
+        {
+          "markdown": "[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tên tweak",
+          "text": "AppGuard"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Thể loại",
+          "text": "Tweak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Khả năng tương thích",
+          "text": "iOS 15.0 trở lên"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Rootless",
+          "text": "Có"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Roothide",
+          "text": "Có"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Package ID",
+          "text": "com.bvn.appguard"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
         }
-      ]
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Nhật ký thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 1.0.0\n\n- Phát hành AppGuard.\n- Khóa ứng dụng bằng Face ID, Touch ID và mật mã.\n- Hỗ trợ thao tác nhanh từ menu nhấn giữ icon.\n- Hỗ trợ đổi mật mã.\n- Làm mờ ứng dụng trong App Switcher.\n- Hỗ trợ đa ngôn ngữ.\n- Hỗ trợ Rootless và Roothide."
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "L.Hệ & Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Telegram Admin",
+          "action": "https://t.me/bvnsupport",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Nhóm Telegram",
+          "action": "https://t.me/repobvn",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
     }
-  ]
+  ],
+  "class": "DepictionTabView"
 }
