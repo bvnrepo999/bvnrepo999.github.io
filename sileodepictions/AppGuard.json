@@ -1,0 +1,40 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": true,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/AppGuard/Screenshots/1.png",
+             },
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/AppGuard/Screenshots/2.png",
+              "accessibilityText": "AppGuard Screenshot"
+            }
+          ],
+          "itemCornerRadius": 12,
+          "itemSize": "{185,400}"
+        },
+        {
+          "markdown": "## AppGuard\n\n### Khóa ứng dụng bằng Face ID / Touch ID\n\nAppGuard mang tính năng bảo vệ ứng dụng tương tự cơ chế **Require Face ID** trên iOS 18 đến các thiết bị jailbreak iOS 15 trở lên.\n\n### Tính năng\n\n- Khóa từng ứng dụng bằng **Face ID hoặc Touch ID**.\n- Bật / tắt khóa trực tiếp bằng cách **nhấn giữ biểu tượng ứng dụng** trên màn hình chính.\n- Hỗ trợ **mật mã 4 số riêng** cho AppGuard.\n- Cho phép **đổi mật mã**, yêu cầu xác thực sinh trắc học trước khi thay đổi.\n- Làm mờ nội dung ứng dụng đã khóa trong **App Switcher**.\n- Xác thực lại khi truy cập ứng dụng từ đa nhiệm.\n- Hạn chế các phương thức mở ứng dụng có thể bỏ qua khóa thông thường.\n- Lưu mật mã an toàn bằng **Keychain**.\n- Hỗ trợ **Rootless và Roothide**.\n- Hỗ trợ thiết bị **arm64 / arm64e**.\n\n### Ngôn ngữ hỗ trợ\n\n- Tiếng Việt\n- English\n- العربية\n- 한국어\n- ไทย\n- ລາວ\n- 简体中文\n- 繁體中文\n\n### Cách sử dụng\n\nNhấn giữ biểu tượng ứng dụng cần bảo vệ và chọn tùy chọn khóa bằng Face ID / Touch ID. Sau khi bật, AppGuard sẽ yêu cầu xác thực mỗi khi truy cập ứng dụng.\n\nNếu sử dụng mật mã AppGuard, bạn có thể bật hoặc đổi mật mã ngay từ menu thao tác nhanh của ứng dụng.\n\n### Thông tin\n\n**Tên tweak:** AppGuard  \n**Phiên bản:** 1.0.0  \n**Package:** com.bvn.appguard  \n**Hỗ trợ:** iOS 15+\n\n> Tweak dành cho thiết bị jailbreak."
+        },
+        {
+          "title": "AppGuard",
+          "text": "Khóa ứng dụng an toàn với Face ID, Touch ID và mật mã.",
+          "class": "DepictionHeaderView"
+        }
+      ]
+    }
+  ]
+}
