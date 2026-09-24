@@ -33,7 +33,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "AppGuard là tweak khóa ứng dụng mạnh mẽ, mang trải nghiệm bảo vệ ứng dụng tương tự kiểu **Require Face ID** trên iOS 18. Tweak cho phép khóa từng app bằng **Face ID, Touch ID hoặc mật mã 4 số**, đồng thời làm mờ nội dung ứng dụng trong App Switcher để tăng riêng tư.",
+          "markdown": "LockApps là tweak khóa ứng dụng mạnh mẽ, mang trải nghiệm bảo vệ ứng dụng tương tự kiểu **Require Face ID** trên iOS 18. Tweak cho phép khóa từng app bằng **Face ID, Touch ID hoặc mật mã 4 số**, đồng thời làm mờ nội dung ứng dụng trong App Switcher để tăng riêng tư.",
           "useSpacing": true
         },
         {
@@ -103,7 +103,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Tên tweak",
-          "text": "AppGuard"
+          "text": "LockApps"
         },
         {
           "class": "DepictionTableTextView",
