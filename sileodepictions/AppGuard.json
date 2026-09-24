@@ -29,7 +29,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "AppGuard"
+          "title": "LockApps"
         },
         {
           "class": "DepictionMarkdownView",
