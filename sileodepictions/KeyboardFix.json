@@ -60,12 +60,12 @@
         {
           "class": "DepictionTableTextView",
           "title": "Phiên bản",
-          "text": "1.0.0"
+          "text": "1.0.1"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Ngày phát hành",
-          "text": "21/09/2026"
+          "text": "2/10/2026"
         },
         {
           "class": "DepictionTableTextView",
