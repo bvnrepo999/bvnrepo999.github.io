@@ -1,0 +1,160 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": true,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/Dynamic120hz/Screenshots/1.png",
+              "accessibilityText": "Dynamic120hz Screenshot"
+            }
+          ],
+          "itemCornerRadius": 0,
+          "itemSize": "{185,400}"
+        },
+        {
+          "markdown": "# Dynamic120hz\n\n### Mở khóa tần số quét động cho thiết bị ProMotion\n\nDynamic120hz giúp mở khóa tần số quét động từ khoảng 80Hz lên đến 120Hz trên các thiết bị iPhone có màn hình ProMotion, mang lại cảm giác cuộn và chuyển động mượt hơn trong các ứng dụng được hỗ trợ.\n\n### Tính năng chính\n\n- Mở khóa chế độ Dynamic 120Hz trên toàn hệ thống ở những nơi thiết bị và ứng dụng hỗ trợ.\n\n- Giúp giảm giới hạn tần số quét khi cuộn trong nhiều ứng dụng, cho trải nghiệm hiển thị mượt hơn.\n\n- Có tùy chọn bật hoặc tắt chế độ 120Hz theo từng ứng dụng để người dùng dễ quản lý.\n\n- Hỗ trợ duy trì trải nghiệm khung hình mượt khi sử dụng game và khi quay trở lại Màn hình chính.\n\n### Thiết bị hỗ trợ\n\nDynamic120hz được thiết kế cho các thiết bị có màn hình ProMotion 120Hz.\n\n### Phiên bản iOS hỗ trợ\n\n- iOS 15.0 đến iOS 17.3.1.\n\n### Jailbreak hỗ trợ\n\n- Jailbreak Rootless.\n\n### Lưu ý\n\nHiệu quả thực tế còn phụ thuộc vào thiết bị, ứng dụng và giới hạn tần số quét của từng nội dung. Tweak không thể biến thiết bị không có màn hình ProMotion thành màn hình 120Hz.",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Liên hệ tôi"
+        },
+        {
+          "markdown": "[**Ủng hộ**](https://bvnrepo.xyz/donate/) - Nhấn vào đây nè",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tên tweak",
+          "text": "Dynamic120hz"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Thể loại",
+          "text": "Tweak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "3.3.3-3"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Ngày phát hành",
+          "text": "03/10/2026"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Khả năng tương thích",
+          "text": "iOS 15.0 đến 17.3.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Rootless",
+          "text": "Có"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "RootHide",
+          "text": "Không có thông tin chính thức"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Kiến trúc",
+          "text": "iOS Rootless"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Cấu hình",
+          "text": "Có tùy chọn quản lý theo ứng dụng"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Nhật ký thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 3.3.3-3\n\n- Phiên bản hiện tại trên Havoc.\n\n- Cập nhật ngày 03/10/2026.\n\n- Hỗ trợ iOS 15.0 đến 17.3.1.\n\n- Hỗ trợ jailbreak Rootless."
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "L.Hệ & Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Telegram Admin",
+          "action": "https://t.me/bvnsupport",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Nhóm Telegram",
+          "action": "https://t.me/repobvn",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "text": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": 10.0,
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
