@@ -69,7 +69,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"19/8/2026"
+"text":"9/10/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -91,7 +91,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 1.0.4\n\n- Sửa lỗi hiển thị trùng vị trí\n\n- Thêm lưu các vị trí đã chọn\n\n- Sửa lỗi văng ứng dụng khi chọn chế độ xác thực ảnh\n\n ### Phiên bản 1.0.3\n\n- Thêm ẩn mã ảnh, Timemark Verified\n\n ### Phiên bản 1.0.1\n\n- Sửa lỗi thay đổi Thứ😕"
+"markdown":"### Phiên bản 1.1.5\n\n- Thêm giả mạo camera,lấy hình ảnh và video trong album ảnh\n\n- Thêm thay thế ngày giờ ,gps ở trong mục xác minh hình ảnh\n\n- Yêu cầu mua Key để sử dụng ,liên hệ tôi qua Telgram @bvnsupport hoặc Zalo:0943337789\n\n ### Phiên bản 1.0.4\n\n- Sửa lỗi hiển thị trùng vị trí\n\n- Thêm lưu các vị trí đã chọn\n\n- Sửa lỗi văng ứng dụng khi chọn chế độ xác thực ảnh\n\n ### Phiên bản 1.0.3\n\n- Thêm ẩn mã ảnh, Timemark Verified\n\n ### Phiên bản 1.0.1\n\n- Sửa lỗi thay đổi Thứ😕"
 }
 ],
 "class":"DepictionStackView"
