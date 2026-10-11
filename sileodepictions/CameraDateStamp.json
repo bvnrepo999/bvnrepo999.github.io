@@ -1,0 +1,135 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/CameraDateStamp/Screenshots/1.png",
+              "accessibilityText": "Giao diện CameraDateStamp trên Camera gốc"
+            }
+          ],
+          "itemCornerRadius": 0,
+          "itemSize": "{185,400}"
+        },
+        {
+          "markdown": "# CameraDateStamp\n\n**Thêm dấu ngày giờ và vị trí lên ảnh, video ngay trong Camera gốc của iPhone.** Xem trước dấu trực tiếp khi chụp, không cần cài thêm ứng dụng Camera.\n\n### Tính năng nổi bật\n\n- **Đóng dấu ảnh:** Hiển thị giờ, ngày tháng, thứ và địa chỉ trên ảnh chụp.\n- **Đóng dấu video:** Thêm dấu thời gian bắt đầu quay vào video, giữ âm thanh gốc.\n- **Tùy chỉnh ngay trong Camera:** Chạm vào dấu hoặc biểu tượng chỉnh sửa để mở bảng tùy chọn.\n- **Kéo thả tự do:** Nhấn giữ cụm dấu rồi di chuyển đến vị trí mong muốn trong khung hình.\n- **Ngày giờ và địa chỉ:** Tùy chọn bật/tắt thông tin, dùng vị trí GPS hoặc tự nhập địa chỉ.\n- **Kiểu chữ:** Hỗ trợ phông hệ thống (mặc định), phong cách Timemark, Helvetica Neue và Menlo; thay đổi kích thước chữ.\n- **Màu sắc linh hoạt:** Đổi màu đồng loạt cho các nhãn chữ hoặc chỉnh từng nhãn; màu vạch ngang tùy chỉnh riêng.\n- **Tùy biến bố cục:** Bật/tắt vạch ngăn, giây, ngày/thứ, vị trí và chỉnh độ cao của cụm dấu.\n\n**Tương thích:** iOS 15 trở lên, jailbreak Rootless và Roothide.\n\n*Lưu ý: Dấu được xử lý sau khi Camera lưu ảnh/video, vì vậy album có thể cần một khoảng ngắn để hiển thị bản đã đóng dấu. Video dùng thời gian bắt đầu quay, không phải đồng hồ chạy liên tục.*",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Cách sử dụng"
+        },
+        {
+          "markdown": "1. Mở **Camera** mặc định trên iPhone.\n2. Chạm vào dấu ngày giờ hoặc biểu tượng chỉnh sửa để chọn kiểu chữ, màu sắc và nội dung nhãn.\n3. **Nhấn giữ** cụm dấu rồi kéo đến vị trí mong muốn.\n4. Chụp ảnh hoặc quay video như bình thường, sau đó mở **Ảnh (Photos)** để xem kết quả.\n\n*Không cần cài ứng dụng Timemark riêng.*",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tác giả",
+          "text": "BVN"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Thể loại",
+          "text": "Camera · Ảnh & Video"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Kiểu jailbreak",
+          "text": "Rootless & Roothide"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Khả năng tương thích",
+          "text": "iOS 15.0 trở lên"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Nhật ký thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 1.0.0 — Release\n\n- Phát hành BVNCameraDateStamp cho Camera gốc của iPhone.\n- Hỗ trợ đóng dấu ngày giờ và địa chỉ trên ảnh chụp, video quay.\n- Cho phép nhấn giữ và kéo cụm nhãn, tùy chỉnh phông chữ, cỡ chữ, màu sắc và vị trí.\n- Bổ sung phông hệ thống làm lựa chọn mặc định và màu chung cho các nhãn chữ.\n- Tối ưu thời gian xử lý ảnh sau khi chụp.\n- Loại bỏ chế độ kiểm tra crash và ghi log debug của các bản thử nghiệm.\n- Hỗ trợ đóng gói Rootless và Roothide."
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "L.Hệ & Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram Admin",
+          "action": "https://t.me/bvnsupport"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Nhóm Telegram",
+          "action": "https://t.me/repobvn"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
