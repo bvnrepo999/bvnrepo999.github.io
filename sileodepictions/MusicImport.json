@@ -1,0 +1,156 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#7665DA",
+  "tabs": [
+    {
+      "tabname": "Chi tiết",
+      "views": [
+        {
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://bvnrepo999.github.io/infodeb/BVNMusicImport/Screenshots/1.png",
+              "accessibilityText": "Giao diện BVN Music Import - chọn nhạc từ Tệp và quản lý bài hát"
+            }
+          ],
+          "itemCornerRadius": 0,
+          "itemSize": "{185,400}"
+        },
+        {
+          "markdown": "# BVN Music Import\n\n**Thêm nhạc từ ứng dụng Tệp vào thư viện Apple Music ngay trên iPhone đã jailbreak.** BVN Music có biểu tượng riêng trên màn hình chính, không cần tìm trong Cài đặt.\n\n### Tính năng nổi bật\n\n- **Nhập nhạc từ Tệp:** Chọn một hoặc nhiều file MP3, M4A, AAC, WAV, AIFF để đưa vào thư viện Apple Music.\n- **Trích xuất nhạc từ video:** Chọn video trong ứng dụng Ảnh, lấy phần âm thanh thành file M4A để nhập nhạc; không chỉnh sửa video gốc.\n- **Sửa thông tin bài hát:** Đổi tên bài hát, nghệ sĩ và album trước khi nhập; chỉnh thông tin MP3/M4A trên bản sao file.\n- **Quản lý lịch sử:** Theo dõi trạng thái nhập nhạc và thử lại khi cần.\n- **Vuốt trái để xóa:** Xóa bản nháp, file tạm hoặc mục lịch sử, không xóa bài hát đã có trong Apple Music.\n- **Giao diện riêng:** Ứng dụng BVN Music hoạt động trực tiếp từ màn hình chính.\n- **Hỗ trợ 6 ngôn ngữ:** Tiếng Việt, English, 日本語, العربية, 简体中文 và 한국어; tự theo ngôn ngữ iPhone.\n- **Bản Release gọn nhẹ:** Không ghi log debug.\n\n**Tương thích:** iOS 15.0 trở lên, jailbreak Rootless và Roothide.\n\n**Yêu cầu:** Để nhập nhạc trực tiếp vào Apple Music, **máy cần cài Filza 4.x tương thích**. Filza là thành phần hỗ trợ nhập nhạc và **không được đóng gói kèm** tweak.\n\n*Lưu ý: Có thể cần mở Filza trong lúc nhập. Không cần máy tính khi đã cài Filza tương thích.*",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Cách sử dụng"
+        },
+        {
+          "markdown": "1. Cài **BVN Music Import** và **Filza 4.x** trên iPhone đã jailbreak.\n2. Mở ứng dụng **BVN Music** từ màn hình chính.\n3. Chọn **nhạc từ Tệp**, hoặc chọn **video trong Ảnh** để trích xuất âm thanh.\n4. Chạm vào bài hát để chỉnh **Tên bài hát / Nghệ sĩ / Album** nếu muốn.\n5. Nhấn **Nhập vào Apple Music** và mở Filza khi ứng dụng yêu cầu.\n6. Kiểm tra bài hát trong **Nhạc (Apple Music)**.\n\n*Vuốt sang trái một mục trong lịch sử để xóa mục đó. Thao tác này không xóa bài đã nhập trong thư viện.*",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Thông tin"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tác giả",
+          "text": "BVN"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Thể loại",
+          "text": "Âm nhạc · Tiện ích"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Phiên bản",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Mã gói",
+          "text": "vn.bvn.musicimport"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Ứng dụng",
+          "text": "BVN Music (Màn hình chính)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Bộ nhập nhạc",
+          "text": "Filza 4.x (cần cài riêng)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Ngôn ngữ",
+          "text": "VI · EN · JA · AR · ZH · KO"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Kiểu jailbreak",
+          "text": "Rootless & Roothide"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Khả năng tương thích",
+          "text": "iOS 15.0 trở lên"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Nhật ký thay đổi",
+      "views": [
+        {
+          "markdown": "### Phiên bản 1.0.0 — Multilingual Release\n\n- Phát hành BVN Music Import với ứng dụng riêng trên màn hình chính.\n- Chọn và nhập nhạc từ Tệp vào Apple Music thông qua Filza 4.x.\n- Trích xuất âm thanh từ video trong ứng dụng Ảnh và nhập thành bài hát.\n- Cho phép sửa tên bài hát, nghệ sĩ và album trước khi nhập.\n- Bổ sung vuốt trái để xóa bản nháp và lịch sử.\n- Hỗ trợ 6 ngôn ngữ: Việt, Anh, Nhật, Ả Rập, Trung giản thể, Hàn.\n- Bản Release loại bỏ chế độ debug và ghi log.\n- Hỗ trợ iOS 15+ với Rootless và Roothide.\n\n**Lưu ý:** Cần cài Filza 4.x tương thích để sử dụng chức năng nhập nhạc.",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "L.Hệ & Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram Admin",
+          "action": "https://t.me/bvnsupport"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Nhóm Telegram",
+          "action": "https://t.me/repobvn"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
