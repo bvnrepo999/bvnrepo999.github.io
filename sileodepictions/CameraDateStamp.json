@@ -87,7 +87,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.0.0 — Release\n\n- Phát hành BVNCameraDateStamp cho Camera gốc của iPhone.\n- Hỗ trợ đóng dấu ngày giờ và địa chỉ trên ảnh chụp, video quay.\n- Cho phép nhấn giữ và kéo cụm nhãn, tùy chỉnh phông chữ, cỡ chữ, màu sắc và vị trí.\n- Bổ sung phông hệ thống làm lựa chọn mặc định và màu chung cho các nhãn chữ.\n- Tối ưu thời gian xử lý ảnh sau khi chụp.\n- Loại bỏ chế độ kiểm tra crash và ghi log debug của các bản thử nghiệm.\n- Hỗ trợ đóng gói Rootless và Roothide."
+          "markdown": "### Phiên bản 1.0.2 — Sửa lỗi\n\n- Thêm hiển thị tên thiết bị\n\n- Photo By Me😆\n\n-### Phiên bản 1.0.0 — Release\n\n- Phát hành BVNCameraDateStamp cho Camera gốc của iPhone.\n- Hỗ trợ đóng dấu ngày giờ và địa chỉ trên ảnh chụp, video quay.\n- Cho phép nhấn giữ và kéo cụm nhãn, tùy chỉnh phông chữ, cỡ chữ, màu sắc và vị trí.\n- Bổ sung phông hệ thống làm lựa chọn mặc định và màu chung cho các nhãn chữ.\n- Tối ưu thời gian xử lý ảnh sau khi chụp.\n- Loại bỏ chế độ kiểm tra crash và ghi log debug của các bản thử nghiệm.\n- Hỗ trợ đóng gói Rootless và Roothide."
         }
       ],
       "class": "DepictionStackView"
