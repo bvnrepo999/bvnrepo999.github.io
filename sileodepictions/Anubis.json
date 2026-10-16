@@ -65,7 +65,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"22/9/2026"
+"text":"16/10/2026"
 },
 {
 "class":"DepictionTableTextView",
@@ -87,7 +87,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.0\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 2.0.1\n\n- Thêm hỗ trợ Translux v1.6\n\n ### Phiên bản 2.0\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
