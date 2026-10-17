@@ -13,106 +13,199 @@
           "class": "DepictionButtonView"
         },
         {
-          "class": "DepictionHeaderView",
-          "title": "Chi tiết · Tiếng Việt"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**Theo dõi hiệu năng và tình trạng hệ thống ngay trên màn hình iPhone bằng các bảng thông tin nhỏ (HUD).** KeepEye hiển thị những chỉ số quan trọng theo thời gian thực mà không cần liên tục mở ứng dụng kiểm tra.\n\n### Các mục theo dõi\n\n- **CPU:** Theo dõi mức sử dụng bộ xử lý để nhận biết tải hoạt động của thiết bị.\n- **RAM:** Xem thông tin về bộ nhớ RAM.\n- **Pin (Battery):** Hiển thị các chỉ số pin, chẳng hạn phần trăm, điện áp, dung lượng và số chu kỳ sạc.\n- **Mạng (Network):** Theo dõi thông tin lưu lượng hoặc tốc độ truyền dữ liệu mạng qua HUD.\n\n### Tính năng nổi bật\n\n- **HUD gọn nhẹ:** Các chỉ số xuất hiện trực tiếp trên giao diện hệ thống, thuận tiện quan sát trong khi sử dụng iPhone.\n- **Bật hoặc tắt tweak:** Có công tắc điều khiển chung trong phần cài đặt KeepEye.\n- **Thiết lập theo từng loại HUD:** Có các mục cài đặt riêng cho Battery, Network, CPU và RAM.\n- **Bố cục tự động:** Hỗ trợ Auto Layout và tự phân bổ vị trí các HUD.\n- **Tùy chỉnh theo hướng màn hình:** Cấu hình vị trí, kích thước và hình thức hiển thị riêng cho màn hình dọc (Portrait) và ngang (Landscape).\n- **Thông số pin chi tiết:** Có các mã thông tin (token) cho điện áp pin, dung lượng tối đa, dung lượng hiện tại, mức pin, chu kỳ sạc và một số chỉ số bộ sạc; chạm để sao chép token trong phần cài đặt.\n\n### Khả năng tương thích\n\n- **Phiên bản Havoc:** 1.1.1\n- **iOS:** 15.0–15.4.1 (theo Havoc)\n- **Jailbreak:** Rootless (theo Havoc)\n\n*Lưu ý: Mô tả dựa trên thông tin công khai và ảnh minh họa của KeepEye 1.1.1. Các tính năng của phiên bản khác có thể thay đổi.*\n\n*Nguồn và tác giả gốc: [KeepEye – AnubisTweaks trên Havoc](https://havoc.app/package/keepeye).*",
-          "useSpacing": "true"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "Description · English"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**Keep an eye on your iPhone's system performance with real-time on-screen monitoring HUDs.** KeepEye displays useful device information without requiring you to open a separate monitoring app.\n\n### Monitoring categories\n\n- **CPU:** View processor usage to keep track of system load.\n- **RAM:** Monitor memory information.\n- **Battery:** Display battery metrics such as charge percentage, voltage, capacity, and charge-cycle count.\n- **Network:** Monitor network activity and data-transfer information through a HUD.\n\n### Key features\n\n- **Compact on-screen HUDs:** View system statistics while using your device.\n- **Global enable/disable switch:** Turn KeepEye on or off from its Settings page.\n- **Individual monitor settings:** Separate sections for Battery, Network, CPU, and RAM.\n- **Automatic HUD layout:** Supports Auto Layout and automatic HUD distribution.\n- **Portrait and landscape customization:** Configure placement, size, and appearance for each device orientation.\n- **Detailed battery tokens:** Settings include variables for battery voltage, maximum/current capacity, percentage, cycle count, and several charging-adapter metrics, with tap-to-copy tokens.\n\n### Compatibility\n\n- **Havoc version:** 1.1.1\n- **iOS:** 15.0–15.4.1 (Havoc listing)\n- **Jailbreak:** Rootless (Havoc listing)\n\n*Note: This description is based on the public listing and screenshots for KeepEye 1.1.1. Features may differ in other releases.*\n\n*Original developer and source: [KeepEye by AnubisTweaks on Havoc](https://havoc.app/package/keepeye).*",
-          "useSpacing": "true"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "Ảnh minh họa · Screenshots"
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "screenshots": [
+          "class": "DepictionTabView",
+          "tabs": [
             {
-              "url": "https://media.havoc.app/6908fc05e586606df954ad39",
-              "accessibilityText": "Ảnh giới thiệu KeepEye – HUD Master"
+              "class": "DepictionStackView",
+              "tabname": "Tiếng Việt",
+              "views": [
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://media.havoc.app/6908fc05e586606df954ad39",
+                      "accessibilityText": "Ảnh giới thiệu KeepEye – HUD Master"
+                    },
+                    {
+                      "url": "https://media.havoc.app/6908fc26e586606df954ae55",
+                      "accessibilityText": "HUD theo dõi CPU, RAM, pin và mạng trên màn hình chính"
+                    },
+                    {
+                      "url": "https://media.havoc.app/69d24c9ba349ffe78802a242",
+                      "accessibilityText": "Giao diện cài đặt KeepEye với các mục Battery, Network, CPU và RAM"
+                    },
+                    {
+                      "url": "https://media.havoc.app/69d24ca6a349ffe78802a283",
+                      "accessibilityText": "Tùy chỉnh chỉ số pin và bố cục khi xoay màn hình"
+                    }
+                  ],
+                  "itemCornerRadius": 8,
+                  "itemSize": "{185,400}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "KeepEye"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**Theo dõi hiệu năng và tình trạng hệ thống ngay trên màn hình iPhone bằng các bảng thông tin nhỏ (HUD).** KeepEye hiển thị những chỉ số quan trọng theo thời gian thực mà không cần liên tục mở ứng dụng kiểm tra.\n\n### Các mục theo dõi\n\n- **CPU:** Theo dõi mức sử dụng bộ xử lý để nhận biết tải hoạt động của thiết bị.\n- **RAM:** Xem thông tin về bộ nhớ RAM.\n- **Pin (Battery):** Hiển thị các chỉ số pin, chẳng hạn phần trăm, điện áp, dung lượng và số chu kỳ sạc.\n- **Mạng (Network):** Theo dõi thông tin lưu lượng hoặc tốc độ truyền dữ liệu mạng qua HUD.\n\n### Tính năng nổi bật\n\n- **HUD gọn nhẹ:** Các chỉ số xuất hiện trực tiếp trên giao diện hệ thống, thuận tiện quan sát trong khi sử dụng iPhone.\n- **Bật hoặc tắt tweak:** Có công tắc điều khiển chung trong phần cài đặt KeepEye.\n- **Thiết lập theo từng loại HUD:** Có các mục cài đặt riêng cho Battery, Network, CPU và RAM.\n- **Bố cục tự động:** Hỗ trợ Auto Layout và tự phân bổ vị trí các HUD.\n- **Tùy chỉnh theo hướng màn hình:** Cấu hình vị trí, kích thước và hình thức hiển thị riêng cho màn hình dọc (Portrait) và ngang (Landscape).\n- **Thông số pin chi tiết:** Có các mã thông tin (token) cho điện áp pin, dung lượng tối đa, dung lượng hiện tại, mức pin, chu kỳ sạc và một số chỉ số bộ sạc; chạm để sao chép token trong phần cài đặt.\n\n### Khả năng tương thích\n\n- **Phiên bản Havoc:** 1.1.1\n- **iOS:** 15.0–15.4.1 (theo Havoc)\n- **Jailbreak:** Rootless (theo Havoc)\n\n*Lưu ý: Mô tả dựa trên thông tin công khai và ảnh minh họa của KeepEye 1.1.1. Các tính năng của phiên bản khác có thể thay đổi.*\n\n*Nguồn và tác giả gốc: [KeepEye – AnubisTweaks trên Havoc](https://havoc.app/package/keepeye).*",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Cách sử dụng"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "1. Mở **Cài đặt → KeepEye** và bật **Enable Tweak**.\n2. Vào từng mục **Battery**, **Network**, **CPU** hoặc **RAM** để cấu hình loại dữ liệu cần hiển thị.\n3. Điều chỉnh vị trí, kích thước và cách hiển thị HUD tại phần **Portrait** hoặc **Landscape** nếu mục đó hỗ trợ.\n4. Với HUD pin, có thể tham khảo các **token** có sẵn trong cài đặt để tùy chỉnh nội dung.\n5. Quay lại màn hình chính và quan sát các chỉ số trong các HUD đã bật.",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Thông tin"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Tác giả gốc",
+                  "text": "AnubisTweaks"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Thể loại",
+                  "text": "Tiện ích hệ thống · Giám sát hiệu năng"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Phiên bản Havoc",
+                  "text": "1.1.1"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Kiểu jailbreak",
+                  "text": "Rootless (theo Havoc)"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Tương thích chính thức",
+                  "text": "iOS 15.0–15.4.1"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "Mô tả Việt hóa bởi BVN Repo · KeepEye của AnubisTweaks",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
             },
             {
-              "url": "https://media.havoc.app/6908fc26e586606df954ae55",
-              "accessibilityText": "HUD theo dõi CPU, RAM, pin và mạng trên màn hình chính"
-            },
-            {
-              "url": "https://media.havoc.app/69d24c9ba349ffe78802a242",
-              "accessibilityText": "Giao diện cài đặt KeepEye với các mục Battery, Network, CPU và RAM"
-            },
-            {
-              "url": "https://media.havoc.app/69d24ca6a349ffe78802a283",
-              "accessibilityText": "Tùy chỉnh chỉ số pin và bố cục khi xoay màn hình"
+              "class": "DepictionStackView",
+              "tabname": "English",
+              "views": [
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://media.havoc.app/6908fc05e586606df954ad39",
+                      "accessibilityText": "Ảnh giới thiệu KeepEye – HUD Master"
+                    },
+                    {
+                      "url": "https://media.havoc.app/6908fc26e586606df954ae55",
+                      "accessibilityText": "HUD theo dõi CPU, RAM, pin và mạng trên màn hình chính"
+                    },
+                    {
+                      "url": "https://media.havoc.app/69d24c9ba349ffe78802a242",
+                      "accessibilityText": "Giao diện cài đặt KeepEye với các mục Battery, Network, CPU và RAM"
+                    },
+                    {
+                      "url": "https://media.havoc.app/69d24ca6a349ffe78802a283",
+                      "accessibilityText": "Tùy chỉnh chỉ số pin và bố cục khi xoay màn hình"
+                    }
+                  ],
+                  "itemCornerRadius": 8,
+                  "itemSize": "{185,400}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "KeepEye"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**Keep an eye on your iPhone's system performance with real-time on-screen monitoring HUDs.** KeepEye displays useful device information without requiring you to open a separate monitoring app.\n\n### Monitoring categories\n\n- **CPU:** View processor usage to keep track of system load.\n- **RAM:** Monitor memory information.\n- **Battery:** Display battery metrics such as charge percentage, voltage, capacity, and charge-cycle count.\n- **Network:** Monitor network activity and data-transfer information through a HUD.\n\n### Key features\n\n- **Compact on-screen HUDs:** View system statistics while using your device.\n- **Global enable/disable switch:** Turn KeepEye on or off from its Settings page.\n- **Individual monitor settings:** Separate sections for Battery, Network, CPU, and RAM.\n- **Automatic HUD layout:** Supports Auto Layout and automatic HUD distribution.\n- **Portrait and landscape customization:** Configure placement, size, and appearance for each device orientation.\n- **Detailed battery tokens:** Settings include variables for battery voltage, maximum/current capacity, percentage, cycle count, and several charging-adapter metrics, with tap-to-copy tokens.\n\n### Compatibility\n\n- **Havoc version:** 1.1.1\n- **iOS:** 15.0–15.4.1 (Havoc listing)\n- **Jailbreak:** Rootless (Havoc listing)\n\n*Note: This description is based on the public listing and screenshots for KeepEye 1.1.1. Features may differ in other releases.*\n\n*Original developer and source: [KeepEye by AnubisTweaks on Havoc](https://havoc.app/package/keepeye).*",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "How to use"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "### English\n\n1. Open **Settings → KeepEye** and enable **Enable Tweak**.\n2. Open **Battery**, **Network**, **CPU**, or **RAM** to configure the corresponding monitor.\n3. Customize the HUD's position, size, and appearance under **Portrait** or **Landscape**, where available.\n4. For the battery HUD, use the built-in **tokens** to customize the displayed information.\n5. Return to the Home Screen to view the HUDs you've enabled.",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Information"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Original developer",
+                  "text": "AnubisTweaks"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Category",
+                  "text": "System utilities · Performance monitoring"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Havoc version",
+                  "text": "1.1.1"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Jailbreak type",
+                  "text": "Rootless (per Havoc listing)"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Official compatibility",
+                  "text": "iOS 15.0–15.4.1"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "English translation by BVN Repo · KeepEye by AnubisTweaks",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
             }
-          ],
-          "itemCornerRadius": 8,
-          "itemSize": "{185,400}"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "Cách sử dụng · How to use"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### Tiếng Việt\n\n1. Mở **Cài đặt → KeepEye** và bật **Enable Tweak**.\n2. Vào từng mục **Battery**, **Network**, **CPU** hoặc **RAM** để cấu hình loại dữ liệu cần hiển thị.\n3. Điều chỉnh vị trí, kích thước và cách hiển thị HUD tại phần **Portrait** hoặc **Landscape** nếu mục đó hỗ trợ.\n4. Với HUD pin, có thể tham khảo các **token** có sẵn trong cài đặt để tùy chỉnh nội dung.\n5. Quay lại màn hình chính và quan sát các chỉ số trong các HUD đã bật.\n\n---\n\n### English\n\n1. Open **Settings → KeepEye** and enable **Enable Tweak**.\n2. Open **Battery**, **Network**, **CPU**, or **RAM** to configure the corresponding monitor.\n3. Customize the HUD's position, size, and appearance under **Portrait** or **Landscape**, where available.\n4. For the battery HUD, use the built-in **tokens** to customize the displayed information.\n5. Return to the Home Screen to view the HUDs you've enabled.",
-          "useSpacing": "true"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "Thông tin · Information"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Tác giả gốc",
-          "text": "AnubisTweaks"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Thể loại",
-          "text": "Tiện ích hệ thống · Giám sát hiệu năng"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Phiên bản Havoc",
-          "text": "1.1.1"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Kiểu jailbreak",
-          "text": "Rootless (theo Havoc)"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Tương thích chính thức",
-          "text": "iOS 15.0–15.4.1"
-        },
-        {
-          "class": "DepictionLabelView",
-          "text": "Mô tả Việt hóa bởi BVN Repo · KeepEye của AnubisTweaks",
-          "textColor": "#999999",
-          "fontSize": "10.0",
-          "alignment": 1
+          ]
         }
       ],
       "class": "DepictionStackView"

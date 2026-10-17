@@ -87,7 +87,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.0.1\n\n- Thêm hỗ trợ Translux v1.6\n\n ### Phiên bản 2.0\n\n- Lần đầu phát hành"
+"markdown":"### Phiên bản 2.0.2\n\n- Thêm tinh chỉnh KeepEye, RotatePro\n\n ### Phiên bản 2.0.1\n\n- Thêm hỗ trợ Translux v1.6\n\n ### Phiên bản 2.0\n\n- Lần đầu phát hành"
 }
 ],
 "class":"DepictionStackView"
