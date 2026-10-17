@@ -4,13 +4,41 @@
   "tintColor": "#5777B8",
   "tabs": [
     {
-      "tabname": "Chi tiết (VI)",
+      "tabname": "Mô tả",
       "views": [
         {
           "text": "Nhóm trò chuyện Tele BVN Repo",
           "action": "https://t.me/bvnrepo",
           "openExternal": 1,
           "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Chi tiết · Tiếng Việt"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Điều khiển xoay màn hình iPhone theo ý muốn bằng một nút nổi tiện lợi.** Chọn hướng xoay, khóa màn hình theo hướng đang cầm máy hoặc tạm thời cho phép xoay khi cần mà không phải mở Trung tâm điều khiển.\n\n### Hai chế độ xoay\n\n- **Thủ công (Manual):** Cầm iPhone theo hướng dọc, ngang trái, ngang phải hoặc lộn ngược, sau đó chạm nút nổi. Màn hình xoay theo hướng đang cầm và **giữ nguyên hướng đó**, kể cả khi bạn tiếp tục xoay thiết bị.\n- **Thông minh (Smart):** Chạm nút để tạm mở khóa xoay trong ứng dụng hiện tại. Khi thoát ứng dụng, chuyển ứng dụng hoặc mở màn hình đa nhiệm, hướng màn hình tự khóa lại ở chế độ dọc.\n\n### Tính năng nổi bật\n\n- **Nút nổi có thể di chuyển:** Nhấn giữ và kéo nút đến bất kỳ vị trí thuận tiện nào; ghi nhớ vị trí đã đặt.\n- **Hai cách nhận diện hướng:** Stock (phương pháp gốc) và Smart (phát hiện hướng được tinh chỉnh).\n- **Giao diện tùy chỉnh:** Chọn nút hình chữ nhật bo góc hoặc hình tròn.\n- **Hiệu ứng nền mờ:** Tự động (Auto), Tối (Dark) hoặc Sáng (Light).\n- **Kích thước nút:** Nhỏ, Vừa hoặc Lớn.\n- **Phản hồi rung:** Nhẹ, Mạnh, Ba nhịp; bản cập nhật còn hỗ trợ tắt rung.\n- **Danh sách loại trừ (Blacklist):** Ẩn nút nổi trong những ứng dụng bạn lựa chọn.\n- **Áp dụng nhanh:** Các điều chỉnh giao diện được áp dụng ngay mà không cần respring trong sử dụng thông thường.\n\n**Tương thích theo Havoc:** iOS 15.0–16.5.1, jailbreak Rootless.\n\n*Nguồn và tác giả gốc: [RotatePro – AnubisTweaks trên Havoc](https://havoc.app/package/rotatepro).*",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Description · English"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Take full control of your iPhone's screen orientation with a convenient floating button.** Rotate and lock the display to match how you're holding your device, or temporarily enable rotation inside an app without opening Control Center.\n\n### Two operation modes\n\n- **Manual:** Hold your device in portrait, landscape left, landscape right, or upside-down orientation, then tap the floating button. The screen rotates to match the device's physical position and **stays locked in that orientation** until you select another one.\n- **Smart:** Tap the floating button to temporarily unlock rotation in the current app. Rotation automatically locks back to portrait when you leave the app, switch apps, or open the app switcher.\n\n### Key features\n\n- **Draggable floating button:** Long-press and move it anywhere on screen; your preferred position is remembered.\n- **Orientation detection:** Choose Stock (system-based) or Smart (refined detection).\n- **Button shape:** Rounded rectangle or circle.\n- **Blur styles:** Auto, Dark, or Light.\n- **Button sizes:** Small, Medium, or Big.\n- **Haptic feedback:** Light, Heavy, or Triple, with an option to disable haptics in updated releases.\n- **App blacklist:** Completely hide the button in selected apps.\n- **Instant customization:** Appearance changes normally apply without a respring.\n\n**Official Havoc compatibility:** iOS 15.0–16.5.1, Rootless jailbreak.\n\n*Original developer and source: [RotatePro by AnubisTweaks on Havoc](https://havoc.app/package/rotatepro).*",
+          "useSpacing": "true"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Ảnh minh họa · Screenshots"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -36,8 +64,15 @@
           "itemSize": "{185,400}"
         },
         {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Cách sử dụng · How to use"
+        },
+        {
           "class": "DepictionMarkdownView",
-          "markdown": "# RotatePro\n\n**Điều khiển xoay màn hình iPhone theo ý muốn bằng một nút nổi tiện lợi.** Chọn hướng xoay, khóa màn hình theo hướng đang cầm máy hoặc tạm thời cho phép xoay khi cần mà không phải mở Trung tâm điều khiển.\n\n### Hai chế độ xoay\n\n- **Thủ công (Manual):** Cầm iPhone theo hướng dọc, ngang trái, ngang phải hoặc lộn ngược, sau đó chạm nút nổi. Màn hình xoay theo hướng đang cầm và **giữ nguyên hướng đó**, kể cả khi bạn tiếp tục xoay thiết bị.\n- **Thông minh (Smart):** Chạm nút để tạm mở khóa xoay trong ứng dụng hiện tại. Khi thoát ứng dụng, chuyển ứng dụng hoặc mở màn hình đa nhiệm, hướng màn hình tự khóa lại ở chế độ dọc.\n\n### Tính năng nổi bật\n\n- **Nút nổi có thể di chuyển:** Nhấn giữ và kéo nút đến bất kỳ vị trí thuận tiện nào; ghi nhớ vị trí đã đặt.\n- **Hai cách nhận diện hướng:** Stock (phương pháp gốc) và Smart (phát hiện hướng được tinh chỉnh).\n- **Giao diện tùy chỉnh:** Chọn nút hình chữ nhật bo góc hoặc hình tròn.\n- **Hiệu ứng nền mờ:** Tự động (Auto), Tối (Dark) hoặc Sáng (Light).\n- **Kích thước nút:** Nhỏ, Vừa hoặc Lớn.\n- **Phản hồi rung:** Nhẹ, Mạnh, Ba nhịp; bản cập nhật còn hỗ trợ tắt rung.\n- **Danh sách loại trừ (Blacklist):** Ẩn nút nổi trong những ứng dụng bạn lựa chọn.\n- **Áp dụng nhanh:** Các điều chỉnh giao diện được áp dụng ngay mà không cần respring trong sử dụng thông thường.\n\n**Tương thích theo Havoc:** iOS 15.0–16.5.1, jailbreak Rootless.\n\n*Nguồn và tác giả gốc: [RotatePro – AnubisTweaks trên Havoc](https://havoc.app/package/rotatepro).*",
+          "markdown": "### Tiếng Việt\n\n1. Mở **Cài đặt → RotatePro**, bật **Enable Tweak**.\n2. Chọn chế độ **Manual** hoặc **Smart** và phương pháp nhận diện hướng màn hình.\n3. Trong **Manual**, cầm máy theo hướng mong muốn rồi **chạm nút nổi** để xoay và khóa theo hướng đó.\n4. Trong **Smart**, chạm nút nổi để tạm cho phép xoay; khi rời ứng dụng, thiết bị tự khóa hướng dọc.\n5. Tùy chỉnh kiểu nút, kích cỡ, hiệu ứng nền, phản hồi rung và các ứng dụng không hiển thị nút theo nhu cầu.\n\n---\n\n### English\n\n1. Open **Settings → RotatePro** and turn on **Enable Tweak**.\n2. Choose **Manual** or **Smart** operation mode and your preferred orientation-detection method.\n3. In **Manual**, hold the device at your desired angle and **tap the floating button** to rotate and lock the screen there.\n4. In **Smart**, tap the button to temporarily unlock rotation. Rotation locks back to portrait when you leave the app.\n5. Customize the button shape, size, blur, haptics, and excluded apps to suit your preferences.",
           "useSpacing": "true"
         },
         {
@@ -45,19 +80,7 @@
         },
         {
           "class": "DepictionHeaderView",
-          "title": "Cách sử dụng"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "1. Mở **Cài đặt → RotatePro**, bật **Enable Tweak**.\n2. Chọn chế độ **Manual** hoặc **Smart** và phương pháp nhận diện hướng màn hình.\n3. Trong **Manual**, cầm máy theo hướng mong muốn rồi **chạm nút nổi** để xoay và khóa theo hướng đó.\n4. Trong **Smart**, chạm nút nổi để tạm cho phép xoay; khi rời ứng dụng, thiết bị tự khóa hướng dọc.\n5. Tùy chỉnh kiểu nút, kích cỡ, hiệu ứng nền, phản hồi rung và các ứng dụng không hiển thị nút theo nhu cầu.",
-          "useSpacing": "true"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "Thông tin"
+          "title": "Thông tin · Information"
         },
         {
           "class": "DepictionTableTextView",
@@ -95,69 +118,7 @@
       "class": "DepictionStackView"
     },
     {
-      "tabname": "Description (EN)",
-      "views": [
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "# RotatePro\n\n**Take full control of your iPhone's screen orientation with a convenient floating button.** Rotate and lock the display to match how you're holding your device, or temporarily enable rotation inside an app without opening Control Center.\n\n### Two operation modes\n\n- **Manual:** Hold your device in portrait, landscape left, landscape right, or upside-down orientation, then tap the floating button. The screen rotates to match the device's physical position and **stays locked in that orientation** until you select another one.\n- **Smart:** Tap the floating button to temporarily unlock rotation in the current app. Rotation automatically locks back to portrait when you leave the app, switch apps, or open the app switcher.\n\n### Key features\n\n- **Draggable floating button:** Long-press and move it anywhere on screen; your preferred position is remembered.\n- **Orientation detection:** Choose Stock (system-based) or Smart (refined detection).\n- **Button shape:** Rounded rectangle or circle.\n- **Blur styles:** Auto, Dark, or Light.\n- **Button sizes:** Small, Medium, or Big.\n- **Haptic feedback:** Light, Heavy, or Triple, with an option to disable haptics in updated releases.\n- **App blacklist:** Completely hide the button in selected apps.\n- **Instant customization:** Appearance changes normally apply without a respring.\n\n**Official Havoc compatibility:** iOS 15.0–16.5.1, Rootless jailbreak.\n\n*Original developer and source: [RotatePro by AnubisTweaks on Havoc](https://havoc.app/package/rotatepro).*",
-          "useSpacing": "true"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "How to use"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "1. Open **Settings → RotatePro** and turn on **Enable Tweak**.\n2. Choose **Manual** or **Smart** operation mode and your preferred orientation-detection method.\n3. In **Manual**, hold the device at your desired angle and **tap the floating button** to rotate and lock the screen there.\n4. In **Smart**, tap the button to temporarily unlock rotation. Rotation locks back to portrait when you leave the app.\n5. Customize the button shape, size, blur, haptics, and excluded apps to suit your preferences.",
-          "useSpacing": "true"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "Package information"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "AnubisTweaks"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Category",
-          "text": "System utility · Screen rotation"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Havoc version",
-          "text": "1.0.4"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Jailbreak support",
-          "text": "Rootless (as listed by Havoc)"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Official compatibility",
-          "text": "iOS 15.0–16.5.1"
-        },
-        {
-          "class": "DepictionLabelView",
-          "text": "English depiction by BVN Repo · RotatePro by AnubisTweaks",
-          "textColor": "#999999",
-          "fontSize": "10.0",
-          "alignment": 1
-        }
-      ],
-      "class": "DepictionStackView"
-    },
-    {
-      "tabname": "Nhật ký thay đổi",
+      "tabname": "Thay đổi",
       "views": [
         {
           "class": "DepictionMarkdownView",
@@ -168,7 +129,7 @@
       "class": "DepictionStackView"
     },
     {
-      "tabname": "Liên hệ & Hỗ trợ",
+      "tabname": "Hỗ trợ",
       "views": [
         {
           "class": "DepictionTableButtonView",
