@@ -113,7 +113,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Phiên bản",
-          "text": "1.0.0"
+          "text": "1.0.4"
         },
         {
           "class": "DepictionTableTextView",
@@ -150,7 +150,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### Phiên bản 1.0.0\n\n- Phát hành AppGuard.\n- Khóa ứng dụng bằng Face ID, Touch ID và mật mã.\n- Hỗ trợ thao tác nhanh từ menu nhấn giữ icon.\n- Hỗ trợ đổi mật mã.\n- Làm mờ ứng dụng trong App Switcher.\n- Hỗ trợ đa ngôn ngữ.\n- Hỗ trợ Rootless và Roothide."
+          "markdown": "### Phiên bản 1.0.4\n\n- Sửa lỗi không khoá trên 1 số thiết bị\n\n- Thêm tính năng khoá khi vuốt dưới lên để vào ứng dụng\n\n ### Phiên bản 1.0.0\n\n- Phát hành AppGuard.\n- Khóa ứng dụng bằng Face ID, Touch ID và mật mã.\n- Hỗ trợ thao tác nhanh từ menu nhấn giữ icon.\n- Hỗ trợ đổi mật mã.\n- Làm mờ ứng dụng trong App Switcher.\n- Hỗ trợ đa ngôn ngữ.\n- Hỗ trợ Rootless và Roothide."
         }
       ],
       "class": "DepictionStackView"
