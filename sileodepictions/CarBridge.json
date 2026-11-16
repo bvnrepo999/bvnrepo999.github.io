@@ -64,7 +64,7 @@
 "title":"Nhà phát triển",
 "text":"leftyfl1p"
 },
-{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.15K" },
+{ "class":"DepictionTableTextView", "title":"Phiên bản", "text":"2.0.18k" },
 {
 "class":"DepictionTableTextView",
 "title":"Thể loại",
@@ -73,7 +73,7 @@
 {
 "class":"DepictionTableTextView",
 "title":"Ngày tải lên",
-"text":"21/11/2025"
+"text":"16/11/226"
 },
 {
 "class":"DepictionTableTextView",
@@ -83,11 +83,11 @@
 {
 "class":"DepictionTableTextView",
 "title":"Khả năng tương thích",
-"text":"iOS 13.0 đến 16.7.20"
+"text":"iOS 13.0 đến 17"
 },
 {
 "class":"DepictionLabelView",
-"text":"Copyright © 2025 by BVN999",
+"text":"Copyright © 2026 by BVN999",
 "textColor":"#999999",
 "fontSize":"10.0",
 "alignment":1
@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.0.15\n\n- Sửa lỗi trên iOs 13"
+"markdown":"### Phiên bản 2.0.18\n\n- Hỗ trợ ios 17 và sửa lỗi\n\n ### Phiên bản 2.0.15\n\n- Sửa lỗi trên iOs 13"
 }
 ],
 "class":"DepictionStackView"
