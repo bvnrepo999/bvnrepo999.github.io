@@ -1,0 +1,264 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#37A7D8",
+  "tabs": [
+    {
+      "tabname": "Mô tả",
+      "views": [
+        {
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionTabView",
+          "tabs": [
+            {
+              "class": "DepictionStackView",
+              "tabname": "Tiếng Việt",
+              "views": [
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://media.idownloadblog.com/wp-content/uploads/2024/04/TrollRecorder-UI.png",
+                      "accessibilityText": "TrollRecorder JB: giao diện điều khiển ghi âm trực tiếp trong cuộc gọi"
+                    },
+                    {
+                      "url": "https://media.idownloadblog.com/wp-content/uploads/2024/03/TrollRecorder-Prefs.jpg",
+                      "accessibilityText": "TrollRecorder: cài đặt ghi âm cuộc gọi, tự động ghi âm và kết hợp âm thanh"
+                    },
+                    {
+                      "url": "https://media.idownloadblog.com/wp-content/uploads/2024/03/TrollRecorder-UI.jpg",
+                      "accessibilityText": "TrollRecorder: quản lý bản ghi, lịch và tìm kiếm các cuộc gọi"
+                    },
+                    {
+                      "url": "https://raw.githubusercontent.com/Lessica/TrollRecorder/main/res/screenshot.png",
+                      "accessibilityText": "Ảnh tổng hợp giao diện TrollRecorder do dự án công bố"
+                    }
+                  ],
+                  "itemCornerRadius": 10,
+                  "itemSize": "{320,190}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "TrollRecorder JB"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**TrollRecorder JB** là công cụ ghi âm cuộc gọi dành cho iPhone đã jailbreak, giúp ghi lại âm thanh cuộc gọi, quản lý và phát lại các bản ghi ngay trên thiết bị. Đây là **bản jailbreak**, khác với gói TrollRecorder dành cho TrollStore.\n\n### Tính năng chính\n\n- **Ghi âm cuộc gọi:** Ghi các cuộc gọi đến và đi; hỗ trợ cuộc gọi điện thoại và FaceTime.\n- **Ghi âm tự động:** Cho phép thiết lập cơ chế ghi âm và điều kiện bắt đầu ghi.\n- **Ghi âm giọng nói và âm thanh hệ thống:** Các chế độ bổ sung để thu âm theo nhu cầu; một số tùy chọn yêu cầu giấy phép Pro.\n- **Quản lý bản ghi:** Xem danh sách, tìm kiếm, phát lại, chia sẻ hoặc xuất bản ghi.\n- **Tùy chỉnh âm thanh:** Điều chỉnh chất lượng, định dạng, trộn/kết hợp kênh âm thanh và xử lý sau ghi âm (tùy giấy phép).\n- **Bảo mật:** Có tùy chọn bảo vệ khi mở ứng dụng bằng Face ID hoặc Touch ID.\n- **Tiện ích nâng cao:** Có thể tích hợp Phím tắt, phụ đề trực tiếp và lưu trữ/đồng bộ đám mây ở các chế độ tương ứng (tùy phiên bản và giấy phép).\n\n### Khả năng tương thích\n\n- **iOS:** 15.0–18.3 (mức công bố trên Havoc cho bản jailbreak).\n- **Cài đặt:** Cần jailbreak; không cần cài TrollStore cho gói JB.\n- **Jailbreak:** Có bản Rootless; dự án liệt kê Dopamine, palera1n và RootHide. **RootHide Bootstrap** không được hỗ trợ theo tài liệu dự án.\n- **Phiên bản được ghi nhận:** 4.7.5-3677 (13/10/2026, theo lịch sử cập nhật kho Havoc do iOS Repo Updates ghi nhận).\n- **Nhà phát triển gốc:** 82flex và launchctl.\n\n*Lưu ý: TrollRecorder bản TrollStore và TrollRecorder JB không nên cài cùng lúc. Tính năng Pro cần giấy phép phù hợp. Hãy tuân thủ quy định pháp luật và quyền riêng tư khi ghi âm cuộc gọi.*\n\n*Nguồn sản phẩm: [TrollRecorder JB trên Havoc](https://havoc.app/package/trollrecorderjb). Ảnh minh họa giao diện lấy từ nguồn dự án TrollRecorder và bài giới thiệu TrollRecorder JB trên iDownloadBlog (không phải URL ảnh trực tiếp của Havoc).*",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Cách sử dụng"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "1. Thêm kho **Havoc** vào trình quản lý gói trên iPhone đã jailbreak.\n2. Tìm và cài đúng gói **TrollRecorder JB** (không phải bản TrollStore).\n3. Mở ứng dụng **TrollRecorder**, cấp các quyền cần thiết và kiểm tra chế độ ghi âm.\n4. Vào **Settings → Call Recording** để chọn ghi âm tự động, cảnh báo ghi âm và các tùy chọn liên quan.\n5. Thực hiện cuộc gọi thử với sự đồng ý của các bên, sau đó mở **Recordings** để phát lại và quản lý tệp ghi âm.\n6. Nếu có giấy phép Pro, cấu hình thêm định dạng, đồng bộ/backup và các tiện ích nâng cao theo nhu cầu.",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Thông tin"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Tác giả gốc",
+                  "text": "82flex · launchctl"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Thể loại",
+                  "text": "Ứng dụng · Ghi âm cuộc gọi"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Phiên bản tham khảo",
+                  "text": "4.7.5-3677 (13/10/2026)"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Kiểu jailbreak",
+                  "text": "Rootless · RootHide (jailbreak)"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Tương thích theo Havoc",
+                  "text": "iOS 15.0–18.3"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "Mô tả Việt hóa bởi BVN Repo · TrollRecorder JB của 82flex & launchctl",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "tabname": "English",
+              "views": [
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://media.idownloadblog.com/wp-content/uploads/2024/04/TrollRecorder-UI.png",
+                      "accessibilityText": "TrollRecorder JB: giao diện điều khiển ghi âm trực tiếp trong cuộc gọi"
+                    },
+                    {
+                      "url": "https://media.idownloadblog.com/wp-content/uploads/2024/03/TrollRecorder-Prefs.jpg",
+                      "accessibilityText": "TrollRecorder: cài đặt ghi âm cuộc gọi, tự động ghi âm và kết hợp âm thanh"
+                    },
+                    {
+                      "url": "https://media.idownloadblog.com/wp-content/uploads/2024/03/TrollRecorder-UI.jpg",
+                      "accessibilityText": "TrollRecorder: quản lý bản ghi, lịch và tìm kiếm các cuộc gọi"
+                    },
+                    {
+                      "url": "https://raw.githubusercontent.com/Lessica/TrollRecorder/main/res/screenshot.png",
+                      "accessibilityText": "Ảnh tổng hợp giao diện TrollRecorder do dự án công bố"
+                    }
+                  ],
+                  "itemCornerRadius": 10,
+                  "itemSize": "{320,190}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "TrollRecorder JB"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**TrollRecorder JB** is a call-recording utility for jailbroken iPhones. Record calls, organize audio files, search recordings, and play them back directly on your device. This is the **jailbreak edition**, separate from the TrollStore package.\n\n### Main features\n\n- **Call recording:** Capture incoming and outgoing phone calls, including supported FaceTime calls.\n- **Automatic recording:** Configure when and how recording starts.\n- **Voice memos and system audio:** Additional audio-capture capabilities; some options require a Pro license.\n- **Recording library:** Browse, search, play, share, and export saved recordings.\n- **Audio controls:** Configure quality, format, mixing, and post-processing where available under the applicable license.\n- **Privacy:** Optional Face ID or Touch ID protection for app access.\n- **Advanced tools:** Shortcuts, live captions, and cloud storage/sync may be available depending on version and license.\n\n### Compatibility\n\n- **iOS:** 15.0–18.3 (jailbreak-edition compatibility listed by Havoc).\n- **Installation:** A jailbreak is required; TrollStore is not required for the JB package.\n- **Jailbreak environments:** Rootless builds available; the project lists Dopamine, palera1n, and RootHide. **RootHide Bootstrap** is not supported per the project documentation.\n- **Recorded package version:** 4.7.5-3677 (October 13, 2026, based on Havoc updates tracked by iOS Repo Updates).\n- **Original developers:** 82flex and launchctl.\n\n*Important: Do not install the TrollStore and jailbreak editions simultaneously. Advanced Pro capabilities require a suitable license. Follow local call-recording and privacy laws.*\n\n*Official package: [TrollRecorder JB on Havoc](https://havoc.app/package/trollrecorderjb). Interface images come from the TrollRecorder project and an iDownloadBlog coverage article, not from direct Havoc image URLs.*",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "How to use"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "1. Add the **Havoc** repository to a package manager on your jailbroken iPhone.\n2. Find and install **TrollRecorder JB** (not the TrollStore edition).\n3. Open **TrollRecorder**, grant necessary permissions, and review recording settings.\n4. Under **Settings → Call Recording**, configure automatic recording and related warnings or options.\n5. Make a test call with the participants' consent, then review saved recordings in **Recordings**.\n6. If you have a Pro license, configure formats, cloud storage/backup, and other advanced features.",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Information"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Original developers",
+                  "text": "82flex · launchctl"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Category",
+                  "text": "Applications · Call recording"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Observed version",
+                  "text": "4.7.5-3677 (Oct 13, 2026)"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Jailbreak support",
+                  "text": "Rootless · RootHide (jailbreak)"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Havoc iOS compatibility",
+                  "text": "iOS 15.0–18.3"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "English depiction by BVN Repo · TrollRecorder JB by 82flex & launchctl",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### TrollRecorder JB 4.7.5-3677 — 13/10/2026\n\n- Bản cập nhật được ghi nhận trong danh sách cập nhật của kho Havoc.\n- **Chưa có bản ghi thay đổi chi tiết được xác minh cho build này.**\n\n---\n\n### TrollRecorder JB 4.7.5-3677 — October 13, 2026\n\n- Update recorded in the Havoc repository update feed.\n- **No verified detailed changelog is available for this exact build.**\n\n*Tham khảo: [Havoc – TrollRecorder JB](https://havoc.app/package/trollrecorderjb) · [Havoc update tracker](https://www.ios-repo-updates.com/repository/havoc/).*",
+          "useSpacing": "true"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram Admin",
+          "action": "https://t.me/bvnsupport"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Nhóm Telegram",
+          "action": "https://t.me/repobvn"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN999",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
