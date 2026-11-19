@@ -1,143 +1,258 @@
 {
-"minVersion":"0.4",
-"headerImage":"https://bvnrepo999.github.io/icon/sileo.png",
-"tintColor":"#5777B8",
-"tabs":[
-{
-"tabname":"Chi tiết",
-"views":[
-{
-"text": "Nhóm trò chuyện Tele BVN Repo",
-"action": "https://t.me/bvnrepo",
-"openExternal": 1,
-"class": "DepictionButtonView"
-},
-{
-"class":"DepictionScreenshotsView",
-"screenshots":[
-{
-"url":"https://bvnrepo999.github.io/infodeb/aerial/Screenshots/1.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/aerial/Screenshots/2.png",
-"accessibilityText":"Screenshot"
-},
-{
-"url":"https://bvnrepo999.github.io/infodeb/aerial/Screenshots/3.png",
-"accessibilityText":"Screenshot"
-}
-],
-"itemCornerRadius":0,
-"itemSize":"{185,400}"
-},
-{
-"markdown":"Aerial VH\n\n- Vui lòng cài thêm Tweak Aerial (gói Tiếng việt)\n\n- AerialStage Manager, được thiết kế lại cho iOSAerial mang lại trải nghiệm đa nhiệm thực sự cho iOS — một phiên bản tinh tế của Stage Manager với các cử chỉ trực quan và giao diện đẹp mắt\n\n- Bạn có thể bật/tắt Aerial theo cách\n\n- Nhấn giữ lâu vào biểu tượng ứng dụng chọn Open in Aerial\n\n- Tính năng:\n\n- Menu trên cùng ở giữa (...) Nhấn vào biểu tượng ... ở giữa trên cùng của Giai đoạn để mở menu điều khiển\n\n- Tùy chọn menu→ Mở ứng dụng — Mở ứng dụng như bình thường.\n\n- Phóng to — Mở rộng Giai đoạn ra toàn màn hình.\n\n- Thu nhỏ — Thu nhỏ vùng hiển thị thành biểu tượng nổi. Nhấn vào biểu tượng để mở lại nó\n\n- Chế độ cắt xén — Tự do cắt xén chế độ xem của ứng dụng — hoàn hảo để xem video hoặc tập trung vào nội dung\n\n- Đóng — Đóng Giai đoạn hiện tại.\n\n- Điều khiển sân khấu • Núm dưới cùng bên trái- bên phải — Kéo để điều chỉnh tỷ lệ khung hình của Sân khấu\n\n- Núm ở giữa phía dưới — Kéo để thay đổi kích thước toàn bộ Giai đoạn.\n\n- Aerial thay đổi cách bạn thực hiện đa nhiệm trên iOS — mượt mà, linh hoạt và trực quan đẹp mắt \n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Liên hệ tôi "
-},
-{
-"markdown":"[**Ủng hộ**](https://bvnsupport.github.io/donate/) - Nhấn vào đây nè\n\n\n",
-"useSpacing":"true",
-"class":"DepictionMarkdownView"
-},
-{
-"class":"DepictionSpacerView"
-},
-{
-"class":"DepictionHeaderView",
-"title":"Thông tin"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Tác giả",
-"text":"UZRA"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Thể loại",
-"text":"Tweaks"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Dung lượng",
-"text":"2061 kb "
-},
-{
-"class":"DepictionTableTextView",
-"title":"Ngày tải lên",
-"text":"15/1/2026"
-},
-{
-"class":"DepictionTableTextView",
-"title":"Khả năng tương thích",
-"text":"iOS 15.0 đến 17.7.10"
-},
-{
-"class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
-"textColor":"#999999",
-"fontSize":"10.0",
-"alignment":1
-}
-],
-"class":"DepictionStackView"
-},
-{
-"tabname":"Nhật ký thay đổi",
-"views":[
-{
-"class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 3.7k\n\n- Đã thêm hỗ trợ camera (Khởi động lại UserSpace trước khi sử dụng lần đầu)\n\n- Đã tối ưu hóa việc tải lại FBScene, giờ đây nó sẽ không cần tải lại mỗi khi thay đổi chế độ môi trường."
-}
-],
-"class":"DepictionStackView"
-},
-{
-"tabname":"L.Hệ & Hỗ trợ",
-"views":[
-{
-"class":"DepictionTableButtonView",
-"title": "Paypal",
-"action": "https://www.paypal.com/paypalme/repocydiaBVN/"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Mua cho tôi một ly cà phê",
-"action": "https://support-jailbreak.github.io/infodeb/DONATE/"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Telegram Admin",
-"action": "https://t.me/bvnsupport"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Nhóm Telegram",
-"action": "https://t.me/repobvn"
-},
-{
-"class":"DepictionTableButtonView",
-"title": "Fanpage Facebook",
-"action": "https://facebook.com/repocydiaBVN"
-},
-{
-"class":"DepictionLabelView",
-"text":"Copyright © 2025 by Biện Văn Nhật",
-"textColor":"#999999",
-"fontSize":"10.0",
-"alignment":1
-}
-],
-"class":"DepictionStackView"
-}
-],
-"class":"DepictionTabView"
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "tabname": "Mô tả",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionTabView",
+          "tabs": [
+            {
+              "class": "DepictionStackView",
+              "tabname": "Tiếng Việt",
+              "views": [
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://media.havoc.app/69458937a008e49d802748fa",
+                      "accessibilityText": "Ảnh chụp Aerial: các cửa sổ ứng dụng nổi và hoạt động đa nhiệm"
+                    },
+                    {
+                      "url": "https://media.havoc.app/6913433dd707490685941f1d",
+                      "accessibilityText": "Ảnh giới thiệu Aerial — Stage Manager, redesigned for iOS"
+                    }
+                  ],
+                  "itemCornerRadius": 8,
+                  "itemSize": "{185,400}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Aerial — Đa nhiệm cửa sổ trên iOS"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**Aerial — Stage Manager được thiết kế lại dành cho iPhone và iPad.** Tweak mang đến khả năng đa nhiệm bằng các cửa sổ ứng dụng có thể di chuyển, phóng to, thu nhỏ, chia đôi và thay đổi kích thước trực tiếp trên iOS.\n\n### Tính năng nổi bật\n\n- **Cửa sổ đa nhiệm:** Mở ứng dụng trong cửa sổ nổi, chuyển đổi giữa các công việc thuận tiện hơn.\n- **Split Stage:** Chạy hai ứng dụng cạnh nhau; phiên bản 5.1 còn thay tùy chọn chia 1/3 trên iPad bằng chế độ chia bốn.\n- **Thanh menu dấu ba chấm (•••):** Truy cập nhanh các thao tác Mở ứng dụng, Phóng to, Thu nhỏ, Split Stage, Cắt khung hình và Đóng.\n- **Thu nhỏ thông minh:** Biến cửa sổ thành biểu tượng nổi để mở lại; việc khóa màn hình cũng có thể tự động thu nhỏ Stage nhằm tránh cản trở nhập mật mã.\n- **Trim Mode:** Cắt bớt vùng hiển thị của ứng dụng để tập trung vào phần nội dung cần xem.\n- **Điều chỉnh kích thước:** Kéo các núm dưới bên trái/phải để đổi tỷ lệ khung hình, hoặc kéo núm chính giữa để thay đổi kích thước cửa sổ.\n- **Hỗ trợ xoay màn hình:** Có các cải tiến cho giao diện ngang/dọc và iPad.\n\n### Tương thích\n\n- **Phiên bản niêm yết trên Havoc:** 5.1 (22/10/2026).\n- **iOS theo mục thông tin gói trên Havoc:** 15.0–26.0.1; yêu cầu jailbreak.\n- **Kiểu jailbreak:** Rootless được Havoc liệt kê; RootHide không được xác nhận riêng trên trang.\n- **Tác giả gốc:** uzra.\n\n**Lưu ý:** Phần mô tả ở cuối trang Havoc vẫn ghi phạm vi iOS 15.0–17.7.10, khác với thông tin tương thích ở đầu trang (15.0–26.0.1). Hãy kiểm tra khả năng tương thích với jailbreak và phiên bản Aerial đang cài. Aerial có thể xung đột với những bản PullOver-Pro không chính thức hoặc các tweak dựa trên đó. Nếu bố cục một ứng dụng bị lỗi, thử bật **Disable flex resize** trong menu nhấn giữ biểu tượng ứng dụng.\n\n*Nội dung được biên soạn và Việt hóa bởi BVN Repo từ [trang Aerial trên Havoc](https://havoc.app/package/aerial); tác giả gốc: uzra.*",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Cách sử dụng"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "1. Nhấn giữ biểu tượng ứng dụng trên màn hình chính rồi chọn **Open in Aerial**; hoặc mở App Switcher rồi thực hiện cử chỉ **mở hai ngón (pinch out)** trên thẻ ứng dụng.\n2. Trong cửa sổ Aerial, chạm vào dấu **•••** ở phía trên để mở menu điều khiển.\n3. Chọn **Maximize**, **Minimize**, **Split Stage**, **Trim Mode** hoặc **Close** tùy nhu cầu.\n4. Kéo các tay nắm ở cạnh dưới để tùy chỉnh kích thước và tỷ lệ cửa sổ.\n5. Nếu ứng dụng hiển thị sai bố cục, thử **Disable flex resize** từ menu nhấn giữ biểu tượng của ứng dụng đó.",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Thông tin"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Tác giả gốc",
+                  "text": "uzra"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Thể loại",
+                  "text": "Tinh chỉnh · Đa nhiệm"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Phiên bản Havoc",
+                  "text": "5.1"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Dung lượng Havoc",
+                  "text": "11.06 MB"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "iOS trên Havoc",
+                  "text": "15.0–26.0.1"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Jailbreak",
+                  "text": "Rootless (theo Havoc)"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "Mô tả Việt hóa bởi BVN Repo · Aerial của uzra",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "tabname": "English",
+              "views": [
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://media.havoc.app/69458937a008e49d802748fa",
+                      "accessibilityText": "Aerial screenshot showing floating app windows and multitasking"
+                    },
+                    {
+                      "url": "https://media.havoc.app/6913433dd707490685941f1d",
+                      "accessibilityText": "Aerial promotional image — Stage Manager, redesigned for iOS"
+                    }
+                  ],
+                  "itemCornerRadius": 8,
+                  "itemSize": "{185,400}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Aerial — Windowed Multitasking for iOS"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**Aerial — Stage Manager, redesigned for iOS.** Aerial brings desktop-style multitasking to your iPhone or iPad with floating, resizable app windows and intuitive gestures.\n\n### Key features\n\n- **Floating app windows:** Open and manage multiple applications in flexible stages.\n- **Split Stage:** Run two apps side-by-side. Version 5.1 replaces the old one-third iPad split option with a four-way split.\n- **Central three-dot menu (•••):** Quickly open an app normally, maximize, minimize, split, trim, or close the stage.\n- **Smart minimization:** Collapse a window into a floating icon and tap to restore it. Aerial can also minimize a stage when locking the device to avoid interfering with passcode entry.\n- **Trim Mode:** Crop an app's visible area to focus on the content you need.\n- **Resize handles:** Use the lower left and right handles to adjust the aspect ratio and the bottom-center handle to resize the stage.\n- **Orientation improvements:** Updates address rotation and layout behavior, including on iPad.\n\n### Compatibility\n\n- **Listed Havoc version:** 5.1 (October 22, 2026).\n- **Havoc package compatibility field:** iOS 15.0–26.0.1, jailbreak required.\n- **Jailbreak architecture:** Rootless is explicitly listed; RootHide support is not separately confirmed by Havoc.\n- **Original developer:** uzra.\n\n**Note:** The older text at the bottom of the Havoc description still mentions iOS 15.0–17.7.10, while the main package metadata lists 15.0–26.0.1. Check compatibility with your installed jailbreak and Aerial version. Aerial conflicts with unofficial PullOver-Pro builds and related tweaks. If an app's layout breaks, try enabling **Disable flex resize** from its app icon's context menu.\n\n*English depiction prepared by BVN Repo from [Aerial on Havoc](https://havoc.app/package/aerial). Original developer: uzra.*",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "How to use"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "1. Long-press an app icon and choose **Open in Aerial**, or **pinch out** on an app in the App Switcher.\n2. Tap the **•••** button at the top of the floating window to access stage controls.\n3. Choose **Maximize**, **Minimize**, **Split Stage**, **Trim Mode**, or **Close**.\n4. Drag the bottom handles to adjust the window's size and aspect ratio.\n5. If an app displays an incorrect layout, try **Disable flex resize** in its app icon context menu.",
+                  "useSpacing": "true"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Information"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Original developer",
+                  "text": "uzra"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Category",
+                  "text": "Tweaks · Multitasking"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Havoc version",
+                  "text": "5.1"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Havoc download size",
+                  "text": "11.06 MB"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Havoc iOS range",
+                  "text": "15.0–26.0.1"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Jailbreak",
+                  "text": "Rootless (Havoc listing)"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "Depiction by BVN Repo · Aerial by uzra",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Phiên bản 5.1 — 22/10/2026\n\n- Sửa lỗi cửa sổ Stage phóng lớn thoáng qua khi đóng từ menu.\n- Sửa lỗi **Split Stage** quay lại bố cục cũ khi sử dụng màn hình ngang.\n- Trên iPad, thay tùy chọn chia 1/3 bằng bố cục chia bốn.\n- Cải thiện việc hiển thị và kích thước bàn phím khi xoay iPad (bản sửa thử nghiệm).\n\n### Phiên bản 5.0 — 18/08/2026\n\n- Bổ sung hỗ trợ iOS 26.\n\n### Phiên bản 4.6 — 08/06/2026\n\n- Điều chỉnh để xử lý lỗi kích thước cửa sổ.\n\n### Phiên bản 3.7 — 14/01/2026\n\n- Bổ sung hỗ trợ camera (cần khởi động lại UserSpace trước lần sử dụng đầu tiên).\n- Tối ưu quá trình tải lại FBScene khi thay đổi chế độ môi trường.\n\n---\n\n### Version 5.1 — October 22, 2026\n\n- Fixed the stage briefly enlarging when closing it through the menu.\n- Fixed Split Stage reverting in landscape.\n- Replaced the iPad one-third split option with a four-way split.\n- Attempted to improve keyboard display and sizing during iPad rotation.\n\n### Version 5.0 — August 18, 2026\n\n- Added iOS 26 support.\n\n### Version 4.6 — June 8, 2026\n\n- Attempted to fix stage sizing issues.\n\n### Version 3.7 — January 14, 2026\n\n- Added camera support (reboot UserSpace before first use).\n- Optimized FBScene reload when changing environment modes.\n\n*Source: [Aerial version history on Havoc](https://havoc.app/package/aerial/changes).*",
+          "useSpacing": "true"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram Admin",
+          "action": "https://t.me/bvnsupport"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Nhóm Telegram",
+          "action": "https://t.me/repobvn"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN Repo · Aerial © uzra",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
 }
