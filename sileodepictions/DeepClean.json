@@ -1,0 +1,256 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Mô tả",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionTabView",
+          "tabs": [
+            {
+              "class": "DepictionStackView",
+              "tabname": "Tiếng Việt",
+              "views": [
+                {
+                  "class": "DepictionImageView",
+                  "URL": "https://mjrepo.pages.dev/depictions/deepclean/icon.png",
+                  "width": 96,
+                  "height": 96,
+                  "cornerRadius": 19,
+                  "alignment": 1,
+                  "xPadding": 5
+                },
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://mjrepo.pages.dev/depictions/deepclean/before.jpg",
+                      "accessibilityText": "Trước khi dọn: iPhone 256 GB đang sử dụng 198,4 GB"
+                    },
+                    {
+                      "url": "https://mjrepo.pages.dev/depictions/deepclean/after.jpg",
+                      "accessibilityText": "Sau khi dọn: ảnh minh họa iPhone còn sử dụng 168,4 GB"
+                    }
+                  ],
+                  "itemCornerRadius": 8,
+                  "itemSize": "{185,400}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "DeepClean — Dọn dẹp bộ nhớ chuyên sâu"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**DeepClean** là công cụ hỗ trợ dọn dẹp dung lượng iPhone bằng cơ chế quét chuyên sâu có hỗ trợ AI theo mô tả của nhà phát triển. Ứng dụng tập trung phát hiện bộ nhớ đệm (cache), tệp tạm và dữ liệu còn sót lại mà các công cụ dọn dẹp thông thường có thể bỏ qua.\n\n### Tính năng nổi bật\n\n- **Quét chuyên sâu:** Phân tích dung lượng và tìm các tệp tạm, cache, dữ liệu dư thừa.\n- **Gợi ý giải phóng bộ nhớ:** Hỗ trợ nhận diện những vùng dữ liệu có khả năng dọn dẹp.\n- **Tối ưu không gian lưu trữ:** Có thể giảm dung lượng bị chiếm dụng, tùy lượng dữ liệu thực tế có thể xóa.\n- **Hỗ trợ cải thiện độ phản hồi:** Khi giải phóng được dung lượng, thiết bị có thể hoạt động thông thoáng hơn; hiệu quả không được bảo đảm.\n\n### Hình ảnh trước và sau\n\nTrang giới thiệu gốc đưa ra số liệu thử nghiệm do nhà phát triển công bố: **19 GB** trên một iPhone và **30 GB** trên một iPhone khác. Bộ ảnh minh họa thể hiện dung lượng đã sử dụng thay đổi từ **198,4 GB xuống 168,4 GB** trên thiết bị 256 GB. Đây **không phải** mức tiết kiệm được bảo đảm cho mọi thiết bị.\n\n### Tương thích theo trang gốc\n\n- **Phiên bản:** 0.4.1.\n- **Jailbreak:** Rootless.\n- **iOS:** 15–17.\n\n*Lưu ý: Khả năng dọn dẹp tùy thiết bị, phiên bản iOS và những dữ liệu có thể xóa. Nên sao lưu dữ liệu quan trọng trước khi thực hiện các thao tác dọn dẹp.*\n\n*Nguồn thông tin và hình ảnh: [DeepClean — MJ Repo](https://mjrepo.pages.dev/depictions/deepclean/).*",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Cách sử dụng"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "1. Cài đặt phiên bản DeepClean tương thích với thiết bị jailbreak.\n2. Mở công cụ để xem các tùy chọn quét và dọn dẹp do phiên bản đang cài cung cấp.\n3. Kiểm tra những dữ liệu được đề xuất dọn; sao lưu dữ liệu quan trọng trước khi xóa.\n4. Sau khi dọn, kiểm tra lại dung lượng tại **Cài đặt → Cài đặt chung → Dung lượng iPhone**.\n\n*Các nút và thao tác cụ thể có thể thay đổi theo phiên bản; trang nguồn không công bố hướng dẫn thao tác chi tiết.*",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Thông tin"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Phiên bản trên MJ Repo",
+                  "text": "0.4.1"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Hỗ trợ iOS",
+                  "text": "15–17"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Kiểu jailbreak",
+                  "text": "Rootless"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Thể loại",
+                  "text": "Dọn dẹp và quản lý dung lượng"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "Việt hóa bởi BVN Repo · Nội dung và ảnh: MJ Repo",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "tabname": "English",
+              "views": [
+                {
+                  "class": "DepictionImageView",
+                  "URL": "https://mjrepo.pages.dev/depictions/deepclean/icon.png",
+                  "width": 96,
+                  "height": 96,
+                  "cornerRadius": 19,
+                  "alignment": 1,
+                  "xPadding": 5
+                },
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://mjrepo.pages.dev/depictions/deepclean/before.jpg",
+                      "accessibilityText": "Before cleaning: iPhone 256 GB with 198.4 GB used"
+                    },
+                    {
+                      "url": "https://mjrepo.pages.dev/depictions/deepclean/after.jpg",
+                      "accessibilityText": "After cleaning: illustration shows 168.4 GB used"
+                    }
+                  ],
+                  "itemCornerRadius": 8,
+                  "itemSize": "{185,400}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "DeepClean — AI-Assisted Storage Cleaning"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**DeepClean** is an AI-assisted iPhone storage-cleaning tool, as described by its developer. It is designed to scan for accumulated caches, temporary files, and leftover storage data that conventional cleaning tools may overlook.\n\n### Key features\n\n- **Intelligent deep scan:** Looks for caches, temporary files, and accumulated leftovers.\n- **Storage cleanup assistance:** Helps identify potentially removable data.\n- **Reclaim available space:** Can free up storage depending on what is present and safely removable.\n- **Possible responsiveness improvement:** Extra free space may help device responsiveness, but results are not guaranteed.\n\n### Before and after\n\nThe original page reports developer-observed results of **19 GB** on one iPhone and **30 GB** on another. Its example images show used storage changing from **198.4 GB to 168.4 GB** on a 256 GB device. These numbers are **illustrative, not a guaranteed saving**.\n\n### Compatibility listed by the source\n\n- **Version:** 0.4.1.\n- **Jailbreak:** Rootless.\n- **iOS:** 15–17.\n\n*Note: Cleanup results depend on the device, iOS version, and which files can safely be removed. Back up important data before performing storage-cleanup operations.*\n\n*Information and images: [DeepClean — MJ Repo](https://mjrepo.pages.dev/depictions/deepclean/).*",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "How to use"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "1. Install a DeepClean version compatible with your jailbroken device.\n2. Open the tool and review the scan and cleanup controls available in your installed version.\n3. Review any suggested cleanup items and back up important data before deleting anything.\n4. Check available space afterward in **Settings → General → iPhone Storage**.\n\n*Exact screens and controls may differ by version; the source does not publish a detailed walkthrough.*",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Information"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "MJ Repo version",
+                  "text": "0.4.1"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Supported iOS",
+                  "text": "15–17"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Jailbreak type",
+                  "text": "Rootless"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Category",
+                  "text": "Storage cleaning and management"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "English depiction by BVN Repo · Source content and images: MJ Repo",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### DeepClean 0.4.1\n\nTrang MJ Repo ghi nhận phiên bản **0.4.1** nhưng **không cung cấp nhật ký thay đổi chi tiết**. Không có thông tin để xác nhận các thay đổi cụ thể của phiên bản này.\n\n---\n\n### DeepClean 0.4.1\n\nMJ Repo lists version **0.4.1** but **does not provide detailed release notes**. Specific changes for this release cannot be confirmed from the source.",
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram Admin",
+          "action": "https://t.me/bvnsupport"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Nhóm Telegram",
+          "action": "https://t.me/repobvn"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN Repo · Mô tả Việt hóa từ MJ Repo",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}

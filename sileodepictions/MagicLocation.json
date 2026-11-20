@@ -1,0 +1,256 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Mô tả",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionTabView",
+          "tabs": [
+            {
+              "class": "DepictionStackView",
+              "tabname": "Tiếng Việt",
+              "views": [
+                {
+                  "class": "DepictionImageView",
+                  "URL": "https://mjrepo.pages.dev/depictions/magiclocation/icon.png",
+                  "width": 96,
+                  "height": 96,
+                  "cornerRadius": 19,
+                  "alignment": 1,
+                  "xPadding": 5
+                },
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://mjrepo.pages.dev/depictions/magiclocation/screen-1.png",
+                      "accessibilityText": "MagicLocation: chọn vị trí trên bản đồ tại Illinois, Hoa Kỳ"
+                    },
+                    {
+                      "url": "https://mjrepo.pages.dev/depictions/magiclocation/screen-2.png",
+                      "accessibilityText": "MagicLocation: giả lập vị trí tại Doha, Qatar"
+                    }
+                  ],
+                  "itemCornerRadius": 8,
+                  "itemSize": "{185,400}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "MagicLocation — Giả lập vị trí toàn hệ thống"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**MagicLocation** là tweak giả lập vị trí GPS trên iPhone jailbreak. Theo trang giới thiệu của nhà phát triển, công cụ có thể thay đổi vị trí được báo cáo trên toàn hệ thống bằng cơ chế giả lập vị trí chuyên sâu.\n\n### Tính năng nổi bật\n\n- **Giả lập vị trí trên toàn hệ thống:** Chọn vị trí mới trên bản đồ để các ứng dụng và dịch vụ tương thích nhận vị trí mô phỏng.\n- **Điều chỉnh múi giờ tự động:** Nhà phát triển cho biết đồng hồ thiết bị có thể tự điều chỉnh theo múi giờ của vị trí đã chọn.\n- **Tùy chọn bắt đầu / dừng:** Ảnh minh họa cho thấy giao diện bản đồ, tọa độ và các nút Start / Stop.\n- **Tương thích với Choicy:** Trang gốc tuyên bố việc giả lập vẫn duy trì ngay cả khi tắt các tweak khác thông qua Choicy hoặc công cụ tương tự.\n- **Ứng dụng thử nghiệm:** Nhà phát triển cho biết đã thử với Snapchat và Find My (Tìm).\n\n### Tương thích theo trang gốc\n\n- **Phiên bản:** 0.2.0.\n- **Jailbreak:** Rootless và RootHide.\n- **iOS:** 16 và 17.\n\n*Lưu ý: Khả năng hoạt động tùy ứng dụng, thiết bị và cấu hình jailbreak. Các tuyên bố về tránh bị khóa tài khoản hoặc duy trì giả lập là thông tin của nhà phát triển, không phải bảo đảm; ứng dụng có thể phát hiện vị trí mô phỏng.*\n\n*Nguồn thông tin và hình ảnh: [MagicLocation — MJ Repo](https://mjrepo.pages.dev/depictions/magiclocation/).*",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Cách sử dụng"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "1. Cài đặt MagicLocation trên iPhone jailbreak tương thích.\n2. Mở giao diện bản đồ và chọn vị trí muốn mô phỏng.\n3. Xác nhận tọa độ đã chọn và sử dụng **Start** để bắt đầu giả lập (theo ảnh minh họa).\n4. Dùng **Stop** để dừng giả lập và kiểm tra lại vị trí thực tế khi cần.\n\n*Giao diện có thể khác nhau tùy phiên bản.*",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Thông tin"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Phiên bản trên MJ Repo",
+                  "text": "0.2.0"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Hỗ trợ iOS",
+                  "text": "16 và 17"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Kiểu jailbreak",
+                  "text": "Rootless & RootHide"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Thể loại",
+                  "text": "Giả lập vị trí GPS"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "Việt hóa bởi BVN Repo · Nội dung và ảnh: MJ Repo",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "tabname": "English",
+              "views": [
+                {
+                  "class": "DepictionImageView",
+                  "URL": "https://mjrepo.pages.dev/depictions/magiclocation/icon.png",
+                  "width": 96,
+                  "height": 96,
+                  "cornerRadius": 19,
+                  "alignment": 1,
+                  "xPadding": 5
+                },
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://mjrepo.pages.dev/depictions/magiclocation/screen-1.png",
+                      "accessibilityText": "MagicLocation map with a selected location in Illinois, USA"
+                    },
+                    {
+                      "url": "https://mjrepo.pages.dev/depictions/magiclocation/screen-2.png",
+                      "accessibilityText": "MagicLocation spoofing screen with a chosen location in Doha, Qatar"
+                    }
+                  ],
+                  "itemCornerRadius": 8,
+                  "itemSize": "{185,400}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "MagicLocation — System-Wide Location Spoofing"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**MagicLocation** is a GPS-location spoofing tweak for jailbroken iPhones. According to its developer, it uses deep location-spoofing techniques to substitute a chosen location across the system.\n\n### Key features\n\n- **System-wide location spoofing:** Choose a location on the map for compatible apps and services to receive simulated coordinates.\n- **Automatic time-zone adjustment:** The developer says the device clock can adjust to the selected location’s time zone.\n- **Start / Stop controls:** The published screenshots show a map, coordinates, and Start / Stop options.\n- **Choicy-related behavior:** The source claims spoofing can remain active even when other tweaks are disabled using Choicy or a similar tool.\n- **Developer testing:** The original listing reports successful tests with Snapchat and Find My.\n\n### Compatibility listed by the source\n\n- **Version:** 0.2.0.\n- **Jailbreak:** Rootless and RootHide.\n- **iOS:** 16 and 17.\n\n*Note: Behavior depends on the app, device, and jailbreak setup. The developer's statements about avoiding account bans or maintaining spoofing are not guarantees; apps may still detect simulated locations.*\n\n*Information and images: [MagicLocation — MJ Repo](https://mjrepo.pages.dev/depictions/magiclocation/).*",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "How to use"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "1. Install MagicLocation on a compatible jailbroken iPhone.\n2. Open the map and choose the location to simulate.\n3. Check the selected coordinates, then use **Start** to begin spoofing (as shown in the screenshots).\n4. Use **Stop** to disable spoofing and confirm your real location afterward if needed.\n\n*The interface may differ across releases.*",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Information"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "MJ Repo version",
+                  "text": "0.2.0"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Supported iOS",
+                  "text": "16 and 17"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Jailbreak type",
+                  "text": "Rootless & RootHide"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Category",
+                  "text": "GPS location spoofing"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "English depiction by BVN Repo · Source content and images: MJ Repo",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### MagicLocation 0.2.0\n\nTrang MJ Repo liệt kê phiên bản **0.2.0**, nhưng **không đăng nhật ký cập nhật chi tiết** cho phiên bản này.\n\n---\n\n### MagicLocation 0.2.0\n\nMJ Repo lists version **0.2.0**, but **does not publish a detailed changelog** for this release.",
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram Admin",
+          "action": "https://t.me/bvnsupport"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Nhóm Telegram",
+          "action": "https://t.me/repobvn"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN Repo · Mô tả Việt hóa từ MJ Repo",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}

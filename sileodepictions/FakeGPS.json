@@ -1,0 +1,240 @@
+{
+  "minVersion": "0.4",
+  "headerImage": "https://bvnrepo999.github.io/icon/sileo.png",
+  "tintColor": "#5777B8",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Mô tả",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "Nhóm trò chuyện Tele BVN Repo",
+          "action": "https://t.me/bvnrepo",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionTabView",
+          "tabs": [
+            {
+              "class": "DepictionStackView",
+              "tabname": "Tiếng Việt",
+              "views": [
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://mjrepo.pages.dev/depictions/fakegps/screenshot-1.jpg",
+                      "accessibilityText": "FakeGPS: chọn vị trí trên bản đồ và các tùy chọn bật/tắt giả lập"
+                    }
+                  ],
+                  "itemCornerRadius": 8,
+                  "itemSize": "{185,400}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "FakeGPS — Thay đổi vị trí GPS trên iOS"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**FakeGPS System-Wide** là tweak hỗ trợ mô phỏng vị trí GPS ở cấp hệ thống trên những phiên bản iOS và cấu hình jailbreak tương thích.\n\n### Tính năng nổi bật\n\n- **Chọn vị trí trên bản đồ:** Đặt điểm đến muốn mô phỏng bằng giao diện bản đồ.\n- **Bật / tắt giả lập:** Có thể kích hoạt hoặc vô hiệu hóa thay thế vị trí trên toàn hệ thống.\n- **Lưu và áp dụng vị trí:** Ảnh minh họa hiển thị tùy chọn **Save + Enable Spoofing** để lưu và bật giả lập.\n- **Quản lý vị trí yêu thích:** Ảnh minh họa có tùy chọn **Add to Favorites**.\n- **Ứng dụng tương thích:** Hiệu quả thay đổi tùy phiên bản iOS, Dịch vụ định vị và ứng dụng nhận vị trí.\n\n### Tương thích theo trang gốc\n\n- **Phiên bản:** 1.2.23.\n- **iOS mục tiêu:** 15–18.\n- **Jailbreak:** Rootless.\n- **Phụ thuộc gói được công bố:** `mobilesubstrate`, `firmware (>= 15.0)`, `ldid`.\n- **Lưu ý về iOS 18:** Trang gốc cho biết mức hỗ trợ iOS 18 **chưa được kiểm chứng độc lập**; cập nhật thông tin gói không tự làm thay đổi khả năng tương thích.\n\n*Việc thay đổi vị trí có thể không được mọi ứng dụng chấp nhận. Không nên sử dụng khi cần vị trí thực cho điều hướng, hỗ trợ khẩn cấp hoặc các dịch vụ quan trọng.*\n\n*Nguồn thông tin và hình ảnh: [FakeGPS — MJ Repo](https://mjrepo.pages.dev/depictions/fakegps/).*",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Cách sử dụng"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "1. Cài FakeGPS trên thiết bị jailbreak phù hợp.\n2. Trên bản đồ, chọn vị trí cần mô phỏng.\n3. Nhấn **Save + Enable Spoofing** để lưu và bật vị trí đã chọn.\n4. Khi muốn trở về vị trí thực, dùng **Disable Spoofing**.\n5. Có thể dùng **Add to Favorites** để đánh dấu vị trí nếu tính năng hoạt động trên phiên bản đang cài.",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Thông tin"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Phiên bản trên MJ Repo",
+                  "text": "1.2.23"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Hỗ trợ iOS",
+                  "text": "15–18 (18 chưa xác minh)"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Kiểu jailbreak",
+                  "text": "Rootless"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Tác giả được ghi trên trang",
+                  "text": "Mohamedjj"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Thể loại",
+                  "text": "Giả lập GPS toàn hệ thống"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "Việt hóa bởi BVN Repo · Nội dung và ảnh: MJ Repo",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "tabname": "English",
+              "views": [
+                {
+                  "class": "DepictionScreenshotsView",
+                  "screenshots": [
+                    {
+                      "url": "https://mjrepo.pages.dev/depictions/fakegps/screenshot-1.jpg",
+                      "accessibilityText": "FakeGPS map for selecting a destination with enable / disable controls"
+                    }
+                  ],
+                  "itemCornerRadius": 8,
+                  "itemSize": "{185,400}"
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 12
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "FakeGPS — System-Wide Simulated GPS Location"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "**FakeGPS System-Wide** is a jailbreak tweak designed to simulate a GPS location at system level on compatible iOS versions and devices.\n\n### Key features\n\n- **Pick a location on the map:** Choose the destination you want to simulate.\n- **Enable / disable spoofing:** Turn system-wide location substitution on or off.\n- **Save and enable:** The screenshot shows **Save + Enable Spoofing** for applying a chosen location.\n- **Favorites option:** The example interface includes **Add to Favorites**.\n- **Compatibility-dependent behavior:** Results vary with the installed iOS version, Location Services, and the apps consuming location data.\n\n### Compatibility listed by the source\n\n- **Version:** 1.2.23.\n- **Target iOS:** 15–18.\n- **Jailbreak:** Rootless.\n- **Published package dependencies:** `mobilesubstrate`, `firmware (>= 15.0)`, `ldid`.\n- **iOS 18 qualification:** The source explicitly states that iOS 18 compatibility is **not independently verified**; metadata changes alone cannot expand package compatibility.\n\n*Some apps may reject or detect simulated locations. Avoid using spoofing when real location is required for navigation, emergencies, or other critical services.*\n\n*Information and images: [FakeGPS — MJ Repo](https://mjrepo.pages.dev/depictions/fakegps/).*",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "How to use"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "1. Install FakeGPS on a compatible jailbroken device.\n2. Select the desired simulated location on the map.\n3. Tap **Save + Enable Spoofing** to apply the selected location.\n4. Use **Disable Spoofing** when you want to return to your real location.\n5. Optionally use **Add to Favorites** if that feature is available in your installed build.",
+                  "useSpacing": true
+                },
+                {
+                  "class": "DepictionSpacerView",
+                  "spacing": 10
+                },
+                {
+                  "class": "DepictionHeaderView",
+                  "title": "Information"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "MJ Repo version",
+                  "text": "1.2.23"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Supported iOS",
+                  "text": "15–18 (18 unverified)"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Jailbreak type",
+                  "text": "Rootless"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Developer credited by source",
+                  "text": "Mohamedjj"
+                },
+                {
+                  "class": "DepictionTableTextView",
+                  "title": "Category",
+                  "text": "System-wide GPS spoofing"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "English depiction by BVN Repo · Source content and images: MJ Repo",
+                  "textColor": "#999999",
+                  "fontSize": "10.0",
+                  "alignment": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Thay đổi",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### FakeGPS 1.2.23\n\nTrang MJ Repo cho biết phiên bản **1.2.23** nhưng **không liệt kê thay đổi cụ thể** của bản phát hành này.\n\n---\n\n### FakeGPS 1.2.23\n\nMJ Repo identifies version **1.2.23** but **does not list specific changes** for this release.",
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Hỗ trợ",
+      "views": [
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Paypal",
+          "action": "https://www.paypal.com/paypalme/repocydiaBVN/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Mua cho tôi một ly cà phê",
+          "action": "https://support-jailbreak.github.io/infodeb/DONATE/"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram Admin",
+          "action": "https://t.me/bvnsupport"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Nhóm Telegram",
+          "action": "https://t.me/repobvn"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Fanpage Facebook",
+          "action": "https://facebook.com/repocydiaBVN"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Copyright © 2026 by BVN Repo · Mô tả Việt hóa từ MJ Repo",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}
