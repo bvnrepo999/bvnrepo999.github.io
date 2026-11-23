@@ -60,7 +60,7 @@
                 },
                 {
                   "class": "DepictionMarkdownView",
-                  "markdown": "1. Cài ZaloTool bằng gói phù hợp với môi trường jailbreak (Rootless/RootHide) và mở lại Zalo.\n2. Trong màn hình Tin nhắn, bấm **dấu + → ZaloTool**.\n3. Bật **Bật ZaloTool**, sau đó chọn từng nhóm tính năng và bật các công tắc mong muốn.\n4. Để lưu video, bật **Tải video Tường nhà**, mở video toàn màn hình và chọn **… → Tải video vào Ảnh**.\n5. Để xem tin thu hồi, bật **Xem tin nhắn đã thu hồi** rồi truy cập **Danh sách tin đã thu hồi**.\n6. Nếu sử dụng ghi âm, bật **Ghi âm cuộc gọi** và mở **Thư viện bản ghi** để phát lại/quản lý."
+                  "markdown": "1. Cài ZaloTool bằng gói phù hợp với môi trường jailbreak (Rootless/RootHide) và mở lại Zalo.\n2. Trong màn hình Tin nhắn, bấm **dấu + → ZaloTool**.\n3. Bật **Bật ZaloTool**, sau đó chọn từng nhóm tính năng và bật các công tắc mong muốn.\n4. Để lưu video, bật **Tải video Tường nhà**, mở video toàn màn hình và chọn **… → Tải video vào Ảnh**.\n5. Để xem tin thu hồi, bật **Xem tin nhắn đã thu hồi** rồi truy cập **Danh sách tin đã thu hồi**.\n6. Nếu sử dụng ghi âm, bật **Ghi âm cuộc gọi** và mở **Thư viện bản ghi** để phát lại/quản lý; bảo đảm đã có sự đồng ý của người tham gia."
                 },
                 {
                   "class": "DepictionSpacerView",
@@ -104,7 +104,7 @@
                   "class": "DepictionLabelView",
                   "text": "ZaloTool bởi BVN · Mô tả bởi BVN Repo",
                   "textColor": "#999999",
-                  "fontSize": "10.0",
+                  "fontSize": 10.0,
                   "alignment": 1
                 }
               ]
@@ -198,14 +198,15 @@
                   "class": "DepictionLabelView",
                   "text": "ZaloTool by BVN · Depiction by BVN Repo",
                   "textColor": "#999999",
-                  "fontSize": "10.0",
+                  "fontSize": 10.0,
                   "alignment": 1
                 }
               ]
             }
           ]
         }
-      ]
+      ],
+      "class": "DepictionStackView"
     },
     {
       "tabname": "Thay đổi",
@@ -214,7 +215,8 @@
           "class": "DepictionMarkdownView",
           "markdown": "### ZaloTool 1.0.2\n\n- Tinh chỉnh banner cài đặt, căn chỉnh bố cục và hiển thị sáng/tối.\n- Bổ sung thử nghiệm bật Original ở bộ chọn ảnh phía ứng dụng; không vượt giới hạn máy chủ.\n- Giữ tùy chọn lưu video Tường nhà, ảnh/Story và ưu tiên HD.\n- Duy trì các nhóm quyền riêng tư, tin thu hồi, ghi âm và tiện ích.\n\n### ZaloTool 1.0.1\n\n- Cập nhật điểm tích hợp menu dấu + cho Zalo 261102.1.\n- Cải thiện tải video Tường nhà và đồng bộ giao diện sáng/tối.\n- Điều chỉnh xử lý bộ lọc quảng bá, thao tác nhấn giữ và ghi âm sau khi bắt máy.\n\n---\n\n### ZaloTool 1.0.2 — English\n\n- Refined the settings banner and light/dark layout.\n- Added an experimental client-side Original-photo picker option; server restrictions still apply.\n- Preserved Timeline video downloading, photo/Story saving and HD preference.\n- Retained privacy, recall archive, recording and utility features.\n\n### ZaloTool 1.0.1 — English\n\n- Updated the '+' menu integration for Zalo 261102.1.\n- Improved Timeline video saving and light/dark theme synchronization.\n- Adjusted promotional filtering, long-press interactions and post-connect call recording."
         }
-      ]
+      ],
+      "class": "DepictionStackView"
     },
     {
       "tabname": "Hỗ trợ",
@@ -248,10 +250,11 @@
           "class": "DepictionLabelView",
           "text": "Copyright © 2026 by BVN",
           "textColor": "#999999",
-          "fontSize": "10.0",
+          "fontSize": 10.0,
           "alignment": 1
         }
-      ]
+      ],
+      "class": "DepictionStackView"
     }
   ],
   "class": "DepictionTabView"
