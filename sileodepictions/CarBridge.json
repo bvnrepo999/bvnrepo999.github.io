@@ -100,7 +100,7 @@
 "views":[
 {
 "class":"DepictionMarkdownView",
-"markdown":"### Phiên bản 2.1.0\n\n- Hỗ trợ ios 18 và sửa lỗi\n\n- Việc hỗ trợ phiên bản 18.0 và 18.3 chỉ mang tính lý thuyết, nếu bạn gặp bất kỳ vấn đề gì, hãy cho tôi biết trên kênh Discord của Havoc.\n\n- Cải thiện độ ổn định khi chuyển đổi ứng dụng\n\n ### Phiên bản 2.0.15\n\n- Sửa lỗi trên iOs 13"
+"markdown":"### Phiên bản 2.1.1\n\n- Thêm hỗ trợ ios 26\n\n ### Phiên bản 2.1.0\n\n- Hỗ trợ ios 18 và sửa lỗi\n\n- Việc hỗ trợ phiên bản 18.0 và 18.3 chỉ mang tính lý thuyết, nếu bạn gặp bất kỳ vấn đề gì, hãy cho tôi biết trên kênh Discord của Havoc.\n\n- Cải thiện độ ổn định khi chuyển đổi ứng dụng\n\n ### Phiên bản 2.0.15\n\n- Sửa lỗi trên iOs 13"
 }
 ],
 "class":"DepictionStackView"
